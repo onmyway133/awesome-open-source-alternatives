@@ -2,6 +2,8 @@
 
 A curated list of open source alternatives to proprietary software. All repos have 1k+ stars.
 
+![](images/banner.png)
+
 ## Backend & Infrastructure
 
 | Repo | Stars | Description | Alternative For |
@@ -20,6 +22,8 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) | ![Stars](https://img.shields.io/github/stars/kuzzleio/kuzzle?style=flat) | Backend for IoT and data-intensive apps | Firebase |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | ![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat) | Self-hosted PaaS for deploying apps and databases | Vercel, Netlify, Heroku |
 | [dokku/dokku](https://github.com/dokku/dokku) | ![Stars](https://img.shields.io/github/stars/dokku/dokku?style=flat) | Docker-powered PaaS for app deployment | Heroku |
+| [CapRover/CapRover](https://github.com/CapRover/CapRover) | ![Stars](https://img.shields.io/github/stars/CapRover/CapRover?style=flat) | PaaS with automatic HTTPS and Docker | Heroku |
+| [openfaas/faas](https://github.com/openfaas/faas) | ![Stars](https://img.shields.io/github/stars/openfaas/faas?style=flat) | Serverless functions on containers | AWS Lambda |
 | [minio/minio](https://github.com/minio/minio) | ![Stars](https://img.shields.io/github/stars/minio/minio?style=flat) | S3-compatible object storage server | Amazon S3 |
 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | ![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat) | Distributed file system for billions of files | Amazon S3 |
 | [Kong/kong](https://github.com/Kong/kong) | ![Stars](https://img.shields.io/github/stars/Kong/kong?style=flat) | Cloud-native API gateway and platform | AWS API Gateway |
@@ -205,8 +209,10 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | Repo | Stars | Description | Alternative For |
 |------|-------|-------------|-----------------|
 | [nextcloud/server](https://github.com/nextcloud/server) | ![Stars](https://img.shields.io/github/stars/nextcloud/server?style=flat) | Self-hosted cloud storage with collaboration | Dropbox, Google Drive |
+| [haiwen/seafile](https://github.com/haiwen/seafile) | ![Stars](https://img.shields.io/github/stars/haiwen/seafile?style=flat) | File sync and share with encryption | Dropbox |
 | [immich-app/immich](https://github.com/immich-app/immich) | ![Stars](https://img.shields.io/github/stars/immich-app/immich?style=flat) | Self-hosted photo and video backup with AI features | Google Photos |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | ![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat) | Remote desktop with self-hosted server option | TeamViewer, AnyDesk |
+| [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) | ![Stars](https://img.shields.io/github/stars/Ylianst/MeshCentral?style=flat) | Remote device management platform | TeamViewer |
 
 ## Marketing & Social Media
 
@@ -232,6 +238,8 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [tryghost/ghost](https://github.com/tryghost/ghost) | ![Stars](https://img.shields.io/github/stars/tryghost/ghost?style=flat) | Headless publishing platform for blogs and newsletters | Medium, Substack |
 | [btw-so/btw](https://github.com/btw-so/btw) | ![Stars](https://img.shields.io/github/stars/btw-so/btw?style=flat) | Personal website and blog builder | Medium |
 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | ![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat) | Modern open-source CRM | Salesforce, HubSpot |
+| [erxes/erxes](https://github.com/erxes/erxes) | ![Stars](https://img.shields.io/github/stars/erxes/erxes?style=flat) | Experience operating system for CRM | HubSpot |
+| [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | ![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=flat) | Customer data platform | Segment |
 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | ![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat) | Invoicing and billing platform | FreshBooks, QuickBooks |
 | [getlago/lago](https://github.com/getlago/lago) | ![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat) | Usage-based billing platform | Stripe Billing, Chargebee |
 
@@ -264,8 +272,11 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | Repo | Stars | Description | Alternative For |
 |------|-------|-------------|-----------------|
 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | ![Stars](https://img.shields.io/github/stars/mastodon/mastodon?style=flat) | Decentralized social network using ActivityPub | Twitter/X |
+| [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) | ![Stars](https://img.shields.io/github/stars/pixelfed/pixelfed?style=flat) | Decentralized photo sharing platform | Instagram |
+| [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) | ![Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=flat) | Decentralized video hosting with P2P | YouTube |
 | [bitwarden/clients](https://github.com/bitwarden/clients) | ![Stars](https://img.shields.io/github/stars/bitwarden/clients?style=flat) | Password manager with browser and desktop apps | 1Password, LastPass |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | ![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat) | Lightweight Bitwarden server implementation | 1Password, LastPass |
+| [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | ![Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc?style=flat) | Cross-platform password manager | 1Password, LastPass |
 | [Infisical/infisical](https://github.com/Infisical/infisical) | ![Stars](https://img.shields.io/github/stars/Infisical/infisical?style=flat) | Secret management platform for teams | HashiCorp Vault, Doppler |
 
 ## Documentation & Knowledge
@@ -308,6 +319,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | ![Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=flat) | Online document editing suite | Google Docs, Microsoft 365 |
 | [dream-num/univer](https://github.com/dream-num/univer) | ![Stars](https://img.shields.io/github/stars/dream-num/univer?style=flat) | Collaborative spreadsheets and docs framework | Google Sheets, Google Docs |
 | [ether/etherpad-lite](https://github.com/ether/etherpad-lite) | ![Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=flat) | Real-time collaborative document editing | Google Docs |
+| [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) | ![Stars](https://img.shields.io/github/stars/xwiki-labs/cryptpad?style=flat) | End-to-end encrypted collaborative editing | Google Docs |
 | [CollaboraOnline/online](https://github.com/CollaboraOnline/online) | ![Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=flat) | LibreOffice-based collaborative editing | Google Docs, Microsoft 365 |
 | [ciur/papermerge](https://github.com/ciur/papermerge) | ![Stars](https://img.shields.io/github/stars/ciur/papermerge?style=flat) | Document management with OCR | DocuWare |
 
