@@ -242,6 +242,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | ![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=flat) | Customer data platform | Segment |
 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | ![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat) | Invoicing and billing platform | FreshBooks, QuickBooks |
 | [getlago/lago](https://github.com/getlago/lago) | ![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat) | Usage-based billing platform | Stripe Billing, Chargebee |
+| [getbeton/inspector](https://github.com/getbeton/inspector) | ![Stars](https://img.shields.io/github/stars/getbeton/inspector?style=flat) | Revenue intelligence — scores accounts from PostHog product signals + CRM and routes the warmest leads to sales | Pocus, Common Room |
 
 ## Document Signing
 
