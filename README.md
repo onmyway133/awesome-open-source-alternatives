@@ -178,6 +178,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [standardnotes/app](https://github.com/standardnotes/app) | ![Stars](https://img.shields.io/github/stars/standardnotes/app?style=flat) | Encrypted notes app with longevity focus | Evernote, Apple Notes |
 | [zadam/trilium](https://github.com/zadam/trilium) | ![Stars](https://img.shields.io/github/stars/zadam/trilium?style=flat) | Hierarchical note-taking with knowledge base | Notion, Roam |
 | [ankitects/anki](https://github.com/ankitects/anki) | ![Stars](https://img.shields.io/github/stars/ankitects/anki?style=flat) | Intelligent flashcard learning | Quizlet |
+| [gilgold/tabox](https://github.com/gilgold/tabox) | ![Stars](https://img.shields.io/github/stars/gilgold/tabox?style=flat) | Browser extension to save tabs and tab groups into collections and restore sessions in one click | Workona, Toby, Session Buddy |
 | [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | ![Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=flat) | Handwriting and PDF annotation | Notability, GoodNotes |
 | [streetwriters/notesnook](https://github.com/streetwriters/notesnook) | ![Stars](https://img.shields.io/github/stars/streetwriters/notesnook?style=flat) | Privacy-focused encrypted notes | Evernote |
 | [wallabag/wallabag](https://github.com/wallabag/wallabag) | ![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat) | Save and read articles later | Pocket, Instapaper |
