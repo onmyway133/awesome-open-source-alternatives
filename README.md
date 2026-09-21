@@ -241,6 +241,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [erxes/erxes](https://github.com/erxes/erxes) | ![Stars](https://img.shields.io/github/stars/erxes/erxes?style=flat) | Experience operating system for CRM | HubSpot |
 | [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) | ![Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=flat) | Customer data platform | Segment |
 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | ![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat) | Invoicing and billing platform | FreshBooks, QuickBooks |
+| [braedonsaunders/openbooks](https://github.com/braedonsaunders/openbooks) | ![Stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat) | Mid-market open-source ERP with multi-entity, job costing, approvals, and full invoices/bills/inventory | NetSuite, Sage Intacct, QuickBooks Advanced |
 | [getlago/lago](https://github.com/getlago/lago) | ![Stars](https://img.shields.io/github/stars/getlago/lago?style=flat) | Usage-based billing platform | Stripe Billing, Chargebee |
 
 ## Document Signing
