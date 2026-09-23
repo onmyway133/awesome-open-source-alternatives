@@ -171,6 +171,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | Repo | Stars | Description | Alternative For |
 |------|-------|-------------|-----------------|
 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | ![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat) | AI workspace with kanban, docs, and databases | Notion |
+| [Noveum/orbit](https://github.com/Noveum/orbit) | ![Stars](https://img.shields.io/github/stars/Noveum/orbit?style=flat) | Realtime issues, boards, sprints, projects and docs with an OAuth MCP server | Linear, Jira, Asana |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | ![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=flat) | Knowledge base with docs, whiteboards, and databases | Notion, Miro |
 | [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) | ![Stars](https://img.shields.io/github/stars/Zettlr/Zettlr?style=flat) | Markdown editor for academics and writers | Notion, Obsidian |
 | [logseq/logseq](https://github.com/logseq/logseq) | ![Stars](https://img.shields.io/github/stars/logseq/logseq?style=flat) | Privacy-first knowledge management platform | Roam Research, Notion |
