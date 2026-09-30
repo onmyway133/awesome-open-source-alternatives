@@ -23,6 +23,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | ![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat) | Self-hosted PaaS for deploying apps and databases | Vercel, Netlify, Heroku |
 | [dokku/dokku](https://github.com/dokku/dokku) | ![Stars](https://img.shields.io/github/stars/dokku/dokku?style=flat) | Docker-powered PaaS for app deployment | Heroku |
 | [CapRover/CapRover](https://github.com/CapRover/CapRover) | ![Stars](https://img.shields.io/github/stars/CapRover/CapRover?style=flat) | PaaS with automatic HTTPS and Docker | Heroku |
+| [Peon-sh/Peon](https://github.com/Peon-sh/Peon) | ![Stars](https://img.shields.io/github/stars/Peon-sh/Peon?style=flat) | Self-hosted Docker PaaS with project RBAC, audit logs, and MCP | Vercel, Heroku, Coolify |
 | [openfaas/faas](https://github.com/openfaas/faas) | ![Stars](https://img.shields.io/github/stars/openfaas/faas?style=flat) | Serverless functions on containers | AWS Lambda |
 | [minio/minio](https://github.com/minio/minio) | ![Stars](https://img.shields.io/github/stars/minio/minio?style=flat) | S3-compatible object storage server | Amazon S3 |
 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | ![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat) | Distributed file system for billions of files | Amazon S3 |
