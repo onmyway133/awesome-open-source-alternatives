@@ -109,6 +109,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=flat) | Column-oriented OLAP database for analytics | Snowflake, BigQuery |
 | [trinodb/trino](https://github.com/trinodb/trino) | ![Stars](https://img.shields.io/github/stars/trinodb/trino?style=flat) | Distributed SQL query engine for big data | Snowflake, Databricks |
 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | ![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=flat) | Data integration and ETL platform | Fivetran |
+| [datazip-inc/olake](https://github.com/datazip-inc/olake) | ![Stars](https://img.shields.io/github/stars/datazip-inc/olake?style=flat) | Database and Kafka replication into Apache Iceberg | Fivetran, Airbyte |
 
 ## Analytics & Monitoring
 
