@@ -226,6 +226,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [postalserver/postal](https://github.com/postalserver/postal) | ![Stars](https://img.shields.io/github/stars/postalserver/postal?style=flat) | Mail delivery platform for transactional emails | SendGrid, Mailgun, Postmark |
 | [mettle/sendportal](https://github.com/mettle/sendportal) | ![Stars](https://img.shields.io/github/stars/mettle/sendportal?style=flat) | Self-hosted email marketing and newsletters | Mailchimp |
 | [pentacent/keila](https://github.com/pentacent/keila) | ![Stars](https://img.shields.io/github/stars/pentacent/keila?style=flat) | Newsletter tool with campaign management | Mailchimp, Sendinblue |
+| [caelum0x/scribase-mail-studio](https://github.com/caelum0x/scribase-mail-studio) | ![Stars](https://img.shields.io/github/stars/caelum0x/scribase-mail-studio?style=flat) | Self-hosted transactional + broadcast email API with a Resend-compatible SDK/REST surface | Resend, SendGrid, Postmark |
 
 ## E-Commerce & Business
 
