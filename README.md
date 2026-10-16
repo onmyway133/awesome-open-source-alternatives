@@ -262,6 +262,7 @@ A curated list of open source alternatives to proprietary software. All repos ha
 | [KDE/krita](https://github.com/KDE/krita) | ![Stars](https://img.shields.io/github/stars/KDE/krita?style=flat) | Digital painting and illustration | Photoshop, Procreate |
 | [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | ![Stars](https://img.shields.io/github/stars/Orama-Interactive/Pixelorama?style=flat) | 2D sprite editor for pixel art | Aseprite |
 | [GNOME/gimp](https://github.com/GNOME/gimp) | ![Stars](https://img.shields.io/github/stars/GNOME/gimp?style=flat) | Image manipulation program | Adobe Photoshop |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | ![Stars](https://img.shields.io/github/stars/storytold/artcraft?style=flat) | Open-source creative suite in Rust: image, vector, video, PDF tools | Adobe Photoshop, Adobe Illustrator |
 | [inkscape/inkscape](https://github.com/inkscape/inkscape) | ![Stars](https://img.shields.io/github/stars/inkscape/inkscape?style=flat) | Vector graphics editor | Adobe Illustrator |
 | [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) | ![Stars](https://img.shields.io/github/stars/opentoonz/opentoonz?style=flat) | 2D animation production software | Toon Boom |
 | [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) | ![Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=flat) | VFX compositing software | After Effects, Nuke |
