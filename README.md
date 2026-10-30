@@ -12,20 +12,20 @@ Know a great alternative that is missing? [Add it with a pull request](CONTRIBUT
 ## Contents
 
 - [Backend & Infrastructure](#backend--infrastructure) (35)
-- [Developer Tools](#developer-tools) (32)
+- [Developer Tools](#developer-tools) (33)
 - [AI & LLMs](#ai--llms) (8)
 - [Search & Data](#search--data) (8)
 - [Analytics & Monitoring](#analytics--monitoring) (25)
 - [Communication](#communication) (25)
-- [Productivity & Notes](#productivity--notes) (32)
+- [Productivity & Notes](#productivity--notes) (25)
 - [Files & Media](#files--media) (10)
 - [Marketing & Social](#marketing--social) (8)
 - [Business & E-Commerce](#business--e-commerce) (13)
 - [Design](#design) (12)
 - [Security & Privacy](#security--privacy) (8)
 - [Docs & Knowledge](#docs--knowledge) (14)
-- [Automation & Scraping](#automation--scraping) (4)
-- [Infrastructure as Code](#infrastructure-as-code) (4)
+- [Automation & Scraping](#automation--scraping) (9)
+- [Infrastructure as Code](#infrastructure-as-code) (5)
 - [More](#more) (3)
 
 ## Backend & Infrastructure
@@ -90,6 +90,7 @@ Git hosting, CI, code quality and API tools.
 | [Hasura](https://github.com/hasura/graphql-engine) · [website](https://hasura.io) | ⭐ 32k | Instant GraphQL APIs on databases | Custom backend |
 | [Budibase](https://github.com/Budibase/budibase) · [website](https://budibase.com) | ⭐ 28k | Build internal tools with low-code | Retool |
 | [react-admin](https://github.com/marmelab/react-admin) · [website](http://marmelab.com/react-admin) | ⭐ 27k | Frontend framework for building admin apps | Admin panels |
+| [Jenkins](https://github.com/jenkinsci/jenkins) · [website](https://www.jenkins.io) | ⭐ 27k | Automation server for CI/CD | CircleCI, GitHub Actions |
 | [Responsively](https://github.com/responsively-org/responsively-app) · [website](https://responsively.app) | ⭐ 26k | Browser for responsive web development | BrowserStack |
 | [GitLab](https://github.com/gitlabhq/gitlabhq) · [website](https://gitlab.com/) | ⭐ 25k | Complete DevOps platform with CI/CD | GitHub |
 | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) · [website](https://www.beekeeperstudio.io) | ⭐ 24k | Cross-platform SQL editor and database manager | DataGrip, DBeaver |
@@ -209,36 +210,29 @@ Notes, tasks, project management and scheduling.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [n8n](https://github.com/n8n-io/n8n) · [website](https://n8n.io/) | ⭐ 209k | Workflow automation with visual builder | Zapier, Make |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) · [website](https://appflowy.com) | ⭐ 78k | AI workspace with kanban, docs, and databases | Notion |
 | [Affine](https://github.com/toeverything/AFFiNE) · [website](https://affine.pro/) | ⭐ 74k | Knowledge base with docs, whiteboards, and databases | Notion, Miro |
 | [Plane](https://github.com/makeplane/plane) · [website](http://plane.so) | ⭐ 62k | Issue tracking with cycles and modules | Jira, Linear, Asana |
 | [Joplin](https://github.com/laurent22/joplin) · [website](https://joplinapp.org) | ⭐ 57k | Note-taking app with sync and encryption | Evernote, OneNote |
-| [Huginn](https://github.com/huginn/huginn) | ⭐ 50k | Automation agents that monitor and act on your behalf | IFTTT, Zapier |
 | [SiYuan](https://github.com/siyuan-note/siyuan) · [website](https://b3log.org/siyuan) | ⭐ 47k | Local-first personal knowledge management | Notion, Obsidian |
 | [Logseq](https://github.com/logseq/logseq) · [website](https://logseq.com) | ⭐ 45k | Privacy-first knowledge management platform | Roam Research, Notion |
 | [Outline](https://github.com/outline/outline) · [website](https://www.getoutline.com/) | ⭐ 41k | Team wiki and knowledge base | Notion, Confluence |
 | [Trilium](https://github.com/TriliumNext/Trilium) · [website](https://triliumnotes.org) | ⭐ 39k | Hierarchical note-taking with knowledge base | Notion, Roam |
 | [Anki](https://github.com/ankitects/anki) · [website](https://apps.ankiweb.net) | ⭐ 32k | Intelligent flashcard learning | Quizlet |
 | [Wiki.js](https://github.com/requarks/wiki) · [website](https://beta.js.wiki) | ⭐ 29k | Modern wiki engine with markdown support | Confluence |
-| [Jenkins](https://github.com/jenkinsci/jenkins) · [website](https://www.jenkins.io) | ⭐ 27k | Automation server for CI/CD | CircleCI, GitHub Actions |
 | [Focalboard](https://github.com/mattermost-community/focalboard) · [website](https://www.focalboard.com) | ⭐ 27k | Project and task management boards | Trello, Notion, Asana |
 | [Docmost](https://github.com/docmost/docmost) · [website](https://docmost.com) | ⭐ 22k | Collaborative wiki and documentation | Confluence, Notion |
-| [Netbox](https://github.com/netbox-community/netbox) · [website](https://netboxlabs.com/products/netbox/) | ⭐ 22k | Network automation and IPAM | SolarWinds IPAM |
 | [WeKan](https://github.com/wekan/wekan) · [website](https://wekan.fi) | ⭐ 21k | Kanban board for project management | Trello |
 | [BookStack](https://github.com/BookStackApp/BookStack) · [website](https://codeberg.org/bookstack/bookstack) | ⭐ 19k | Self-hosted wiki and documentation platform | Confluence, Notion |
 | [Xournal++](https://github.com/xournalpp/xournalpp) · [website](https://xournalpp.github.io) | ⭐ 16k | Handwriting and PDF annotation | Notability, GoodNotes |
 | [Notesnook](https://github.com/streetwriters/notesnook) · [website](https://notesnook.com/) | ⭐ 15k | Privacy-focused encrypted notes | Evernote |
-| [Automatisch](https://github.com/automatisch/automatisch) · [website](https://automatisch.io) | ⭐ 14k | Business automation platform | Zapier |
 | [Zettlr](https://github.com/Zettlr/Zettlr) · [website](https://www.zettlr.com) | ⭐ 14k | Markdown editor for academics and writers | Notion, Obsidian |
 | [wallabag](https://github.com/wallabag/wallabag) · [website](https://wallabag.org) | ⭐ 13k | Save and read articles later | Pocket, Instapaper |
 | [Planka](https://github.com/plankanban/planka) · [website](https://planka.app) | ⭐ 13k | Elegant kanban board for projects | Trello |
 | [Leantime](https://github.com/Leantime/leantime) · [website](https://leantime.io) | ⭐ 12k | Strategic project management for teams | Monday, Asana |
-| [Pipedream](https://github.com/PipedreamHQ/pipedream) · [website](https://pipedream.com) | ⭐ 12k | Workflow automation for developers | Zapier |
 | [Kanboard](https://github.com/kanboard/kanboard) · [website](https://kanboard.org) | ⭐ 9.9k | Minimalist Kanban project management | Trello |
 | [Dendron](https://github.com/dendronhq/dendron) · [website](https://wiki.dendron.so) | ⭐ 7.5k | Personal knowledge management in VS Code | Roam Research |
 | [Standard Notes](https://github.com/standardnotes/app) · [website](https://standardnotes.com) | ⭐ 6.7k | Encrypted notes app with longevity focus | Evernote, Apple Notes |
-| [StackStorm](https://github.com/StackStorm/st2) · [website](https://stackstorm.com/) | ⭐ 6.6k | Event-driven DevOps automation | Rundeck |
 | [Fider](https://github.com/getfider/fider) · [website](https://fider.io) | ⭐ 4.6k | Feature voting and feedback collection | Canny, UserVoice |
 | [Freeplane](https://github.com/freeplane/freeplane) · [website](https://www.freeplane.org) | ⭐ 4.4k | Mind mapping and knowledge management | MindMeister, XMind |
 
@@ -355,10 +349,15 @@ Workflow automation, browser automation and scraping.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
+| [n8n](https://github.com/n8n-io/n8n) · [website](https://n8n.io/) | ⭐ 209k | Workflow automation with visual builder | Zapier, Make |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) · [website](https://pptr.dev) | ⭐ 96k | Headless Chrome automation library | Selenium |
 | [Scrapy](https://github.com/scrapy/scrapy) · [website](https://scrapy.org) | ⭐ 65k | Fast web crawling framework | Apify |
+| [Huginn](https://github.com/huginn/huginn) | ⭐ 50k | Automation agents that monitor and act on your behalf | IFTTT, Zapier |
 | [Crawlee](https://github.com/apify/crawlee) · [website](https://crawlee.dev) | ⭐ 26k | Web scraping and browser automation library | Apify |
 | [Activepieces](https://github.com/activepieces/activepieces) · [website](https://www.activepieces.com) | ⭐ 25k | No-code automation tool with 200+ integrations | Zapier, Make |
+| [Automatisch](https://github.com/automatisch/automatisch) · [website](https://automatisch.io) | ⭐ 14k | Business automation platform | Zapier |
+| [Pipedream](https://github.com/PipedreamHQ/pipedream) · [website](https://pipedream.com) | ⭐ 12k | Workflow automation for developers | Zapier |
+| [StackStorm](https://github.com/StackStorm/st2) · [website](https://stackstorm.com/) | ⭐ 6.6k | Event-driven DevOps automation | Rundeck |
 
 ## Infrastructure as Code
 
@@ -369,6 +368,7 @@ Provisioning, orchestration and service meshes.
 | [Terraform](https://github.com/hashicorp/terraform) · [website](http://developer.hashicorp.com/terraform) | ⭐ 50k | Infrastructure provisioning with declarative config | Terraform Cloud |
 | [Istio](https://github.com/istio/istio) · [website](https://istio.io) | ⭐ 38k | Service mesh for microservices networking | AWS App Mesh |
 | [Pulumi](https://github.com/pulumi/pulumi) · [website](https://www.pulumi.com) | ⭐ 26k | Infrastructure as code using programming languages | Terraform Cloud |
+| [Netbox](https://github.com/netbox-community/netbox) · [website](https://netboxlabs.com/products/netbox/) | ⭐ 22k | Network automation and IPAM | SolarWinds IPAM |
 | [Linkerd](https://github.com/linkerd/linkerd2) · [website](https://linkerd.io) | ⭐ 12k | Ultralight service mesh for Kubernetes | AWS App Mesh |
 
 ## More

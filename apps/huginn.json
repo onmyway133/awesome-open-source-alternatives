@@ -2,7 +2,7 @@
   "name": "Huginn",
   "repo": "huginn/huginn",
   "description": "Automation agents that monitor and act on your behalf",
-  "category": "productivity",
+  "category": "automation",
   "alternativeTo": [
     "IFTTT",
     "Zapier"

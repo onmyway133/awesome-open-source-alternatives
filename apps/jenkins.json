@@ -2,7 +2,7 @@
   "name": "Jenkins",
   "repo": "jenkinsci/jenkins",
   "description": "Automation server for CI/CD",
-  "category": "productivity",
+  "category": "developer-tools",
   "alternativeTo": [
     "CircleCI",
     "GitHub Actions"

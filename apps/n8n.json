@@ -2,7 +2,7 @@
   "name": "n8n",
   "repo": "n8n-io/n8n",
   "description": "Workflow automation with visual builder",
-  "category": "productivity",
+  "category": "automation",
   "alternativeTo": [
     "Zapier",
     "Make"

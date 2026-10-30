@@ -2,7 +2,7 @@
   "name": "Pipedream",
   "repo": "PipedreamHQ/pipedream",
   "description": "Workflow automation for developers",
-  "category": "productivity",
+  "category": "automation",
   "alternativeTo": [
     "Zapier"
   ],

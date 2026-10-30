@@ -2,7 +2,7 @@
   "name": "Netbox",
   "repo": "netbox-community/netbox",
   "description": "Network automation and IPAM",
-  "category": "productivity",
+  "category": "infrastructure",
   "alternativeTo": [
     "SolarWinds IPAM"
   ],

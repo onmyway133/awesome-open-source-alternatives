@@ -2,7 +2,7 @@
   "name": "StackStorm",
   "repo": "StackStorm/st2",
   "description": "Event-driven DevOps automation",
-  "category": "productivity",
+  "category": "automation",
   "alternativeTo": [
     "Rundeck"
   ],
