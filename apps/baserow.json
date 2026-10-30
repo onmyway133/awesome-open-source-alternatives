@@ -7,5 +7,6 @@
     "Airtable"
   ],
   "homepage": "https://baserow.io",
+  "icon": "https://github.com/baserow.png?size=256",
   "stars": 6245
 }

@@ -8,5 +8,6 @@
     "OpenAI API"
   ],
   "homepage": "https://ollama.com",
+  "icon": "https://github.com/ollama.png?size=256",
   "stars": 185367
 }

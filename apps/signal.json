@@ -8,5 +8,6 @@
     "Telegram"
   ],
   "homepage": "https://signal.org",
+  "icon": "https://github.com/signalapp.png?size=256",
   "stars": 29559
 }

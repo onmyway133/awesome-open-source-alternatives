@@ -7,5 +7,6 @@
     "Twitter/X"
   ],
   "homepage": "https://joinmastodon.org",
+  "icon": "https://github.com/mastodon.png?size=256",
   "stars": 50465
 }

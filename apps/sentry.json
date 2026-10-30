@@ -8,5 +8,6 @@
     "New Relic"
   ],
   "homepage": "https://sentry.io",
+  "icon": "https://github.com/getsentry.png?size=256",
   "stars": 45682
 }

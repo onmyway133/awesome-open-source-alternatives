@@ -8,5 +8,6 @@
     "QuickBooks"
   ],
   "homepage": "https://invoiceninja.com",
+  "icon": "https://github.com/invoiceninja.png?size=256",
   "stars": 10403
 }

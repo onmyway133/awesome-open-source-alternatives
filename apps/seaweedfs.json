@@ -7,5 +7,6 @@
     "Amazon S3"
   ],
   "homepage": "https://seaweedfs.com",
+  "icon": "https://github.com/seaweedfs.png?size=256",
   "stars": 35830
 }

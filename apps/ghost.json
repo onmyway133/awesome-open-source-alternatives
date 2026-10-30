@@ -8,5 +8,6 @@
     "Substack"
   ],
   "homepage": "https://ghost.org",
+  "icon": "https://github.com/TryGhost.png?size=256",
   "stars": 55637
 }

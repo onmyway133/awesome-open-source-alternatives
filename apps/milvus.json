@@ -7,5 +7,6 @@
     "Pinecone"
   ],
   "homepage": "https://milvus.io",
+  "icon": "https://github.com/milvus-io.png?size=256",
   "stars": 46537
 }

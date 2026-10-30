@@ -8,5 +8,6 @@
     "GitLab"
   ],
   "homepage": "https://gogs.io",
+  "icon": "https://github.com/gogs.png?size=256",
   "stars": 47914
 }

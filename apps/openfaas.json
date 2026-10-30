@@ -7,5 +7,6 @@
     "AWS Lambda"
   ],
   "homepage": "https://www.openfaas.com",
+  "icon": "https://github.com/openfaas.png?size=256",
   "stars": 26253
 }

@@ -7,5 +7,6 @@
     "GitBook"
   ],
   "homepage": "https://vuepress.vuejs.org",
+  "icon": "https://github.com/vuejs.png?size=256",
   "stars": 22713
 }

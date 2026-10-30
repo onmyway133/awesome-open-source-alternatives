@@ -7,5 +7,6 @@
     "Fivetran"
   ],
   "homepage": "https://airbyte.com",
+  "icon": "https://github.com/airbytehq.png?size=256",
   "stars": 22291
 }

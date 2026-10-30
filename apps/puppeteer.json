@@ -7,5 +7,6 @@
     "Selenium"
   ],
   "homepage": "https://pptr.dev",
+  "icon": "https://github.com/puppeteer.png?size=256",
   "stars": 95771
 }

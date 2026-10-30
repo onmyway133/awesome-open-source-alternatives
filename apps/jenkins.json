@@ -8,5 +8,6 @@
     "GitHub Actions"
   ],
   "homepage": "https://www.jenkins.io",
+  "icon": "https://github.com/jenkinsci.png?size=256",
   "stars": 26707
 }

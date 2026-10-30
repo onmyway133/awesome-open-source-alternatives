@@ -8,5 +8,6 @@
     "Mixpanel"
   ],
   "homepage": "https://posthog.com",
+  "icon": "https://github.com/PostHog.png?size=256",
   "stars": 40524
 }

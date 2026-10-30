@@ -7,5 +7,6 @@
     "Terraform Cloud"
   ],
   "homepage": "https://www.pulumi.com",
+  "icon": "https://github.com/pulumi.png?size=256",
   "stars": 25837
 }

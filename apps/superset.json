@@ -8,5 +8,6 @@
     "Looker"
   ],
   "homepage": "https://superset.apache.org/",
+  "icon": "https://github.com/apache.png?size=256",
   "stars": 75371
 }

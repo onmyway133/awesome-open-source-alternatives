@@ -8,5 +8,6 @@
     "Auth0"
   ],
   "homepage": "https://www.keycloak.org",
+  "icon": "https://github.com/keycloak.png?size=256",
   "stars": 37615
 }

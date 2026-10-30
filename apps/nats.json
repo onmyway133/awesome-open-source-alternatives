@@ -8,5 +8,6 @@
     "Pub/Sub"
   ],
   "homepage": "https://nats.io",
+  "icon": "https://github.com/nats-io.png?size=256",
   "stars": 20970
 }

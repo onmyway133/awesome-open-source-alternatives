@@ -17,14 +17,14 @@ Know a great alternative that is missing? [Add it with a pull request](CONTRIBUT
 - [Search & Data](#search--data) (8)
 - [Analytics & Monitoring](#analytics--monitoring) (25)
 - [Communication](#communication) (25)
-- [Productivity & Notes](#productivity--notes) (33)
+- [Productivity & Notes](#productivity--notes) (32)
 - [Files & Media](#files--media) (10)
 - [Marketing & Social](#marketing--social) (8)
 - [Business & E-Commerce](#business--e-commerce) (13)
 - [Design](#design) (12)
 - [Security & Privacy](#security--privacy) (8)
 - [Docs & Knowledge](#docs--knowledge) (14)
-- [Automation & Scraping](#automation--scraping) (3)
+- [Automation & Scraping](#automation--scraping) (4)
 - [Infrastructure as Code](#infrastructure-as-code) (4)
 - [More](#more) (3)
 
@@ -223,7 +223,6 @@ Notes, tasks, project management and scheduling.
 | [Wiki.js](https://github.com/requarks/wiki) · [website](https://beta.js.wiki) | ⭐ 29k | Modern wiki engine with markdown support | Confluence |
 | [Jenkins](https://github.com/jenkinsci/jenkins) · [website](https://www.jenkins.io) | ⭐ 27k | Automation server for CI/CD | CircleCI, GitHub Actions |
 | [Focalboard](https://github.com/mattermost-community/focalboard) · [website](https://www.focalboard.com) | ⭐ 27k | Project and task management boards | Trello, Notion, Asana |
-| [Activepieces](https://github.com/activepieces/activepieces) · [website](https://www.activepieces.com) | ⭐ 25k | No-code automation tool with 200+ integrations | Zapier, Make |
 | [Docmost](https://github.com/docmost/docmost) · [website](https://docmost.com) | ⭐ 22k | Collaborative wiki and documentation | Confluence, Notion |
 | [Netbox](https://github.com/netbox-community/netbox) · [website](https://netboxlabs.com/products/netbox/) | ⭐ 22k | Network automation and IPAM | SolarWinds IPAM |
 | [WeKan](https://github.com/wekan/wekan) · [website](https://wekan.fi) | ⭐ 21k | Kanban board for project management | Trello |
@@ -359,6 +358,7 @@ Workflow automation, browser automation and scraping.
 | [Puppeteer](https://github.com/puppeteer/puppeteer) · [website](https://pptr.dev) | ⭐ 96k | Headless Chrome automation library | Selenium |
 | [Scrapy](https://github.com/scrapy/scrapy) · [website](https://scrapy.org) | ⭐ 65k | Fast web crawling framework | Apify |
 | [Crawlee](https://github.com/apify/crawlee) · [website](https://crawlee.dev) | ⭐ 26k | Web scraping and browser automation library | Apify |
+| [Activepieces](https://github.com/activepieces/activepieces) · [website](https://www.activepieces.com) | ⭐ 25k | No-code automation tool with 200+ integrations | Zapier, Make |
 
 ## Infrastructure as Code
 

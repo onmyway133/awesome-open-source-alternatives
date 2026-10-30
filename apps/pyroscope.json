@@ -7,5 +7,6 @@
     "Datadog Profiler"
   ],
   "homepage": "https://grafana.com/oss/pyroscope/",
+  "icon": "https://github.com/grafana.png?size=256",
   "stars": 11714
 }

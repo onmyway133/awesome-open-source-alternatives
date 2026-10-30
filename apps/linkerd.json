@@ -7,5 +7,6 @@
     "AWS App Mesh"
   ],
   "homepage": "https://linkerd.io",
+  "icon": "https://github.com/linkerd.png?size=256",
   "stars": 11521
 }

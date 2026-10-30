@@ -8,5 +8,6 @@
     "New Relic"
   ],
   "homepage": "https://signoz.io",
+  "icon": "https://github.com/SigNoz.png?size=256",
   "stars": 32480
 }

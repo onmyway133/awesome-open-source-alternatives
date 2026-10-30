@@ -7,5 +7,6 @@
     "Admin panels"
   ],
   "homepage": "http://marmelab.com/react-admin",
+  "icon": "https://github.com/marmelab.png?size=256",
   "stars": 26976
 }

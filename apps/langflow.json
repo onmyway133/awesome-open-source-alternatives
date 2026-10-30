@@ -7,5 +7,6 @@
     "LangChain SaaS"
   ],
   "homepage": "http://www.langflow.org",
+  "icon": "https://github.com/langflow-ai.png?size=256",
   "stars": 156166
 }

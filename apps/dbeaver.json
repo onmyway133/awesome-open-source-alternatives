@@ -8,5 +8,6 @@
     "Navicat"
   ],
   "homepage": "https://dbeaver.io",
+  "icon": "https://github.com/dbeaver.png?size=256",
   "stars": 52251
 }

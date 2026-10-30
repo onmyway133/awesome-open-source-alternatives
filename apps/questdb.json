@@ -7,5 +7,6 @@
     "InfluxDB Cloud"
   ],
   "homepage": "https://questdb.com",
+  "icon": "https://github.com/questdb.png?size=256",
   "stars": 17486
 }

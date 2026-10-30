@@ -7,5 +7,6 @@
     "Pinecone"
   ],
   "homepage": "https://qdrant.tech",
+  "icon": "https://github.com/qdrant.png?size=256",
   "stars": 35338
 }

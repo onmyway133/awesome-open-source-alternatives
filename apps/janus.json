@@ -7,5 +7,6 @@
     "Twilio Video"
   ],
   "homepage": "https://janus.conf.meetecho.com",
+  "icon": "https://github.com/meetecho.png?size=256",
   "stars": 9198
 }

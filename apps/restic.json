@@ -8,5 +8,6 @@
     "Acronis"
   ],
   "homepage": "https://restic.net",
+  "icon": "https://github.com/restic.png?size=256",
   "stars": 36888
 }

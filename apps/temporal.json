@@ -8,5 +8,6 @@
     "AWS Step Functions"
   ],
   "homepage": "https://docs.temporal.io",
+  "icon": "https://github.com/temporalio.png?size=256",
   "stars": 24092
 }

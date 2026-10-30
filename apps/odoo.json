@@ -8,5 +8,6 @@
     "SAP"
   ],
   "homepage": "https://www.odoo.com",
+  "icon": "https://github.com/odoo.png?size=256",
   "stars": 55431
 }

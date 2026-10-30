@@ -7,5 +7,6 @@
     "npm Enterprise"
   ],
   "homepage": "https://www.verdaccio.org/",
+  "icon": "https://github.com/verdaccio.png?size=256",
   "stars": 17961
 }

@@ -8,5 +8,6 @@
     "Databricks"
   ],
   "homepage": "https://trino.io",
+  "icon": "https://github.com/trinodb.png?size=256",
   "stars": 13385
 }

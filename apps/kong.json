@@ -7,5 +7,6 @@
     "AWS API Gateway"
   ],
   "homepage": "https://konghq.com/install/",
+  "icon": "https://github.com/Kong.png?size=256",
   "stars": 44329
 }

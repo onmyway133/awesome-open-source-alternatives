@@ -7,5 +7,6 @@
     "DocuWare"
   ],
   "homepage": "http://docs.paperless-ngx.com/",
+  "icon": "https://github.com/paperless-ngx.png?size=256",
   "stars": 47386
 }

@@ -7,5 +7,6 @@
     "Confluent Cloud"
   ],
   "homepage": "https://redpanda.com",
+  "icon": "https://github.com/redpanda-data.png?size=256",
   "stars": 12649
 }

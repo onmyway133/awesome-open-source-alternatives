@@ -8,5 +8,6 @@
     "BigQuery"
   ],
   "homepage": "https://clickhouse.com",
+  "icon": "https://github.com/ClickHouse.png?size=256",
   "stars": 50678
 }

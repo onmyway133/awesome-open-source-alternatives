@@ -8,5 +8,6 @@
     "HubSpot"
   ],
   "homepage": "https://www.mautic.org",
+  "icon": "https://github.com/mautic.png?size=256",
   "stars": 10881
 }

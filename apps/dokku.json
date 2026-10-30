@@ -7,5 +7,6 @@
     "Heroku"
   ],
   "homepage": "https://dokku.com",
+  "icon": "https://github.com/dokku.png?size=256",
   "stars": 32214
 }
