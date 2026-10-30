@@ -1,0 +1,11 @@
+{
+  "name": "Meilisearch",
+  "repo": "meilisearch/meilisearch",
+  "description": "Fast search engine with typo tolerance and hybrid search",
+  "category": "search-data",
+  "alternativeTo": [
+    "Algolia"
+  ],
+  "homepage": "https://www.meilisearch.com",
+  "stars": 59719
+}

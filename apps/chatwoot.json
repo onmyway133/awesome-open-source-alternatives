@@ -1,0 +1,12 @@
+{
+  "name": "Chatwoot",
+  "repo": "chatwoot/chatwoot",
+  "description": "Omnichannel customer support platform",
+  "category": "communication",
+  "alternativeTo": [
+    "Intercom",
+    "Zendesk"
+  ],
+  "homepage": "https://www.chatwoot.com/help-center",
+  "stars": 38636
+}

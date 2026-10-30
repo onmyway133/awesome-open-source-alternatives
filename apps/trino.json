@@ -1,0 +1,12 @@
+{
+  "name": "Trino",
+  "repo": "trinodb/trino",
+  "description": "Distributed SQL query engine for big data",
+  "category": "search-data",
+  "alternativeTo": [
+    "Snowflake",
+    "Databricks"
+  ],
+  "homepage": "https://trino.io",
+  "stars": 13385
+}

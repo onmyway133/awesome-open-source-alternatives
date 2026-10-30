@@ -1,0 +1,12 @@
+{
+  "name": "Logto",
+  "repo": "logto-io/logto",
+  "description": "Auth infrastructure with sign-in experience",
+  "category": "backend",
+  "alternativeTo": [
+    "Auth0",
+    "Clerk"
+  ],
+  "homepage": "https://logto.io",
+  "stars": 14823
+}

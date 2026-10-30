@@ -1,0 +1,11 @@
+{
+  "name": "Kong",
+  "repo": "Kong/kong",
+  "description": "Cloud-native API gateway and platform",
+  "category": "backend",
+  "alternativeTo": [
+    "AWS API Gateway"
+  ],
+  "homepage": "https://konghq.com/install/",
+  "stars": 44329
+}

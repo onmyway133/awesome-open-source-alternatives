@@ -1,0 +1,12 @@
+{
+  "name": "Standard Notes",
+  "repo": "standardnotes/app",
+  "description": "Encrypted notes app with longevity focus",
+  "category": "productivity",
+  "alternativeTo": [
+    "Evernote",
+    "Apple Notes"
+  ],
+  "homepage": "https://standardnotes.com",
+  "stars": 6690
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PhotoPrism",
+  "repo": "photoprism/photoprism",
+  "description": "AI-powered photos app with browsing and sharing",
+  "category": "media",
+  "alternativeTo": [
+    "Google Photos"
+  ],
+  "homepage": "https://www.photoprism.app",
+  "stars": 40378
+}

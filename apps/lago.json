@@ -1,0 +1,12 @@
+{
+  "name": "Lago",
+  "repo": "getlago/lago",
+  "description": "Usage-based billing platform",
+  "category": "business",
+  "alternativeTo": [
+    "Stripe Billing",
+    "Chargebee"
+  ],
+  "homepage": "https://www.getlago.com",
+  "stars": 10728
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Rivet",
+  "repo": "rivet-dev/rivet",
+  "description": "Serverless platform for game backends",
+  "category": "backend",
+  "alternativeTo": [
+    "AWS Lambda"
+  ],
+  "homepage": "https://www.rivet.dev",
+  "stars": 6514
+}

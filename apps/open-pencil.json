@@ -1,0 +1,11 @@
+{
+  "name": "Open Pencil",
+  "repo": "open-pencil/open-pencil",
+  "description": "AI-native design editor with .fig file support",
+  "category": "design",
+  "alternativeTo": [
+    "Figma"
+  ],
+  "homepage": "https://openpencil.dev",
+  "stars": 9472
+}

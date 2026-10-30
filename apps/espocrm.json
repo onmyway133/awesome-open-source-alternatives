@@ -1,0 +1,12 @@
+{
+  "name": "EspoCRM",
+  "repo": "espocrm/espocrm",
+  "description": "CRM for managing relationships and projects",
+  "category": "backend",
+  "alternativeTo": [
+    "Airtable",
+    "Salesforce"
+  ],
+  "homepage": "https://www.espocrm.com",
+  "stars": 3536
+}

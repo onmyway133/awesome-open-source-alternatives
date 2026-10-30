@@ -1,0 +1,11 @@
+{
+  "name": "Milvus",
+  "repo": "milvus-io/milvus",
+  "description": "Vector database for AI applications",
+  "category": "search-data",
+  "alternativeTo": [
+    "Pinecone"
+  ],
+  "homepage": "https://milvus.io",
+  "stars": 46537
+}

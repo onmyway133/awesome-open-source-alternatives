@@ -1,0 +1,11 @@
+{
+  "name": "Linkerd",
+  "repo": "linkerd/linkerd2",
+  "description": "Ultralight service mesh for Kubernetes",
+  "category": "infrastructure",
+  "alternativeTo": [
+    "AWS App Mesh"
+  ],
+  "homepage": "https://linkerd.io",
+  "stars": 11521
+}

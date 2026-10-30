@@ -1,0 +1,11 @@
+{
+  "name": "Pixelfed",
+  "repo": "pixelfed/pixelfed",
+  "description": "Decentralized photo sharing platform",
+  "category": "security",
+  "alternativeTo": [
+    "Instagram"
+  ],
+  "homepage": "https://pixelfed.org",
+  "stars": 7131
+}

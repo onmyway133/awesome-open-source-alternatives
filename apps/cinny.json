@@ -1,0 +1,11 @@
+{
+  "name": "Cinny",
+  "repo": "cinnyapp/cinny",
+  "description": "Matrix chat client",
+  "category": "communication",
+  "alternativeTo": [
+    "Discord"
+  ],
+  "homepage": "https://cinny.in",
+  "stars": 3955
+}

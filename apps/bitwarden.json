@@ -1,0 +1,12 @@
+{
+  "name": "Bitwarden",
+  "repo": "bitwarden/clients",
+  "description": "Password manager with browser and desktop apps",
+  "category": "security",
+  "alternativeTo": [
+    "1Password",
+    "LastPass"
+  ],
+  "homepage": "https://bitwarden.com",
+  "stars": 14109
+}

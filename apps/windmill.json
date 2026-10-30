@@ -1,0 +1,12 @@
+{
+  "name": "Windmill",
+  "repo": "windmill-labs/windmill",
+  "description": "Developer platform for scripts and workflows",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool",
+    "Airplane"
+  ],
+  "homepage": "https://windmill.dev",
+  "stars": 18325
+}

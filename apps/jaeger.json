@@ -1,0 +1,12 @@
+{
+  "name": "Jaeger",
+  "repo": "jaegertracing/jaeger",
+  "description": "Distributed tracing platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog APM",
+    "New Relic"
+  ],
+  "homepage": "https://www.jaegertracing.io/",
+  "stars": 23359
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mautic",
+  "repo": "mautic/mautic",
+  "description": "Marketing automation platform",
+  "category": "marketing",
+  "alternativeTo": [
+    "Mailchimp",
+    "HubSpot"
+  ],
+  "homepage": "https://www.mautic.org",
+  "stars": 10881
+}

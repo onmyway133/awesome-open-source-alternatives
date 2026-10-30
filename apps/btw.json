@@ -1,0 +1,11 @@
+{
+  "name": "btw",
+  "repo": "btw-so/btw",
+  "description": "Personal website and blog builder",
+  "category": "business",
+  "alternativeTo": [
+    "Medium"
+  ],
+  "homepage": "https://btw.so",
+  "stars": 1254
+}

@@ -1,0 +1,12 @@
+{
+  "name": "GoAccess",
+  "repo": "allinurl/goaccess",
+  "description": "Real-time web log analyzer",
+  "category": "analytics",
+  "alternativeTo": [
+    "Splunk",
+    "Loggly"
+  ],
+  "homepage": "https://goaccess.io",
+  "stars": 21099
+}

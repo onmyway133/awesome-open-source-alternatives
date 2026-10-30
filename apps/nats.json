@@ -1,0 +1,12 @@
+{
+  "name": "NATS",
+  "repo": "nats-io/nats-server",
+  "description": "High-performance messaging system",
+  "category": "backend",
+  "alternativeTo": [
+    "Kafka",
+    "Pub/Sub"
+  ],
+  "homepage": "https://nats.io",
+  "stars": 20970
+}

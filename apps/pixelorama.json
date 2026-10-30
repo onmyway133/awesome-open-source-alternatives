@@ -1,0 +1,11 @@
+{
+  "name": "Pixelorama",
+  "repo": "Orama-Interactive/Pixelorama",
+  "description": "2D sprite editor for pixel art",
+  "category": "design",
+  "alternativeTo": [
+    "Aseprite"
+  ],
+  "homepage": "https://www.pixelorama.org/",
+  "stars": 10892
+}

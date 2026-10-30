@@ -1,0 +1,11 @@
+{
+  "name": "VuePress",
+  "repo": "vuejs/vuepress",
+  "description": "Vue-powered static site generator for docs",
+  "category": "documents",
+  "alternativeTo": [
+    "GitBook"
+  ],
+  "homepage": "https://vuepress.vuejs.org",
+  "stars": 22713
+}

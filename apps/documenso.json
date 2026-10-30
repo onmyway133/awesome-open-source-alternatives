@@ -1,0 +1,12 @@
+{
+  "name": "Documenso",
+  "repo": "documenso/documenso",
+  "description": "Digital document signing",
+  "category": "business",
+  "alternativeTo": [
+    "DocuSign",
+    "HelloSign"
+  ],
+  "homepage": "https://documenso.com",
+  "stars": 15612
+}

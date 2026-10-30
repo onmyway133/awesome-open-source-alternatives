@@ -1,0 +1,12 @@
+{
+  "name": "Community Skeleton",
+  "repo": "uvdesk/community-skeleton",
+  "description": "Helpdesk ticketing system",
+  "category": "communication",
+  "alternativeTo": [
+    "Zendesk",
+    "Freshdesk"
+  ],
+  "homepage": "https://www.uvdesk.com",
+  "stars": 19637
+}

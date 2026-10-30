@@ -1,0 +1,12 @@
+{
+  "name": "Beekeeper Studio",
+  "repo": "beekeeper-studio/beekeeper-studio",
+  "description": "Cross-platform SQL editor and database manager",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "DataGrip",
+    "DBeaver"
+  ],
+  "homepage": "https://www.beekeeperstudio.io",
+  "stars": 23819
+}

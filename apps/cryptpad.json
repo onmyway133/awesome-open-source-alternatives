@@ -1,0 +1,11 @@
+{
+  "name": "CryptPad",
+  "repo": "cryptpad/cryptpad",
+  "description": "End-to-end encrypted collaborative editing",
+  "category": "documents",
+  "alternativeTo": [
+    "Google Docs"
+  ],
+  "homepage": "https://cryptpad.org",
+  "stars": 8032
+}

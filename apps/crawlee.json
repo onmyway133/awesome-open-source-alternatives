@@ -1,0 +1,11 @@
+{
+  "name": "Crawlee",
+  "repo": "apify/crawlee",
+  "description": "Web scraping and browser automation library",
+  "category": "automation",
+  "alternativeTo": [
+    "Apify"
+  ],
+  "homepage": "https://crawlee.dev",
+  "stars": 26302
+}

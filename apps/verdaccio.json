@@ -1,0 +1,11 @@
+{
+  "name": "Verdaccio",
+  "repo": "verdaccio/verdaccio",
+  "description": "Lightweight private npm registry",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "npm Enterprise"
+  ],
+  "homepage": "https://www.verdaccio.org/",
+  "stars": 17961
+}

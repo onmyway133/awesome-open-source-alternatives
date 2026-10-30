@@ -1,0 +1,12 @@
+{
+  "name": "Novu",
+  "repo": "novuhq/novu",
+  "description": "Notification infrastructure for developers",
+  "category": "communication",
+  "alternativeTo": [
+    "Twilio",
+    "SendGrid"
+  ],
+  "homepage": "https://go.novu.co/github",
+  "stars": 40233
+}

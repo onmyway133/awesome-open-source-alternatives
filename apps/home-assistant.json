@@ -1,0 +1,13 @@
+{
+  "name": "Home Assistant",
+  "repo": "home-assistant/core",
+  "description": "Open source home automation",
+  "category": "other",
+  "alternativeTo": [
+    "Automation",
+    "Home"
+  ],
+  "homepage": "https://www.home-assistant.io/",
+  "icon": "https://avatars.githubusercontent.com/u/13844975?s=200&v=4",
+  "stars": 91852
+}

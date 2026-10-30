@@ -1,0 +1,12 @@
+{
+  "name": "Keila",
+  "repo": "pentacent/keila",
+  "description": "Newsletter tool with campaign management",
+  "category": "marketing",
+  "alternativeTo": [
+    "Mailchimp",
+    "Sendinblue"
+  ],
+  "homepage": "https://keila.io",
+  "stars": 2259
+}

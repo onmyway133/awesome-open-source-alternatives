@@ -1,0 +1,11 @@
+{
+  "name": "MeshCentral",
+  "repo": "Ylianst/MeshCentral",
+  "description": "Remote device management platform",
+  "category": "media",
+  "alternativeTo": [
+    "TeamViewer"
+  ],
+  "homepage": "https://meshcentral.com",
+  "stars": 7549
+}

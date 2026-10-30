@@ -1,0 +1,11 @@
+{
+  "name": "Neo4j",
+  "repo": "neo4j/neo4j",
+  "description": "Graph database platform",
+  "category": "backend",
+  "alternativeTo": [
+    "Neo4j Aura"
+  ],
+  "homepage": "http://neo4j.com",
+  "stars": 17378
+}

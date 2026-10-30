@@ -1,0 +1,12 @@
+{
+  "name": "CockroachDB",
+  "repo": "cockroachdb/cockroach",
+  "description": "Distributed SQL database built for scale",
+  "category": "backend",
+  "alternativeTo": [
+    "Amazon Aurora",
+    "CockroachDB Cloud"
+  ],
+  "homepage": "https://www.cockroachlabs.com",
+  "stars": 32596
+}

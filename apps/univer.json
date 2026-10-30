@@ -1,0 +1,12 @@
+{
+  "name": "Univer",
+  "repo": "dream-num/univer",
+  "description": "Collaborative spreadsheets and docs framework",
+  "category": "documents",
+  "alternativeTo": [
+    "Google Sheets",
+    "Google Docs"
+  ],
+  "homepage": "https://docs.univer.ai",
+  "stars": 22820
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SeaweedFS",
+  "repo": "seaweedfs/seaweedfs",
+  "description": "Distributed file system for billions of files",
+  "category": "backend",
+  "alternativeTo": [
+    "Amazon S3"
+  ],
+  "homepage": "https://seaweedfs.com",
+  "stars": 35830
+}

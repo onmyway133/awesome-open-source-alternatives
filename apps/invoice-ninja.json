@@ -1,0 +1,12 @@
+{
+  "name": "Invoice Ninja",
+  "repo": "invoiceninja/invoiceninja",
+  "description": "Invoicing and billing platform",
+  "category": "business",
+  "alternativeTo": [
+    "FreshBooks",
+    "QuickBooks"
+  ],
+  "homepage": "https://invoiceninja.com",
+  "stars": 10403
+}

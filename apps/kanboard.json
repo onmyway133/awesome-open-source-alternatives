@@ -1,0 +1,11 @@
+{
+  "name": "Kanboard",
+  "repo": "kanboard/kanboard",
+  "description": "Minimalist Kanban project management",
+  "category": "productivity",
+  "alternativeTo": [
+    "Trello"
+  ],
+  "homepage": "https://kanboard.org",
+  "stars": 9933
+}

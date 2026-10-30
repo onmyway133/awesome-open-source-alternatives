@@ -1,0 +1,13 @@
+{
+  "name": "n8n",
+  "repo": "n8n-io/n8n",
+  "description": "Workflow automation with visual builder",
+  "category": "productivity",
+  "alternativeTo": [
+    "Zapier",
+    "Make"
+  ],
+  "homepage": "https://n8n.io/",
+  "icon": "https://avatars.githubusercontent.com/u/45487711?s=200&v=4",
+  "stars": 209143
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flagsmith",
+  "repo": "Flagsmith/flagsmith",
+  "description": "Feature flags and remote config",
+  "category": "analytics",
+  "alternativeTo": [
+    "LaunchDarkly"
+  ],
+  "homepage": "https://www.flagsmith.com",
+  "stars": 6635
+}

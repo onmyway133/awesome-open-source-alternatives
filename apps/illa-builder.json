@@ -1,0 +1,10 @@
+{
+  "name": "ILLA Builder",
+  "repo": "illacloud/illa-builder",
+  "description": "Low-code platform for building apps",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "stars": 12336
+}

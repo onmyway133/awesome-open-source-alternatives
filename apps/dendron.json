@@ -1,0 +1,11 @@
+{
+  "name": "Dendron",
+  "repo": "dendronhq/dendron",
+  "description": "Personal knowledge management in VS Code",
+  "category": "productivity",
+  "alternativeTo": [
+    "Roam Research"
+  ],
+  "homepage": "https://wiki.dendron.so",
+  "stars": 7468
+}

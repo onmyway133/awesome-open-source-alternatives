@@ -1,0 +1,12 @@
+{
+  "name": "TiDB",
+  "repo": "pingcap/tidb",
+  "description": "Distributed SQL database compatible with MySQL",
+  "category": "backend",
+  "alternativeTo": [
+    "Amazon Aurora",
+    "CockroachDB Cloud"
+  ],
+  "homepage": "https://www.tidb.io/",
+  "stars": 40690
+}

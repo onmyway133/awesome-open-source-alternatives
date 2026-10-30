@@ -1,0 +1,12 @@
+{
+  "name": "Infisical",
+  "repo": "Infisical/infisical",
+  "description": "Secret management platform for teams",
+  "category": "security",
+  "alternativeTo": [
+    "HashiCorp Vault",
+    "Doppler"
+  ],
+  "homepage": "https://infisical.com",
+  "stars": 30172
+}

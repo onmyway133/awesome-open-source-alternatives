@@ -1,0 +1,12 @@
+{
+  "name": "Odoo",
+  "repo": "odoo/odoo",
+  "description": "Suite of business apps for CRM, sales, and accounting",
+  "category": "business",
+  "alternativeTo": [
+    "Salesforce",
+    "SAP"
+  ],
+  "homepage": "https://www.odoo.com",
+  "stars": 55431
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fusio",
+  "repo": "apioo/fusio",
+  "description": "API management and development platform",
+  "category": "backend",
+  "alternativeTo": [
+    "Apigee"
+  ],
+  "homepage": "https://www.fusio-project.org",
+  "stars": 2128
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hasura",
+  "repo": "hasura/graphql-engine",
+  "description": "Instant GraphQL APIs on databases",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Custom backend"
+  ],
+  "homepage": "https://hasura.io",
+  "stars": 32126
+}

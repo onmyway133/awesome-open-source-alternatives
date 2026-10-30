@@ -1,0 +1,11 @@
+{
+  "name": "ArangoDB",
+  "repo": "arangodb/arangodb",
+  "description": "Multi-model database for graphs and documents",
+  "category": "backend",
+  "alternativeTo": [
+    "MongoDB Atlas"
+  ],
+  "homepage": "https://www.arangodb.com",
+  "stars": 14290
+}

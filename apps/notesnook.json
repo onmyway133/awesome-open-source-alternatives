@@ -1,0 +1,11 @@
+{
+  "name": "Notesnook",
+  "repo": "streetwriters/notesnook",
+  "description": "Privacy-focused encrypted notes",
+  "category": "productivity",
+  "alternativeTo": [
+    "Evernote"
+  ],
+  "homepage": "https://notesnook.com/",
+  "stars": 14860
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ClearML",
+  "repo": "clearml/clearml",
+  "description": "MLOps suite for experiment tracking and automation",
+  "category": "ai",
+  "alternativeTo": [
+    "Weights & Biases"
+  ],
+  "homepage": "https://clear.ml/docs",
+  "stars": 6926
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Etherpad",
+  "repo": "ether/etherpad",
+  "description": "Real-time collaborative document editing",
+  "category": "documents",
+  "alternativeTo": [
+    "Google Docs"
+  ],
+  "homepage": "https://etherpad.org",
+  "stars": 18611
+}

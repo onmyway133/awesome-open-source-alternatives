@@ -1,0 +1,13 @@
+{
+  "name": "Strapi",
+  "repo": "strapi/strapi",
+  "description": "Headless CMS with customizable API and admin panel",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://strapi.io/",
+  "icon": "https://assets-global.website-files.com/6220c55c69733896bb8a4724/63f5db5969a827c27b89c710_15MSXynfRCDCpwMQ3ySbl_cl3eQxrE8Pi1ndPLSSKTY.png",
+  "screenshot": "https://raw.githubusercontent.com/strapi/strapi/main/public/assets/admin-demo.gif",
+  "stars": 73407
+}

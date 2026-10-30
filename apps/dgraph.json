@@ -1,0 +1,11 @@
+{
+  "name": "Dgraph",
+  "repo": "dgraph-io/dgraph",
+  "description": "Distributed graph database with GraphQL",
+  "category": "backend",
+  "alternativeTo": [
+    "Neo4j Aura"
+  ],
+  "homepage": "https://dgraph.io",
+  "stars": 21815
+}

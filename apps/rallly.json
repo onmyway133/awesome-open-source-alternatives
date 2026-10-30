@@ -1,0 +1,11 @@
+{
+  "name": "Rallly",
+  "repo": "lukevella/rallly",
+  "description": "Meeting poll and scheduling tool",
+  "category": "communication",
+  "alternativeTo": [
+    "Doodle"
+  ],
+  "homepage": "https://rallly.co",
+  "stars": 5333
+}

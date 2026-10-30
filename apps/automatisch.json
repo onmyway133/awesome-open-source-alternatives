@@ -1,0 +1,11 @@
+{
+  "name": "Automatisch",
+  "repo": "automatisch/automatisch",
+  "description": "Business automation platform",
+  "category": "productivity",
+  "alternativeTo": [
+    "Zapier"
+  ],
+  "homepage": "https://automatisch.io",
+  "stars": 14004
+}

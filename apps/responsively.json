@@ -1,0 +1,11 @@
+{
+  "name": "Responsively",
+  "repo": "responsively-org/responsively-app",
+  "description": "Browser for responsive web development",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "BrowserStack"
+  ],
+  "homepage": "https://responsively.app",
+  "stars": 25506
+}

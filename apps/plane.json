@@ -1,0 +1,13 @@
+{
+  "name": "Plane",
+  "repo": "makeplane/plane",
+  "description": "Issue tracking with cycles and modules",
+  "category": "productivity",
+  "alternativeTo": [
+    "Jira",
+    "Linear",
+    "Asana"
+  ],
+  "homepage": "http://plane.so",
+  "stars": 61743
+}

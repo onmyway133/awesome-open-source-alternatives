@@ -1,0 +1,11 @@
+{
+  "name": "Typesense",
+  "repo": "typesense/typesense",
+  "description": "Fast typo-tolerant search engine",
+  "category": "search-data",
+  "alternativeTo": [
+    "Algolia"
+  ],
+  "homepage": "https://typesense.org",
+  "stars": 27064
+}

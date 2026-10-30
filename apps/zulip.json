@@ -1,0 +1,12 @@
+{
+  "name": "Zulip",
+  "repo": "zulip/zulip",
+  "description": "Team chat with threaded conversations",
+  "category": "communication",
+  "alternativeTo": [
+    "Slack",
+    "Discord"
+  ],
+  "homepage": "https://zulip.com",
+  "stars": 26143
+}

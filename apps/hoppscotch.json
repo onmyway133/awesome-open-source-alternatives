@@ -1,0 +1,13 @@
+{
+  "name": "Hoppscotch",
+  "repo": "hoppscotch/hoppscotch",
+  "description": "API development ecosystem with REST and GraphQL support",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Postman"
+  ],
+  "homepage": "https://hoppscotch.io/",
+  "icon": "https://assets-global.website-files.com/6220c55c69733896bb8a4724/63f5be6926f4c055e24ecf07_MueIhTFxHMZim7RQY9cP0KhnkG7OWBnKiCJGMaupcTU.png",
+  "screenshot": "https://github.com/hoppscotch/hoppscotch/raw/main/packages/hoppscotch-common/public/images/banner-dark.png",
+  "stars": 80711
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ollama",
+  "repo": "ollama/ollama",
+  "description": "Run large language models locally with simple commands",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT",
+    "OpenAI API"
+  ],
+  "homepage": "https://ollama.com",
+  "stars": 185367
+}

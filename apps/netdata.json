@@ -1,0 +1,14 @@
+{
+  "name": "Netdata",
+  "repo": "netdata/netdata",
+  "description": "Monitor your servers, containers, and applications, in high-resolution and in real-time!",
+  "category": "analytics",
+  "alternativeTo": [
+    "Data",
+    "Log"
+  ],
+  "homepage": "https://www.netdata.cloud/",
+  "icon": "https://assets-global.website-files.com/6220c55c69733896bb8a4724/63f5be9dbf1f1b00ccc6f2d6_PTTvIwO0qH7D5x8nJ4cz8ZyEH98MJOu6-KoS6Y-Lb50.png",
+  "screenshot": "https://user-images.githubusercontent.com/2662304/271780463-691b7470-ec56-430c-8b81-0c9e49012679.png",
+  "stars": 81226
+}

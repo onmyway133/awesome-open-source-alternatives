@@ -1,0 +1,13 @@
+{
+  "name": "Focalboard",
+  "repo": "mattermost-community/focalboard",
+  "description": "Project and task management boards",
+  "category": "productivity",
+  "alternativeTo": [
+    "Trello",
+    "Notion",
+    "Asana"
+  ],
+  "homepage": "https://www.focalboard.com",
+  "stars": 26533
+}

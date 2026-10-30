@@ -1,0 +1,13 @@
+{
+  "name": "Aptabase",
+  "repo": "aptabase/aptabase",
+  "description": "Open Source Alternative to Firebase Analytics",
+  "category": "analytics",
+  "alternativeTo": [
+    "Analytics"
+  ],
+  "homepage": "https://aptabase.com/",
+  "icon": "https://avatars.githubusercontent.com/u/126899775?s=200&v=4",
+  "screenshot": "https://camo.githubusercontent.com/12d43c4026c841f3755c46bd339044e679f7023066fbf8940298663bb3021804/68747470733a2f2f61707461626173652e636f6d2f6f672e706e67",
+  "stars": 1862
+}

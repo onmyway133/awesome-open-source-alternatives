@@ -1,0 +1,11 @@
+{
+  "name": "YugabyteDB",
+  "repo": "yugabyte/yugabyte-db",
+  "description": "Distributed SQL database for global apps",
+  "category": "backend",
+  "alternativeTo": [
+    "Amazon Aurora"
+  ],
+  "homepage": "https://www.yugabyte.com",
+  "stars": 10640
+}

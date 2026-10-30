@@ -1,0 +1,11 @@
+{
+  "name": "Insomnia",
+  "repo": "Kong/insomnia",
+  "description": "Cross-platform API client for REST, GraphQL, and gRPC",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Postman"
+  ],
+  "homepage": "https://insomnia.rest",
+  "stars": 40105
+}

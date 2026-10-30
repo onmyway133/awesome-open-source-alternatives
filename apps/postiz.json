@@ -1,0 +1,12 @@
+{
+  "name": "Postiz",
+  "repo": "gitroomhq/postiz-app",
+  "description": "AI social media scheduling tool",
+  "category": "marketing",
+  "alternativeTo": [
+    "Buffer",
+    "Hypefury"
+  ],
+  "homepage": "https://postiz.com",
+  "stars": 40214
+}

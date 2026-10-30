@@ -1,0 +1,11 @@
+{
+  "name": "Open WebUI",
+  "repo": "open-webui/open-webui",
+  "description": "Self-hosted AI interface with RAG support",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT"
+  ],
+  "homepage": "https://openwebui.com",
+  "stars": 157270
+}

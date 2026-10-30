@@ -1,0 +1,11 @@
+{
+  "name": "Langflow",
+  "repo": "langflow-ai/langflow",
+  "description": "Visual platform for building AI agents and workflows",
+  "category": "ai",
+  "alternativeTo": [
+    "LangChain SaaS"
+  ],
+  "homepage": "http://www.langflow.org",
+  "stars": 156166
+}

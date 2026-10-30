@@ -1,0 +1,12 @@
+{
+  "name": "Microweber",
+  "repo": "microweber/microweber",
+  "description": "Drag-and-drop website builder with CMS",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Wix",
+    "Squarespace"
+  ],
+  "homepage": "https://microweber.org",
+  "stars": 3440
+}

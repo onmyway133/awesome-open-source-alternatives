@@ -1,0 +1,11 @@
+{
+  "name": "Umami",
+  "repo": "umami-software/umami",
+  "description": "Simple, fast privacy-focused analytics",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://umami.is",
+  "stars": 39805
+}

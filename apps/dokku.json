@@ -1,0 +1,11 @@
+{
+  "name": "Dokku",
+  "repo": "dokku/dokku",
+  "description": "Docker-powered PaaS for app deployment",
+  "category": "backend",
+  "alternativeTo": [
+    "Heroku"
+  ],
+  "homepage": "https://dokku.com",
+  "stars": 32214
+}

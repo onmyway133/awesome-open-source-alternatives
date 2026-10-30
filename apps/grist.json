@@ -1,0 +1,11 @@
+{
+  "name": "Grist",
+  "repo": "gristlabs/grist-core",
+  "description": "Spreadsheet-database hybrid with formulas",
+  "category": "backend",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "https://www.getgrist.com",
+  "stars": 12023
+}

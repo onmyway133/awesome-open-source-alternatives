@@ -1,0 +1,12 @@
+{
+  "name": "Ghost",
+  "repo": "TryGhost/Ghost",
+  "description": "Headless publishing platform for blogs and newsletters",
+  "category": "business",
+  "alternativeTo": [
+    "Medium",
+    "Substack"
+  ],
+  "homepage": "https://ghost.org",
+  "stars": 55637
+}

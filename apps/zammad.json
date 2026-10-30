@@ -1,0 +1,11 @@
+{
+  "name": "Zammad",
+  "repo": "zammad/zammad",
+  "description": "Helpdesk and customer support",
+  "category": "communication",
+  "alternativeTo": [
+    "Zendesk"
+  ],
+  "homepage": "https://zammad.org",
+  "stars": 6058
+}

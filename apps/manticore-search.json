@@ -1,0 +1,11 @@
+{
+  "name": "Manticore Search",
+  "repo": "manticoresoftware/manticoresearch",
+  "description": "Fast search database engine",
+  "category": "backend",
+  "alternativeTo": [
+    "Elasticsearch"
+  ],
+  "homepage": "https://manticoresearch.com",
+  "stars": 12073
+}

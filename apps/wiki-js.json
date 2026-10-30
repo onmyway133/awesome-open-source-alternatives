@@ -1,0 +1,11 @@
+{
+  "name": "Wiki.js",
+  "repo": "requarks/wiki",
+  "description": "Modern wiki engine with markdown support",
+  "category": "productivity",
+  "alternativeTo": [
+    "Confluence"
+  ],
+  "homepage": "https://beta.js.wiki",
+  "stars": 29109
+}

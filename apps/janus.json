@@ -1,0 +1,11 @@
+{
+  "name": "Janus",
+  "repo": "meetecho/janus-gateway",
+  "description": "General-purpose WebRTC server",
+  "category": "communication",
+  "alternativeTo": [
+    "Twilio Video"
+  ],
+  "homepage": "https://janus.conf.meetecho.com",
+  "stars": 9198
+}

@@ -1,0 +1,11 @@
+{
+  "name": "react-admin",
+  "repo": "marmelab/react-admin",
+  "description": "Frontend framework for building admin apps",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Admin panels"
+  ],
+  "homepage": "http://marmelab.com/react-admin",
+  "stars": 26976
+}

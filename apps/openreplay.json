@@ -1,0 +1,12 @@
+{
+  "name": "OpenReplay",
+  "repo": "openreplay/openreplay",
+  "description": "Session replay and debugging platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "LogRocket",
+    "FullStory"
+  ],
+  "homepage": "https://openreplay.com",
+  "stars": 13077
+}

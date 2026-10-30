@@ -1,0 +1,13 @@
+{
+  "name": "Typebot",
+  "repo": "baptisteArno/typebot.io",
+  "description": "Visual chatbot builder with embeddable widgets",
+  "category": "documents",
+  "alternativeTo": [
+    "Typeform",
+    "Landbot",
+    "Drift"
+  ],
+  "homepage": "https://typebot.io",
+  "stars": 10594
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bruno",
+  "repo": "usebruno/bruno",
+  "description": "Offline API client with Git-friendly file storage",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Postman"
+  ],
+  "homepage": "https://www.usebruno.com/",
+  "stars": 47954
+}

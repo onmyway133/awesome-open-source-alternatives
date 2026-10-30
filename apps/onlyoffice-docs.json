@@ -1,0 +1,12 @@
+{
+  "name": "ONLYOFFICE Docs",
+  "repo": "ONLYOFFICE/DocumentServer",
+  "description": "Online document editing suite",
+  "category": "documents",
+  "alternativeTo": [
+    "Google Docs",
+    "Microsoft 365"
+  ],
+  "homepage": "https://www.onlyoffice.com/see-it-in-action",
+  "stars": 7067
+}

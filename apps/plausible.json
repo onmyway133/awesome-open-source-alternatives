@@ -1,0 +1,13 @@
+{
+  "name": "Plausible",
+  "repo": "plausible/analytics",
+  "description": "Privacy-focused web analytics",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://plausible.io/",
+  "icon": "https://raw.githubusercontent.com/plausible/docs/master/static/img/plausible-analytics-icon-top.png",
+  "screenshot": "https://camo.githubusercontent.com/db0cadcd2aef644e580cedb02bc0e773b192a33d5c2a69b5680f65137e2ce03c/68747470733a2f2f706c61757369626c652e696f2f646f63732f696d672f706c61757369626c652d616e616c79746963732e706e67",
+  "stars": 29725
+}

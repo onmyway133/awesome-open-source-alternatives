@@ -1,0 +1,12 @@
+{
+  "name": "Semgrep",
+  "repo": "semgrep/semgrep",
+  "description": "Static analysis for finding bugs and vulnerabilities",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "SonarQube",
+    "Snyk"
+  ],
+  "homepage": "https://semgrep.dev",
+  "stars": 17362
+}

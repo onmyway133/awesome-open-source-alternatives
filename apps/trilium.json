@@ -1,0 +1,12 @@
+{
+  "name": "Trilium",
+  "repo": "TriliumNext/Trilium",
+  "description": "Hierarchical note-taking with knowledge base",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notion",
+    "Roam"
+  ],
+  "homepage": "https://triliumnotes.org",
+  "stars": 38627
+}

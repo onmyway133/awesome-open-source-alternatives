@@ -1,0 +1,12 @@
+{
+  "name": "Stirling PDF",
+  "repo": "Stirling-Tools/Stirling-PDF",
+  "description": "Self-hosted PDF manipulation tool",
+  "category": "documents",
+  "alternativeTo": [
+    "Adobe Acrobat",
+    "SmallPDF"
+  ],
+  "homepage": "https://stirling.com",
+  "stars": 95421
+}

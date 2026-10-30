@@ -1,0 +1,11 @@
+{
+  "name": "OpenSign",
+  "repo": "OpenSignLabs/OpenSign",
+  "description": "Free e-signature solution",
+  "category": "business",
+  "alternativeTo": [
+    "DocuSign"
+  ],
+  "homepage": "https://www.opensignlabs.com",
+  "stars": 7201
+}

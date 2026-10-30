@@ -1,0 +1,12 @@
+{
+  "name": "ERPNext",
+  "repo": "frappe/erpnext",
+  "description": "Full-featured ERP for manufacturing and distribution",
+  "category": "business",
+  "alternativeTo": [
+    "SAP",
+    "Oracle NetSuite"
+  ],
+  "homepage": "https://frappe.io/erpnext",
+  "stars": 40782
+}

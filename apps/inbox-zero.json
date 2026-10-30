@@ -1,0 +1,12 @@
+{
+  "name": "Inbox Zero",
+  "repo": "elie222/inbox-zero",
+  "description": "Clean Up Your Inbox In Minutes",
+  "category": "communication",
+  "alternativeTo": [
+    "Inbox"
+  ],
+  "homepage": "https://www.getinboxzero.com/",
+  "icon": "https://pbs.twimg.com/profile_images/1701644618318671872/R-oWgngj_400x400.jpg",
+  "stars": 12862
+}

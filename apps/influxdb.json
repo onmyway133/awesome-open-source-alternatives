@@ -1,0 +1,11 @@
+{
+  "name": "InfluxDB",
+  "repo": "influxdata/influxdb",
+  "description": "Time-series database for metrics and events",
+  "category": "backend",
+  "alternativeTo": [
+    "AWS Timestream"
+  ],
+  "homepage": "https://influxdata.com",
+  "stars": 31790
+}

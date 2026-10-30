@@ -1,0 +1,12 @@
+{
+  "name": "Logseq",
+  "repo": "logseq/logseq",
+  "description": "Privacy-first knowledge management platform",
+  "category": "productivity",
+  "alternativeTo": [
+    "Roam Research",
+    "Notion"
+  ],
+  "homepage": "https://logseq.com",
+  "stars": 45428
+}

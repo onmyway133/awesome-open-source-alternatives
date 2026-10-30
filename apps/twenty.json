@@ -1,0 +1,12 @@
+{
+  "name": "Twenty",
+  "repo": "twentyhq/twenty",
+  "description": "Modern open-source CRM",
+  "category": "business",
+  "alternativeTo": [
+    "Salesforce",
+    "HubSpot"
+  ],
+  "homepage": "https://twenty.com",
+  "stars": 60163
+}

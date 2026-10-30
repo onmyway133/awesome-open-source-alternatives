@@ -1,0 +1,11 @@
+{
+  "name": "RudderStack",
+  "repo": "rudderlabs/rudder-server",
+  "description": "Customer data platform",
+  "category": "business",
+  "alternativeTo": [
+    "Segment"
+  ],
+  "homepage": "https://www.rudderstack.com/",
+  "stars": 4509
+}

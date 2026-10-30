@@ -1,0 +1,11 @@
+{
+  "name": "Label Studio",
+  "repo": "HumanSignal/label-studio",
+  "description": "Multi-type data labeling and annotation tool",
+  "category": "ai",
+  "alternativeTo": [
+    "Scale AI"
+  ],
+  "homepage": "https://labelstud.io",
+  "stars": 28589
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Papermark",
+  "repo": "papermark/papermark",
+  "description": "Document sharing with analytics",
+  "category": "documents",
+  "alternativeTo": [
+    "DocSend"
+  ],
+  "homepage": "https://www.papermark.com",
+  "stars": 9278
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TinaCMS",
+  "repo": "tinacms/tinacms",
+  "description": "Git-backed CMS with visual editing",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://tina.io",
+  "stars": 13856
+}

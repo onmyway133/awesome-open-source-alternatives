@@ -1,0 +1,12 @@
+{
+  "name": "Docmost",
+  "repo": "docmost/docmost",
+  "description": "Collaborative wiki and documentation",
+  "category": "productivity",
+  "alternativeTo": [
+    "Confluence",
+    "Notion"
+  ],
+  "homepage": "https://docmost.com",
+  "stars": 22169
+}

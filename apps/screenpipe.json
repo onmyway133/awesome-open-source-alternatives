@@ -1,0 +1,12 @@
+{
+  "name": "Screenpipe",
+  "repo": "screenpipe/screenpipe",
+  "description": "24/7 screen and audio capture with AI",
+  "category": "ai",
+  "alternativeTo": [
+    "Rewind",
+    "Microsoft Recall"
+  ],
+  "homepage": "https://screenpipe.com",
+  "stars": 22175
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ThingsBoard",
+  "repo": "thingsboard/thingsboard",
+  "description": "IoT platform for device management",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "AWS IoT",
+    "Azure IoT"
+  ],
+  "homepage": "https://thingsboard.io",
+  "stars": 22630
+}

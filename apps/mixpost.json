@@ -1,0 +1,11 @@
+{
+  "name": "Mixpost",
+  "repo": "inovector/mixpost",
+  "description": "Self-hosted social media management",
+  "category": "marketing",
+  "alternativeTo": [
+    "Buffer"
+  ],
+  "homepage": "https://mixpost.app",
+  "stars": 3892
+}

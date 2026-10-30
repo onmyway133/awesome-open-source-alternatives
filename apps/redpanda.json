@@ -1,0 +1,11 @@
+{
+  "name": "Redpanda",
+  "repo": "redpanda-data/redpanda",
+  "description": "Kafka-compatible streaming data platform",
+  "category": "backend",
+  "alternativeTo": [
+    "Confluent Cloud"
+  ],
+  "homepage": "https://redpanda.com",
+  "stars": 12649
+}

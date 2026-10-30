@@ -1,0 +1,11 @@
+{
+  "name": "Remark42",
+  "repo": "umputun/remark42",
+  "description": "Self-hosted comment engine",
+  "category": "communication",
+  "alternativeTo": [
+    "Disqus"
+  ],
+  "homepage": "https://remark42.com",
+  "stars": 5641
+}

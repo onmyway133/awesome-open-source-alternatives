@@ -1,0 +1,11 @@
+{
+  "name": "Directus",
+  "repo": "directus/directus",
+  "description": "Database-agnostic headless CMS with REST and GraphQL",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://directus.com",
+  "stars": 38750
+}

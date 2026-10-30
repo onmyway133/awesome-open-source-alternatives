@@ -1,0 +1,11 @@
+{
+  "name": "TimescaleDB",
+  "repo": "timescale/timescaledb",
+  "description": "Time-series database on PostgreSQL",
+  "category": "backend",
+  "alternativeTo": [
+    "InfluxDB Cloud"
+  ],
+  "homepage": "https://www.tigerdata.com/",
+  "stars": 23775
+}

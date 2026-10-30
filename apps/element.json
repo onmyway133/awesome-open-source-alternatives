@@ -1,0 +1,12 @@
+{
+  "name": "Element",
+  "repo": "element-hq/element-web",
+  "description": "Matrix chat client with E2E encryption",
+  "category": "communication",
+  "alternativeTo": [
+    "Slack",
+    "Discord"
+  ],
+  "homepage": "https://element.io",
+  "stars": 13633
+}

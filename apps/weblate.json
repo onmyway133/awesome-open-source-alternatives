@@ -1,0 +1,12 @@
+{
+  "name": "Weblate",
+  "repo": "WeblateOrg/weblate",
+  "description": "Web-based localization tool",
+  "category": "other",
+  "alternativeTo": [
+    "Crowdin",
+    "Lokalise"
+  ],
+  "homepage": "https://weblate.org/",
+  "stars": 6141
+}

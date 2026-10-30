@@ -1,0 +1,12 @@
+{
+  "name": "Plasmic",
+  "repo": "plasmicapp/plasmic",
+  "description": "Visual builder for React applications",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Webflow",
+    "Framer"
+  ],
+  "homepage": "https://www.plasmic.app",
+  "stars": 7139
+}

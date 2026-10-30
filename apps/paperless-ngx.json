@@ -1,0 +1,11 @@
+{
+  "name": "Paperless-ngx",
+  "repo": "paperless-ngx/paperless-ngx",
+  "description": "Document management system with OCR",
+  "category": "documents",
+  "alternativeTo": [
+    "DocuWare"
+  ],
+  "homepage": "http://docs.paperless-ngx.com/",
+  "stars": 47386
+}

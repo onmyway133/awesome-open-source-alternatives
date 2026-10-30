@@ -1,0 +1,11 @@
+{
+  "name": "Flowchart Fun",
+  "repo": "tone-row/flowchart-fun",
+  "description": "Text-to-flowchart diagram generator",
+  "category": "design",
+  "alternativeTo": [
+    "Lucidchart"
+  ],
+  "homepage": "https://flowchart.fun/",
+  "stars": 3411
+}

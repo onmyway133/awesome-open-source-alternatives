@@ -1,0 +1,12 @@
+{
+  "name": "BookStack",
+  "repo": "BookStackApp/BookStack",
+  "description": "Self-hosted wiki and documentation platform",
+  "category": "productivity",
+  "alternativeTo": [
+    "Confluence",
+    "Notion"
+  ],
+  "homepage": "https://codeberg.org/bookstack/bookstack",
+  "stars": 19117
+}

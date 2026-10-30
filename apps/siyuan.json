@@ -1,0 +1,12 @@
+{
+  "name": "SiYuan",
+  "repo": "siyuan-note/siyuan",
+  "description": "Local-first personal knowledge management",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notion",
+    "Obsidian"
+  ],
+  "homepage": "https://b3log.org/siyuan",
+  "stars": 47009
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Puppeteer",
+  "repo": "puppeteer/puppeteer",
+  "description": "Headless Chrome automation library",
+  "category": "automation",
+  "alternativeTo": [
+    "Selenium"
+  ],
+  "homepage": "https://pptr.dev",
+  "stars": 95771
+}

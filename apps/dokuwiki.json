@@ -1,0 +1,11 @@
+{
+  "name": "DokuWiki",
+  "repo": "dokuwiki/dokuwiki",
+  "description": "Simple wiki that stores data in plain files",
+  "category": "documents",
+  "alternativeTo": [
+    "Confluence"
+  ],
+  "homepage": "http://www.dokuwiki.org",
+  "stars": 4733
+}

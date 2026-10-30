@@ -1,0 +1,11 @@
+{
+  "name": "Kuzzle",
+  "repo": "kuzzleio/kuzzle",
+  "description": "Backend for IoT and data-intensive apps",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://kuzzle.io",
+  "stars": 1668
+}

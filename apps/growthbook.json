@@ -1,0 +1,12 @@
+{
+  "name": "GrowthBook",
+  "repo": "growthbook/growthbook",
+  "description": "Feature flags and A/B testing platform",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "LaunchDarkly",
+    "Optimizely"
+  ],
+  "homepage": "https://www.growthbook.io",
+  "stars": 8550
+}

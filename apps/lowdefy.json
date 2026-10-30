@@ -1,0 +1,11 @@
+{
+  "name": "Lowdefy",
+  "repo": "lowdefy/lowdefy",
+  "description": "Low-code framework for internal tools",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "homepage": "https://lowdefy.com",
+  "stars": 3017
+}

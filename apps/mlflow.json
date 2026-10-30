@@ -1,0 +1,11 @@
+{
+  "name": "MLflow",
+  "repo": "mlflow/mlflow",
+  "description": "ML lifecycle platform for experiments and models",
+  "category": "ai",
+  "alternativeTo": [
+    "Weights & Biases"
+  ],
+  "homepage": "https://mlflow.org",
+  "stars": 28602
+}

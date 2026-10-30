@@ -1,0 +1,11 @@
+{
+  "name": "Anki",
+  "repo": "ankitects/anki",
+  "description": "Intelligent flashcard learning",
+  "category": "productivity",
+  "alternativeTo": [
+    "Quizlet"
+  ],
+  "homepage": "https://apps.ankiweb.net",
+  "stars": 32411
+}

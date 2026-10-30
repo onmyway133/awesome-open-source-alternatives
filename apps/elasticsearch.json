@@ -1,0 +1,12 @@
+{
+  "name": "Elasticsearch",
+  "repo": "elastic/elasticsearch",
+  "description": "Distributed search and analytics engine",
+  "category": "search-data",
+  "alternativeTo": [
+    "Algolia",
+    "Splunk"
+  ],
+  "homepage": "https://www.elastic.co/products/elasticsearch",
+  "stars": 78418
+}

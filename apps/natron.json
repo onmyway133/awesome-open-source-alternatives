@@ -1,0 +1,12 @@
+{
+  "name": "Natron",
+  "repo": "NatronGitHub/Natron",
+  "description": "VFX compositing software",
+  "category": "design",
+  "alternativeTo": [
+    "After Effects",
+    "Nuke"
+  ],
+  "homepage": "http://NatronGitHub.github.io",
+  "stars": 5619
+}

@@ -1,0 +1,57 @@
+name: Suggest an alternative
+description: Suggest an open source alternative without editing JSON. It needs at least 1,000 GitHub stars.
+title: "Add: "
+labels: ["new project"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      placeholder: https://github.com/penpot/penpot
+    validations:
+      required: true
+  - type: input
+    id: alternative
+    attributes:
+      label: Alternative to
+      description: The proprietary products it replaces.
+      placeholder: Figma
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: What does it do?
+      description: One line, up to 160 characters.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Backend & Infrastructure
+        - Developer Tools
+        - AI & LLMs
+        - Search & Data
+        - Analytics & Monitoring
+        - Communication
+        - Productivity & Notes
+        - Files & Media
+        - Marketing & Social
+        - Business & E-Commerce
+        - Design
+        - Security & Privacy
+        - Docs & Knowledge
+        - Automation & Scraping
+        - Infrastructure as Code
+        - More
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The repository has at least 1,000 stars and isn't archived.
+          required: true

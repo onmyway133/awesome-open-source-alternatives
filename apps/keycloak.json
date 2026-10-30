@@ -1,0 +1,12 @@
+{
+  "name": "Keycloak",
+  "repo": "keycloak/keycloak",
+  "description": "Enterprise identity and access management with SSO",
+  "category": "backend",
+  "alternativeTo": [
+    "Okta",
+    "Auth0"
+  ],
+  "homepage": "https://www.keycloak.org",
+  "stars": 37615
+}

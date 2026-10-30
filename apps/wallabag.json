@@ -1,0 +1,12 @@
+{
+  "name": "wallabag",
+  "repo": "wallabag/wallabag",
+  "description": "Save and read articles later",
+  "category": "productivity",
+  "alternativeTo": [
+    "Pocket",
+    "Instapaper"
+  ],
+  "homepage": "https://wallabag.org",
+  "stars": 13034
+}

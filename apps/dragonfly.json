@@ -1,0 +1,11 @@
+{
+  "name": "Dragonfly",
+  "repo": "dragonflydb/dragonfly",
+  "description": "Modern Redis replacement with better memory efficiency",
+  "category": "backend",
+  "alternativeTo": [
+    "Redis Cloud"
+  ],
+  "homepage": "https://www.dragonflydb.io/",
+  "stars": 31834
+}

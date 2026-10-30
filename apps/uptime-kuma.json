@@ -1,0 +1,12 @@
+{
+  "name": "Uptime Kuma",
+  "repo": "louislam/uptime-kuma",
+  "description": "Self-hosted uptime monitoring",
+  "category": "analytics",
+  "alternativeTo": [
+    "Uptime Robot",
+    "Pingdom"
+  ],
+  "homepage": "https://uptime.kuma.pet",
+  "stars": 93107
+}

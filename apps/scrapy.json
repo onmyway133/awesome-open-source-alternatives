@@ -1,0 +1,11 @@
+{
+  "name": "Scrapy",
+  "repo": "scrapy/scrapy",
+  "description": "Fast web crawling framework",
+  "category": "automation",
+  "alternativeTo": [
+    "Apify"
+  ],
+  "homepage": "https://scrapy.org",
+  "stars": 65112
+}

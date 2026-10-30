@@ -1,0 +1,12 @@
+{
+  "name": "ntfy",
+  "repo": "binwiederhier/ntfy",
+  "description": "Simple HTTP-based push notifications",
+  "category": "communication",
+  "alternativeTo": [
+    "Pushover",
+    "Firebase FCM"
+  ],
+  "homepage": "https://ntfy.sh",
+  "stars": 35187
+}

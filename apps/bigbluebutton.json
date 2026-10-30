@@ -1,0 +1,12 @@
+{
+  "name": "BigBlueButton",
+  "repo": "bigbluebutton/bigbluebutton",
+  "description": "Virtual classroom and web conferencing",
+  "category": "communication",
+  "alternativeTo": [
+    "Zoom",
+    "Google Meet"
+  ],
+  "homepage": "https://bigbluebutton.org",
+  "stars": 9261
+}

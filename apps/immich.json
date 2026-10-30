@@ -1,0 +1,11 @@
+{
+  "name": "Immich",
+  "repo": "immich-app/immich",
+  "description": "Self-hosted photo and video backup with AI features",
+  "category": "media",
+  "alternativeTo": [
+    "Google Photos"
+  ],
+  "homepage": "https://immich.app",
+  "stars": 117730
+}

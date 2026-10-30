@@ -1,0 +1,11 @@
+{
+  "name": "SendPortal",
+  "repo": "mettle/sendportal",
+  "description": "Self-hosted email marketing and newsletters",
+  "category": "marketing",
+  "alternativeTo": [
+    "Mailchimp"
+  ],
+  "homepage": "https://sendportal.io",
+  "stars": 2185
+}

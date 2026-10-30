@@ -1,0 +1,12 @@
+{
+  "name": "Zettlr",
+  "repo": "Zettlr/Zettlr",
+  "description": "Markdown editor for academics and writers",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notion",
+    "Obsidian"
+  ],
+  "homepage": "https://www.zettlr.com",
+  "stars": 13841
+}

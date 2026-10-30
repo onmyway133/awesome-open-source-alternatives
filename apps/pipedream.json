@@ -1,0 +1,11 @@
+{
+  "name": "Pipedream",
+  "repo": "PipedreamHQ/pipedream",
+  "description": "Workflow automation for developers",
+  "category": "productivity",
+  "alternativeTo": [
+    "Zapier"
+  ],
+  "homepage": "https://pipedream.com",
+  "stars": 11766
+}

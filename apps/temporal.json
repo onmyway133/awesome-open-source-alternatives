@@ -1,0 +1,12 @@
+{
+  "name": "Temporal",
+  "repo": "temporalio/temporal",
+  "description": "Durable workflow orchestration platform",
+  "category": "backend",
+  "alternativeTo": [
+    "Temporal Cloud",
+    "AWS Step Functions"
+  ],
+  "homepage": "https://docs.temporal.io",
+  "stars": 24092
+}

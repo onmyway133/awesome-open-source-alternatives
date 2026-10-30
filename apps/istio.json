@@ -1,0 +1,11 @@
+{
+  "name": "Istio",
+  "repo": "istio/istio",
+  "description": "Service mesh for microservices networking",
+  "category": "infrastructure",
+  "alternativeTo": [
+    "AWS App Mesh"
+  ],
+  "homepage": "https://istio.io",
+  "stars": 38476
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Freeplane",
+  "repo": "freeplane/freeplane",
+  "description": "Mind mapping and knowledge management",
+  "category": "productivity",
+  "alternativeTo": [
+    "MindMeister",
+    "XMind"
+  ],
+  "homepage": "https://www.freeplane.org",
+  "stars": 4446
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OpenFaaS",
+  "repo": "openfaas/faas",
+  "description": "Serverless functions on containers",
+  "category": "backend",
+  "alternativeTo": [
+    "AWS Lambda"
+  ],
+  "homepage": "https://www.openfaas.com",
+  "stars": 26253
+}

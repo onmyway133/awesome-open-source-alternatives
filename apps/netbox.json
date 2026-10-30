@@ -1,0 +1,11 @@
+{
+  "name": "Netbox",
+  "repo": "netbox-community/netbox",
+  "description": "Network automation and IPAM",
+  "category": "productivity",
+  "alternativeTo": [
+    "SolarWinds IPAM"
+  ],
+  "homepage": "https://netboxlabs.com/products/netbox/",
+  "stars": 21803
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Collabora Online",
+  "repo": "CollaboraOnline/online",
+  "description": "LibreOffice-based collaborative editing",
+  "category": "documents",
+  "alternativeTo": [
+    "Google Docs",
+    "Microsoft 365"
+  ],
+  "homepage": "https://collaboraonline.com",
+  "stars": 3384
+}

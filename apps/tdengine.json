@@ -1,0 +1,11 @@
+{
+  "name": "TDengine",
+  "repo": "taosdata/TDengine",
+  "description": "High-performance time-series database for IoT",
+  "category": "backend",
+  "alternativeTo": [
+    "InfluxDB Cloud"
+  ],
+  "homepage": "https://tdengine.com",
+  "stars": 25179
+}

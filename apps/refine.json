@@ -1,0 +1,11 @@
+{
+  "name": "Refine",
+  "repo": "refinedev/refine",
+  "description": "React framework for admin panels and dashboards",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "homepage": "https://refine.dev",
+  "stars": 35968
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PostHog",
+  "repo": "PostHog/posthog",
+  "description": "Product analytics, session replay, and feature flags",
+  "category": "analytics",
+  "alternativeTo": [
+    "Amplitude",
+    "Mixpanel"
+  ],
+  "homepage": "https://posthog.com",
+  "stars": 40524
+}

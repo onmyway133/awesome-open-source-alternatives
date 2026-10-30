@@ -1,0 +1,12 @@
+{
+  "name": "Excalidraw",
+  "repo": "excalidraw/excalidraw",
+  "description": "Virtual whiteboard for sketching hand-drawn diagrams",
+  "category": "design",
+  "alternativeTo": [
+    "Miro",
+    "FigJam"
+  ],
+  "homepage": "https://excalidraw.com",
+  "stars": 134870
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gitea",
+  "repo": "go-gitea/gitea",
+  "description": "Lightweight self-hosted Git service",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "GitHub",
+    "GitLab"
+  ],
+  "homepage": "https://gitea.com/",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gitea_Logo.svg/1200px-Gitea_Logo.svg.png",
+  "stars": 58789
+}

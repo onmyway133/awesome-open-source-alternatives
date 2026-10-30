@@ -1,0 +1,11 @@
+{
+  "name": "Rowy",
+  "repo": "buildship-ai/rowy",
+  "description": "Low-code backend with spreadsheet UI on Firestore",
+  "category": "backend",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "http://rowy.io",
+  "stars": 6845
+}

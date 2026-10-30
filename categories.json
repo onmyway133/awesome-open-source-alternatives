@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "backend",
+    "name": "Backend & Infrastructure",
+    "description": "Backends, hosting, databases and storage"
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Git hosting, CI, code quality and API tools"
+  },
+  {
+    "slug": "ai",
+    "name": "AI & LLMs",
+    "description": "Chat interfaces, local models and AI platforms"
+  },
+  {
+    "slug": "search-data",
+    "name": "Search & Data",
+    "description": "Search engines, BI and data platforms"
+  },
+  {
+    "slug": "analytics",
+    "name": "Analytics & Monitoring",
+    "description": "Web analytics, observability and uptime"
+  },
+  {
+    "slug": "communication",
+    "name": "Communication",
+    "description": "Chat, video calls, email and collaboration"
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity & Notes",
+    "description": "Notes, tasks, project management and scheduling"
+  },
+  {
+    "slug": "media",
+    "name": "Files & Media",
+    "description": "File storage, sync, photos and streaming"
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing & Social",
+    "description": "Newsletters, social media, link management and comments"
+  },
+  {
+    "slug": "business",
+    "name": "Business & E-Commerce",
+    "description": "Stores, CRM, ERP, invoicing and signatures"
+  },
+  {
+    "slug": "design",
+    "name": "Design",
+    "description": "Design, whiteboards and diagramming"
+  },
+  {
+    "slug": "security",
+    "name": "Security & Privacy",
+    "description": "Passwords, auth, VPN and privacy"
+  },
+  {
+    "slug": "documents",
+    "name": "Docs & Knowledge",
+    "description": "Wikis, documentation, PDFs, office and forms"
+  },
+  {
+    "slug": "automation",
+    "name": "Automation & Scraping",
+    "description": "Workflow automation, browser automation and scraping"
+  },
+  {
+    "slug": "infrastructure",
+    "name": "Infrastructure as Code",
+    "description": "Provisioning, orchestration and service meshes"
+  },
+  {
+    "slug": "other",
+    "name": "More",
+    "description": "Translation, resumes and everything else"
+  }
+]

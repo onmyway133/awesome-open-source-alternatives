@@ -1,0 +1,13 @@
+{
+  "name": "Jellyfin",
+  "repo": "jellyfin/jellyfin",
+  "description": "Open Source Alternative to Plex, Netflix",
+  "category": "media",
+  "alternativeTo": [
+    "Netflix",
+    "Media"
+  ],
+  "homepage": "https://jellyfin.org/",
+  "icon": "https://avatars.githubusercontent.com/u/45698031?s=200&v=4",
+  "stars": 58825
+}

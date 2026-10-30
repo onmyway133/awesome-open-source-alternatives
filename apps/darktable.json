@@ -1,0 +1,11 @@
+{
+  "name": "darktable",
+  "repo": "darktable-org/darktable",
+  "description": "Photography workflow and raw developer",
+  "category": "design",
+  "alternativeTo": [
+    "Adobe Lightroom"
+  ],
+  "homepage": "https://www.darktable.org",
+  "stars": 13362
+}

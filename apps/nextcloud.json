@@ -1,0 +1,12 @@
+{
+  "name": "Nextcloud",
+  "repo": "nextcloud/server",
+  "description": "Self-hosted cloud storage with collaboration",
+  "category": "media",
+  "alternativeTo": [
+    "Dropbox",
+    "Google Drive"
+  ],
+  "homepage": "https://nextcloud.com",
+  "stars": 37358
+}

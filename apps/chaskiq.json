@@ -1,0 +1,11 @@
+{
+  "name": "Chaskiq",
+  "repo": "chaskiq/chaskiq",
+  "description": "Messaging platform for marketing and support",
+  "category": "communication",
+  "alternativeTo": [
+    "Intercom"
+  ],
+  "homepage": "https://chaskiq.io",
+  "stars": 3578
+}

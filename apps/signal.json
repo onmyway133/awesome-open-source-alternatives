@@ -1,0 +1,12 @@
+{
+  "name": "Signal",
+  "repo": "signalapp/Signal-Android",
+  "description": "Private encrypted messaging",
+  "category": "communication",
+  "alternativeTo": [
+    "WhatsApp",
+    "Telegram"
+  ],
+  "homepage": "https://signal.org",
+  "stars": 29559
+}

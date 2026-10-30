@@ -1,0 +1,11 @@
+{
+  "name": "Huginn",
+  "repo": "huginn/huginn",
+  "description": "Automation agents that monitor and act on your behalf",
+  "category": "productivity",
+  "alternativeTo": [
+    "IFTTT",
+    "Zapier"
+  ],
+  "stars": 50217
+}

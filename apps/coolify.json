@@ -1,0 +1,13 @@
+{
+  "name": "Coolify",
+  "repo": "coollabsio/coolify",
+  "description": "Self-hosted PaaS for deploying apps and databases",
+  "category": "backend",
+  "alternativeTo": [
+    "Vercel",
+    "Netlify",
+    "Heroku"
+  ],
+  "homepage": "https://coolify.io",
+  "stars": 65322
+}

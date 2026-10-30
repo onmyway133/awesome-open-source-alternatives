@@ -1,0 +1,11 @@
+{
+  "name": "Payload",
+  "repo": "payloadcms/payload",
+  "description": "Next.js headless CMS framework",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://payloadcms.com",
+  "stars": 45588
+}

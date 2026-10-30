@@ -1,0 +1,11 @@
+{
+  "name": "Mastodon",
+  "repo": "mastodon/mastodon",
+  "description": "Decentralized social network using ActivityPub",
+  "category": "security",
+  "alternativeTo": [
+    "Twitter/X"
+  ],
+  "homepage": "https://joinmastodon.org",
+  "stars": 50465
+}

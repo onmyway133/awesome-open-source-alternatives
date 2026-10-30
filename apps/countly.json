@@ -1,0 +1,12 @@
+{
+  "name": "Countly",
+  "repo": "Countly/countly-server",
+  "description": "Product analytics for mobile and web",
+  "category": "analytics",
+  "alternativeTo": [
+    "Mixpanel",
+    "Amplitude"
+  ],
+  "homepage": "https://countly.com",
+  "stars": 5926
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fathom Lite",
+  "repo": "usefathom/fathom",
+  "description": "Simple privacy-focused website analytics",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://usefathom.com/",
+  "icon": "https://media.licdn.com/dms/image/C560BAQGrvtLP8Tij5A/company-logo_200_200/0/1636055113649/fathom_analytics_logo?e=2147483647&v=beta&t=Cs9QjOBjKqjmnE9y1lDRA59ajDCA7Au4wZt_nSHPjjg",
+  "screenshot": "https://github.com/usefathom/fathom/raw/master/assets/src/img/fathom.jpg?v=7",
+  "stars": 8035
+}

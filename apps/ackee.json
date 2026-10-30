@@ -1,0 +1,11 @@
+{
+  "name": "Ackee",
+  "repo": "electerious/Ackee",
+  "description": "Self-hosted analytics with privacy focus",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://ackee.electerious.com",
+  "stars": 4721
+}

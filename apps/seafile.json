@@ -1,0 +1,11 @@
+{
+  "name": "Seafile",
+  "repo": "haiwen/seafile",
+  "description": "File sync and share with encryption",
+  "category": "media",
+  "alternativeTo": [
+    "Dropbox"
+  ],
+  "homepage": "http://seafile.com/",
+  "stars": 15405
+}

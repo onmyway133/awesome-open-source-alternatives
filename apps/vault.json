@@ -1,0 +1,11 @@
+{
+  "name": "Vault",
+  "repo": "hashicorp/vault",
+  "description": "Open Source Alternative To 1Password",
+  "category": "security",
+  "alternativeTo": [
+    "Password"
+  ],
+  "homepage": "https://www.vaultproject.io/",
+  "stars": 36451
+}

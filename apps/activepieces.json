@@ -1,0 +1,12 @@
+{
+  "name": "Activepieces",
+  "repo": "activepieces/activepieces",
+  "description": "No-code automation tool with 200+ integrations",
+  "category": "productivity",
+  "alternativeTo": [
+    "Zapier",
+    "Make"
+  ],
+  "homepage": "https://www.activepieces.com",
+  "stars": 25296
+}

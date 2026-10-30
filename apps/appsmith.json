@@ -1,0 +1,11 @@
+{
+  "name": "Appsmith",
+  "repo": "appsmithorg/appsmith",
+  "description": "Low-code platform for building internal tools",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "homepage": "https://www.appsmith.com",
+  "stars": 41139
+}

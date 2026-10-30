@@ -1,0 +1,11 @@
+{
+  "name": "GoatCounter",
+  "repo": "arp242/goatcounter",
+  "description": "Simple web analytics without tracking",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://www.goatcounter.com",
+  "stars": 6125
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CapRover",
+  "repo": "caprover/caprover",
+  "description": "PaaS with automatic HTTPS and Docker",
+  "category": "backend",
+  "alternativeTo": [
+    "Heroku"
+  ],
+  "homepage": "https://CapRover.com",
+  "stars": 15195
+}

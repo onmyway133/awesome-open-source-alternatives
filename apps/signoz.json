@@ -1,0 +1,12 @@
+{
+  "name": "SigNoz",
+  "repo": "SigNoz/signoz",
+  "description": "Logs, metrics, and traces in one platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "New Relic"
+  ],
+  "homepage": "https://signoz.io",
+  "stars": 32480
+}

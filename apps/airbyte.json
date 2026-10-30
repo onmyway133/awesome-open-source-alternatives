@@ -1,0 +1,11 @@
+{
+  "name": "Airbyte",
+  "repo": "airbytehq/airbyte",
+  "description": "Data integration and ETL platform",
+  "category": "search-data",
+  "alternativeTo": [
+    "Fivetran"
+  ],
+  "homepage": "https://airbyte.com",
+  "stars": 22291
+}

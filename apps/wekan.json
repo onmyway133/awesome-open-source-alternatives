@@ -1,0 +1,11 @@
+{
+  "name": "WeKan",
+  "repo": "wekan/wekan",
+  "description": "Kanban board for project management",
+  "category": "productivity",
+  "alternativeTo": [
+    "Trello"
+  ],
+  "homepage": "https://wekan.fi",
+  "stars": 21146
+}

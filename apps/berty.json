@@ -1,0 +1,11 @@
+{
+  "name": "Berty",
+  "repo": "berty/berty",
+  "description": "Peer-to-peer encrypted messaging",
+  "category": "communication",
+  "alternativeTo": [
+    "Signal"
+  ],
+  "homepage": "https://berty.tech",
+  "stars": 9341
+}

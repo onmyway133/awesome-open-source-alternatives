@@ -1,0 +1,11 @@
+{
+  "name": "PeerTube",
+  "repo": "Chocobozzz/PeerTube",
+  "description": "Decentralized video hosting with P2P",
+  "category": "security",
+  "alternativeTo": [
+    "YouTube"
+  ],
+  "homepage": "https://joinpeertube.org/",
+  "stars": 15376
+}

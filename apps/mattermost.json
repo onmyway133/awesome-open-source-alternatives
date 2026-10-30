@@ -1,0 +1,11 @@
+{
+  "name": "Mattermost",
+  "repo": "mattermost/mattermost",
+  "description": "Enterprise team collaboration platform",
+  "category": "communication",
+  "alternativeTo": [
+    "Slack"
+  ],
+  "homepage": "https://mattermost.com",
+  "stars": 39473
+}

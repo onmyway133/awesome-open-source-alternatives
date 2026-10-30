@@ -1,0 +1,11 @@
+{
+  "name": "StackStorm",
+  "repo": "StackStorm/st2",
+  "description": "Event-driven DevOps automation",
+  "category": "productivity",
+  "alternativeTo": [
+    "Rundeck"
+  ],
+  "homepage": "https://stackstorm.com/",
+  "stars": 6553
+}

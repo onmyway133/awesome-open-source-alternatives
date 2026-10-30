@@ -1,0 +1,12 @@
+{
+  "name": "Jenkins",
+  "repo": "jenkinsci/jenkins",
+  "description": "Automation server for CI/CD",
+  "category": "productivity",
+  "alternativeTo": [
+    "CircleCI",
+    "GitHub Actions"
+  ],
+  "homepage": "https://www.jenkins.io",
+  "stars": 26707
+}

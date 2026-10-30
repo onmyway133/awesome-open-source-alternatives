@@ -1,0 +1,12 @@
+{
+  "name": "Builder.io",
+  "repo": "BuilderIO/builder",
+  "description": "Visual editor and headless CMS",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful",
+    "Figma"
+  ],
+  "homepage": "https://builder.io",
+  "stars": 8879
+}

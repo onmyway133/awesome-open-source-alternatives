@@ -1,0 +1,12 @@
+{
+  "name": "Gogs",
+  "repo": "gogs/gogs",
+  "description": "Painless self-hosted Git service in Go",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "GitHub",
+    "GitLab"
+  ],
+  "homepage": "https://gogs.io",
+  "stars": 47914
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Inkscape",
+  "repo": "inkscape/inkscape",
+  "description": "Vector graphics editor",
+  "category": "design",
+  "alternativeTo": [
+    "Adobe Illustrator"
+  ],
+  "homepage": "http://www.inkscape.org/",
+  "stars": 4073
+}

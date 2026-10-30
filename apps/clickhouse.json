@@ -1,0 +1,12 @@
+{
+  "name": "ClickHouse",
+  "repo": "ClickHouse/ClickHouse",
+  "description": "Column-oriented OLAP database for analytics",
+  "category": "search-data",
+  "alternativeTo": [
+    "Snowflake",
+    "BigQuery"
+  ],
+  "homepage": "https://clickhouse.com",
+  "stars": 50678
+}

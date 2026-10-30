@@ -1,0 +1,11 @@
+{
+  "name": "QuestDB",
+  "repo": "questdb/questdb",
+  "description": "Fast SQL database for time-series",
+  "category": "backend",
+  "alternativeTo": [
+    "InfluxDB Cloud"
+  ],
+  "homepage": "https://questdb.com",
+  "stars": 17486
+}

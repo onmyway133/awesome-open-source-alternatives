@@ -1,0 +1,11 @@
+{
+  "name": "Isso",
+  "repo": "isso-comments/isso",
+  "description": "Lightweight commenting server",
+  "category": "communication",
+  "alternativeTo": [
+    "Disqus"
+  ],
+  "homepage": "https://isso-comments.de",
+  "stars": 5310
+}

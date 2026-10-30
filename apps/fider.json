@@ -1,0 +1,12 @@
+{
+  "name": "Fider",
+  "repo": "getfider/fider",
+  "description": "Feature voting and feedback collection",
+  "category": "productivity",
+  "alternativeTo": [
+    "Canny",
+    "UserVoice"
+  ],
+  "homepage": "https://fider.io",
+  "stars": 4594
+}

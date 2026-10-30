@@ -1,0 +1,11 @@
+{
+  "name": "AppFlowy",
+  "repo": "AppFlowy-IO/AppFlowy",
+  "description": "AI workspace with kanban, docs, and databases",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notion"
+  ],
+  "homepage": "https://appflowy.com",
+  "stars": 78002
+}

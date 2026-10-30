@@ -1,0 +1,12 @@
+{
+  "name": "SOGo",
+  "repo": "Alinto/sogo",
+  "description": "Groupware with calendar and contacts",
+  "category": "communication",
+  "alternativeTo": [
+    "Google Calendar",
+    "Microsoft Exchange"
+  ],
+  "homepage": "http://sogo.nu/",
+  "stars": 2181
+}

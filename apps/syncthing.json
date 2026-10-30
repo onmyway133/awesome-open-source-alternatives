@@ -1,0 +1,12 @@
+{
+  "name": "Syncthing",
+  "repo": "syncthing/syncthing",
+  "description": "Continuous file synchronization",
+  "category": "media",
+  "alternativeTo": [
+    "Dropbox",
+    "Resilio Sync"
+  ],
+  "homepage": "https://syncthing.net/",
+  "stars": 89910
+}

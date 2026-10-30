@@ -1,0 +1,12 @@
+{
+  "name": "Formbricks",
+  "repo": "formbricks/formbricks",
+  "description": "Survey and experience management platform",
+  "category": "documents",
+  "alternativeTo": [
+    "Typeform",
+    "SurveyMonkey"
+  ],
+  "homepage": "https://formbricks.com",
+  "stars": 13194
+}

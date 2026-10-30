@@ -1,0 +1,11 @@
+{
+  "name": "Terraform",
+  "repo": "hashicorp/terraform",
+  "description": "Infrastructure provisioning with declarative config",
+  "category": "infrastructure",
+  "alternativeTo": [
+    "Terraform Cloud"
+  ],
+  "homepage": "http://developer.hashicorp.com/terraform",
+  "stars": 50090
+}

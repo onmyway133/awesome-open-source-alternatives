@@ -1,0 +1,11 @@
+{
+  "name": "Budibase",
+  "repo": "Budibase/budibase",
+  "description": "Build internal tools with low-code",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "homepage": "https://budibase.com",
+  "stars": 28372
+}

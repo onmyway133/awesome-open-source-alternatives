@@ -1,0 +1,12 @@
+{
+  "name": "Jitsi Meet",
+  "repo": "jitsi/jitsi-meet",
+  "description": "Video conferencing with WebRTC",
+  "category": "communication",
+  "alternativeTo": [
+    "Zoom",
+    "Google Meet"
+  ],
+  "homepage": "https://jitsi.org/meet",
+  "stars": 30167
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Unleash",
+  "repo": "Unleash/unleash",
+  "description": "Feature management and A/B testing",
+  "category": "analytics",
+  "alternativeTo": [
+    "LaunchDarkly",
+    "Firebase Remote Config"
+  ],
+  "homepage": "https://www.getunleash.io/",
+  "icon": "https://www.getunleash.io/logos/unleash_pos.svg",
+  "stars": 13916
+}

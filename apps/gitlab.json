@@ -1,0 +1,11 @@
+{
+  "name": "GitLab",
+  "repo": "gitlabhq/gitlabhq",
+  "description": "Complete DevOps platform with CI/CD",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "GitHub"
+  ],
+  "homepage": "https://gitlab.com/",
+  "stars": 24550
+}

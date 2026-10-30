@@ -1,0 +1,12 @@
+{
+  "name": "Sentry",
+  "repo": "getsentry/sentry",
+  "description": "Error tracking and performance monitoring",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "New Relic"
+  ],
+  "homepage": "https://sentry.io",
+  "stars": 45682
+}

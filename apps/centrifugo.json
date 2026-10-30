@@ -1,0 +1,12 @@
+{
+  "name": "Centrifugo",
+  "repo": "centrifugal/centrifugo",
+  "description": "Scalable real-time messaging server",
+  "category": "backend",
+  "alternativeTo": [
+    "Pusher",
+    "Ably"
+  ],
+  "homepage": "https://centrifugal.dev",
+  "stars": 10938
+}

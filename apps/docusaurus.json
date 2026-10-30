@@ -1,0 +1,13 @@
+{
+  "name": "Docusaurus",
+  "repo": "meta/docusaurus",
+  "description": "Build optimized documentation websites",
+  "category": "documents",
+  "alternativeTo": [
+    "GitBook",
+    "ReadMe"
+  ],
+  "homepage": "https://docusaurus.io/",
+  "icon": "https://docusaurus.io/img/docusaurus.svg",
+  "stars": 66612
+}

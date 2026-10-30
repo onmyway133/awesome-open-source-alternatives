@@ -1,0 +1,12 @@
+{
+  "name": "Rustdesk",
+  "repo": "rustdesk/rustdesk",
+  "description": "Remote desktop with self-hosted server option",
+  "category": "media",
+  "alternativeTo": [
+    "TeamViewer",
+    "AnyDesk"
+  ],
+  "homepage": "https://rustdesk.com",
+  "stars": 127614
+}

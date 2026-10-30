@@ -1,0 +1,11 @@
+{
+  "name": "Rocket.Chat",
+  "repo": "RocketChat/Rocket.Chat",
+  "description": "Team communication and messaging platform",
+  "category": "communication",
+  "alternativeTo": [
+    "Slack"
+  ],
+  "homepage": "https://rocket.chat/",
+  "stars": 46351
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Baserow",
+  "repo": "baserow/baserow",
+  "description": "No-code database and app builder",
+  "category": "backend",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "https://baserow.io",
+  "stars": 6245
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pyroscope",
+  "repo": "grafana/pyroscope",
+  "description": "Continuous profiling platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog Profiler"
+  ],
+  "homepage": "https://grafana.com/oss/pyroscope/",
+  "stars": 11714
+}

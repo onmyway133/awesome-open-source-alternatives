@@ -1,0 +1,11 @@
+{
+  "name": "Apostrophe",
+  "repo": "apostrophecms/apostrophe",
+  "description": "Full-featured CMS and website builder",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "WordPress"
+  ],
+  "homepage": "https://apostrophecms.com",
+  "stars": 4654
+}

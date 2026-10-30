@@ -1,0 +1,11 @@
+{
+  "name": "Nhost",
+  "repo": "nhost/nhost",
+  "description": "Backend with GraphQL on PostgreSQL",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://nhost.io",
+  "stars": 9373
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DBeaver",
+  "repo": "dbeaver/dbeaver",
+  "description": "Universal database management tool",
+  "category": "analytics",
+  "alternativeTo": [
+    "DataGrip",
+    "Navicat"
+  ],
+  "homepage": "https://dbeaver.io",
+  "stars": 52251
+}

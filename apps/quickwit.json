@@ -1,0 +1,12 @@
+{
+  "name": "Quickwit",
+  "repo": "quickwit-oss/quickwit",
+  "description": "Cloud-native search engine for logs",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Elasticsearch",
+    "Splunk"
+  ],
+  "homepage": "https://quickwit.io",
+  "stars": 11751
+}

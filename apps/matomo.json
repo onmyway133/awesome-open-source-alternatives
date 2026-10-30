@@ -1,0 +1,11 @@
+{
+  "name": "Matomo",
+  "repo": "matomo-org/matomo",
+  "description": "Full-featured web analytics platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "https://matomo.org/",
+  "stars": 21987
+}

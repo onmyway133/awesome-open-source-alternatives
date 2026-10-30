@@ -1,0 +1,11 @@
+{
+  "name": "Pulumi",
+  "repo": "pulumi/pulumi",
+  "description": "Infrastructure as code using programming languages",
+  "category": "infrastructure",
+  "alternativeTo": [
+    "Terraform Cloud"
+  ],
+  "homepage": "https://www.pulumi.com",
+  "stars": 25837
+}

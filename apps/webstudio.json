@@ -1,0 +1,11 @@
+{
+  "name": "Webstudio",
+  "repo": "webstudio-is/webstudio",
+  "description": "Visual website builder for headless CMS",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Webflow"
+  ],
+  "homepage": "https://webstudio.is",
+  "stars": 9130
+}

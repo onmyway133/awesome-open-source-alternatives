@@ -1,0 +1,12 @@
+{
+  "name": "VictoriaMetrics",
+  "repo": "VictoriaMetrics/VictoriaMetrics",
+  "description": "Fast and cost-effective monitoring solution",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "Prometheus Cloud"
+  ],
+  "homepage": "https://victoriametrics.com/",
+  "stars": 17969
+}

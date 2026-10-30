@@ -1,0 +1,12 @@
+{
+  "name": "Superset",
+  "repo": "apache/superset",
+  "description": "Data visualization and exploration platform",
+  "category": "analytics",
+  "alternativeTo": [
+    "Tableau",
+    "Looker"
+  ],
+  "homepage": "https://superset.apache.org/",
+  "stars": 75371
+}

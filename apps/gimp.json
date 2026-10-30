@@ -1,0 +1,11 @@
+{
+  "name": "GIMP",
+  "repo": "GNOME/gimp",
+  "description": "Image manipulation program",
+  "category": "design",
+  "alternativeTo": [
+    "Adobe Photoshop"
+  ],
+  "homepage": "https://gitlab.gnome.org/GNOME/gimp",
+  "stars": 6557
+}

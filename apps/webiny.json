@@ -1,0 +1,11 @@
+{
+  "name": "Webiny",
+  "repo": "webiny/webiny-js",
+  "description": "Serverless CMS with page and form builders",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://www.webiny.com",
+  "stars": 8051
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ToolJet",
+  "repo": "ToolJet/ToolJet",
+  "description": "Low-code platform with database and API connectors",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Retool"
+  ],
+  "homepage": "https://tooljet.com",
+  "stars": 41151
+}

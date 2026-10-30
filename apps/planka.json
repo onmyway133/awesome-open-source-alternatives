@@ -1,0 +1,11 @@
+{
+  "name": "Planka",
+  "repo": "plankanban/planka",
+  "description": "Elegant kanban board for projects",
+  "category": "productivity",
+  "alternativeTo": [
+    "Trello"
+  ],
+  "homepage": "https://planka.app",
+  "stars": 12657
+}

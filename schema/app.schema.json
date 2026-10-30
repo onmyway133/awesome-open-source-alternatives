@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Project",
+  "description": "One open source alternative: apps/<slug>.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "repo",
+    "description",
+    "category",
+    "alternativeTo"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 60,
+      "pattern": "^[^\\n]+$"
+    },
+    "repo": {
+      "description": "GitHub repository as owner/name",
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 160,
+      "pattern": "^[^\\n]+$"
+    },
+    "category": {
+      "description": "A slug from categories.json",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "alternativeTo": {
+      "description": "Proprietary products this replaces, most known first",
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 40,
+        "pattern": "^[^\\n,]+$"
+      }
+    },
+    "homepage": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "icon": {
+      "description": "Project logo, square",
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "screenshot": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "stars": {
+      "description": "GitHub stars, updated weekly by a workflow. Leave it out when adding a project.",
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

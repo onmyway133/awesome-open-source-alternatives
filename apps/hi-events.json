@@ -1,0 +1,11 @@
+{
+  "name": "Hi.Events",
+  "repo": "HiEventsDev/Hi.Events",
+  "description": "Event management and ticketing platform",
+  "category": "communication",
+  "alternativeTo": [
+    "Eventbrite"
+  ],
+  "homepage": "https://hi.events",
+  "stars": 4101
+}

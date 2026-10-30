@@ -1,0 +1,13 @@
+{
+  "name": "Metabase",
+  "repo": "metabase/metabase",
+  "description": "Business intelligence with visual query builder",
+  "category": "analytics",
+  "alternativeTo": [
+    "Tableau",
+    "Power BI",
+    "Looker"
+  ],
+  "homepage": "https://metabase.com",
+  "stars": 50023
+}

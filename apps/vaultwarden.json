@@ -1,0 +1,11 @@
+{
+  "name": "Vaultwarden",
+  "repo": "dani-garcia/vaultwarden",
+  "description": "Lightweight Bitwarden server implementation",
+  "category": "security",
+  "alternativeTo": [
+    "1Password",
+    "LastPass"
+  ],
+  "stars": 69954
+}

@@ -1,0 +1,12 @@
+{
+  "name": "HedgeDoc",
+  "repo": "hedgedoc/hedgedoc",
+  "description": "Collaborative markdown notes",
+  "category": "documents",
+  "alternativeTo": [
+    "HackMD",
+    "Notion"
+  ],
+  "homepage": "https://hedgedoc.org",
+  "stars": 7503
+}

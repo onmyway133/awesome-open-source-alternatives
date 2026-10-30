@@ -1,0 +1,12 @@
+{
+  "name": "restic",
+  "repo": "restic/restic",
+  "description": "Fast and secure backup program",
+  "category": "media",
+  "alternativeTo": [
+    "Backblaze",
+    "Acronis"
+  ],
+  "homepage": "https://restic.net",
+  "stars": 36888
+}

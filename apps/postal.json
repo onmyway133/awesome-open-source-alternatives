@@ -1,0 +1,13 @@
+{
+  "name": "Postal",
+  "repo": "postalserver/postal",
+  "description": "Mail delivery platform for transactional emails",
+  "category": "marketing",
+  "alternativeTo": [
+    "SendGrid",
+    "Mailgun",
+    "Postmark"
+  ],
+  "homepage": "https://postalserver.io",
+  "stars": 16906
+}

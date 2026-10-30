@@ -1,0 +1,13 @@
+{
+  "name": "Forem",
+  "repo": "forem/forem",
+  "description": "Open Source Alternative to Circle",
+  "category": "communication",
+  "alternativeTo": [
+    "Community",
+    "Discussion"
+  ],
+  "homepage": "https://forem.com/",
+  "icon": "https://avatars.githubusercontent.com/u/65030610?s=200&v=4",
+  "stars": 22815
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Reactive Resume",
+  "repo": "reactive-resume/reactive-resume",
+  "description": "Free resume builder with real-time preview",
+  "category": "other",
+  "alternativeTo": [
+    "Canva Resume",
+    "Resume.io"
+  ],
+  "homepage": "https://rxresu.me/",
+  "icon": "https://rxresu.me/logo/dark.svg",
+  "stars": 45103
+}

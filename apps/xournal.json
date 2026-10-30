@@ -1,0 +1,12 @@
+{
+  "name": "Xournal++",
+  "repo": "xournalpp/xournalpp",
+  "description": "Handwriting and PDF annotation",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notability",
+    "GoodNotes"
+  ],
+  "homepage": "https://xournalpp.github.io",
+  "stars": 15600
+}

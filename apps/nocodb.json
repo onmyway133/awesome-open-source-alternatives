@@ -1,0 +1,11 @@
+{
+  "name": "NocoDB",
+  "repo": "nocodb/nocodb",
+  "description": "Spreadsheet-like database interface with API generation",
+  "category": "backend",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "https://nocodb.com",
+  "stars": 65393
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OpenToonz",
+  "repo": "opentoonz/opentoonz",
+  "description": "2D animation production software",
+  "category": "design",
+  "alternativeTo": [
+    "Toon Boom"
+  ],
+  "homepage": "https://opentoonz.github.io/",
+  "stars": 7881
+}

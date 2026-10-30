@@ -1,0 +1,12 @@
+{
+  "name": "Krita",
+  "repo": "KDE/krita",
+  "description": "Digital painting and illustration",
+  "category": "design",
+  "alternativeTo": [
+    "Photoshop",
+    "Procreate"
+  ],
+  "homepage": "https://invent.kde.org/graphics/krita",
+  "stars": 10669
+}

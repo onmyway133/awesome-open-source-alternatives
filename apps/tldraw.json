@@ -1,0 +1,12 @@
+{
+  "name": "tldraw",
+  "repo": "tldraw/tldraw",
+  "description": "Collaborative digital whiteboard",
+  "category": "design",
+  "alternativeTo": [
+    "Miro",
+    "FigJam"
+  ],
+  "homepage": "https://tldraw.dev",
+  "stars": 51163
+}

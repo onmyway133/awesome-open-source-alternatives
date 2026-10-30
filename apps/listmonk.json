@@ -1,0 +1,12 @@
+{
+  "name": "listmonk",
+  "repo": "knadh/listmonk",
+  "description": "High-performance mailing list and newsletter manager",
+  "category": "marketing",
+  "alternativeTo": [
+    "Mailchimp",
+    "ConvertKit"
+  ],
+  "homepage": "https://listmonk.app",
+  "stars": 24076
+}

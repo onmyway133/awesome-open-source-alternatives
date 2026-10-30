@@ -1,0 +1,11 @@
+{
+  "name": "ArchiveBox",
+  "repo": "ArchiveBox/ArchiveBox",
+  "description": "Self-hosted web archiving tool",
+  "category": "media",
+  "alternativeTo": [
+    "Wayback Machine"
+  ],
+  "homepage": "https://archivebox.io",
+  "stars": 28906
+}

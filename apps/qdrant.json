@@ -1,0 +1,11 @@
+{
+  "name": "Qdrant",
+  "repo": "qdrant/qdrant",
+  "description": "Vector similarity search with filtering",
+  "category": "search-data",
+  "alternativeTo": [
+    "Pinecone"
+  ],
+  "homepage": "https://qdrant.tech",
+  "stars": 35338
+}
