@@ -35,8 +35,8 @@ Backends, hosting, databases and storage.
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
 | [Supabase](https://github.com/supabase/supabase) · [website](https://supabase.com/) | ⭐ 114k | PostgreSQL-based backend with auth, storage, and realtime APIs | Firebase |
+| [Coolify](https://github.com/coollabsio/coolify) · [website](https://coolify.io) | ⭐ 66k | Self-hosted PaaS for deploying apps and databases | Vercel, Netlify, Heroku |
 | [NocoDB](https://github.com/nocodb/nocodb) · [website](https://nocodb.com) | ⭐ 65k | Spreadsheet-like database interface with API generation | Airtable |
-| [Coolify](https://github.com/coollabsio/coolify) · [website](https://coolify.io) | ⭐ 65k | Self-hosted PaaS for deploying apps and databases | Vercel, Netlify, Heroku |
 | [Appwrite](https://github.com/appwrite/appwrite) · [website](https://appwrite.io/) | ⭐ 58k | Self-hosted backend with auth, database, storage, and functions | Firebase |
 | [Kong](https://github.com/Kong/kong) · [website](https://konghq.com/install/) | ⭐ 44k | Cloud-native API gateway and platform | AWS API Gateway |
 | [TiDB](https://github.com/pingcap/tidb) · [website](https://www.tidb.io/) | ⭐ 41k | Distributed SQL database compatible with MySQL | Amazon Aurora, CockroachDB Cloud |
@@ -64,8 +64,8 @@ Backends, hosting, databases and storage.
 | [YugabyteDB](https://github.com/yugabyte/yugabyte-db) · [website](https://www.yugabyte.com) | ⭐ 11k | Distributed SQL database for global apps | Amazon Aurora |
 | [Nhost](https://github.com/nhost/nhost) · [website](https://nhost.io) | ⭐ 9.4k | Backend with GraphQL on PostgreSQL | Firebase |
 | [Rowy](https://github.com/buildship-ai/rowy) · [website](http://rowy.io) | ⭐ 6.8k | Low-code backend with spreadsheet UI on Firestore | Airtable |
-| [Rivet](https://github.com/rivet-dev/rivet) · [website](https://www.rivet.dev) | ⭐ 6.5k | Serverless platform for game backends | AWS Lambda |
-| [Baserow](https://github.com/baserow/baserow) · [website](https://baserow.io) | ⭐ 6.2k | No-code database and app builder | Airtable |
+| [Rivet](https://github.com/rivet-dev/rivet) · [website](https://www.rivet.dev) | ⭐ 6.6k | Serverless platform for game backends | AWS Lambda |
+| [Baserow](https://github.com/baserow/baserow) · [website](https://baserow.io) | ⭐ 6.3k | No-code database and app builder | Airtable |
 | [EspoCRM](https://github.com/espocrm/espocrm) · [website](https://www.espocrm.com) | ⭐ 3.5k | CRM for managing relationships and projects | Airtable, Salesforce |
 | [Fusio](https://github.com/apioo/fusio) · [website](https://www.fusio-project.org) | ⭐ 2.1k | API management and development platform | Apigee |
 | [Kuzzle](https://github.com/kuzzleio/kuzzle) · [website](https://kuzzle.io) | ⭐ 1.7k | Backend for IoT and data-intensive apps | Firebase |
@@ -116,8 +116,8 @@ Chat interfaces, local models and AI platforms.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Ollama](https://github.com/ollama/ollama) · [website](https://ollama.com) | ⭐ 185k | Run large language models locally with simple commands | ChatGPT, OpenAI API |
-| [Open WebUI](https://github.com/open-webui/open-webui) · [website](https://openwebui.com) | ⭐ 157k | Self-hosted AI interface with RAG support | ChatGPT |
+| [Ollama](https://github.com/ollama/ollama) · [website](https://ollama.com) | ⭐ 186k | Run large language models locally with simple commands | ChatGPT, OpenAI API |
+| [Open WebUI](https://github.com/open-webui/open-webui) · [website](https://openwebui.com) | ⭐ 158k | Self-hosted AI interface with RAG support | ChatGPT |
 | [Langflow](https://github.com/langflow-ai/langflow) · [website](http://www.langflow.org) | ⭐ 156k | Visual platform for building AI agents and workflows | LangChain SaaS |
 | [LobeChat](https://github.com/lobehub/lobehub) · [website](https://chat-preview.lobehub.com/) | ⭐ 84k | AI chat platform with multi-agent support | ChatGPT |
 | [MLflow](https://github.com/mlflow/mlflow) · [website](https://mlflow.org) | ⭐ 29k | ML lifecycle platform for experiments and models | Weights & Biases |
@@ -156,7 +156,7 @@ Web analytics, observability and uptime.
 | [Sentry](https://github.com/getsentry/sentry) · [website](https://sentry.io) | ⭐ 46k | Error tracking and performance monitoring | Datadog, New Relic |
 | [PostHog](https://github.com/PostHog/posthog) · [website](https://posthog.com) | ⭐ 41k | Product analytics, session replay, and feature flags | Amplitude, Mixpanel |
 | [Umami](https://github.com/umami-software/umami) · [website](https://umami.is) | ⭐ 40k | Simple, fast privacy-focused analytics | Google Analytics |
-| [SigNoz](https://github.com/SigNoz/signoz) · [website](https://signoz.io) | ⭐ 32k | Logs, metrics, and traces in one platform | Datadog, New Relic |
+| [SigNoz](https://github.com/SigNoz/signoz) · [website](https://signoz.io) | ⭐ 33k | Logs, metrics, and traces in one platform | Datadog, New Relic |
 | [Plausible](https://github.com/plausible/analytics) · [website](https://plausible.io/) | ⭐ 30k | Privacy-focused web analytics | Google Analytics |
 | [Jaeger](https://github.com/jaegertracing/jaeger) · [website](https://www.jaegertracing.io/) | ⭐ 23k | Distributed tracing platform | Datadog APM, New Relic |
 | [Matomo](https://github.com/matomo-org/matomo) · [website](https://matomo.org/) | ⭐ 22k | Full-featured web analytics platform | Google Analytics |
@@ -182,7 +182,7 @@ Chat, video calls, email and collaboration.
 | [Discourse](https://github.com/discourse/discourse) · [website](https://www.discourse.org/) | ⭐ 48k | Community discussion platform | Traditional forums |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) · [website](https://rocket.chat/) | ⭐ 46k | Team communication and messaging platform | Slack |
 | [Novu](https://github.com/novuhq/novu) · [website](https://go.novu.co/github) | ⭐ 40k | Notification infrastructure for developers | Twilio, SendGrid |
-| [Mattermost](https://github.com/mattermost/mattermost) · [website](https://mattermost.com) | ⭐ 39k | Enterprise team collaboration platform | Slack |
+| [Mattermost](https://github.com/mattermost/mattermost) · [website](https://mattermost.com) | ⭐ 40k | Enterprise team collaboration platform | Slack |
 | [Chatwoot](https://github.com/chatwoot/chatwoot) · [website](https://www.chatwoot.com/help-center) | ⭐ 39k | Omnichannel customer support platform | Intercom, Zendesk |
 | [ntfy](https://github.com/binwiederhier/ntfy) · [website](https://ntfy.sh) | ⭐ 35k | Simple HTTP-based push notifications | Pushover, Firebase FCM |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) · [website](https://jitsi.org/meet) | ⭐ 30k | Video conferencing with WebRTC | Zoom, Google Meet |
@@ -251,7 +251,7 @@ File storage, sync, photos and streaming.
 | [restic](https://github.com/restic/restic) · [website](https://restic.net) | ⭐ 37k | Fast and secure backup program | Backblaze, Acronis |
 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) · [website](https://archivebox.io) | ⭐ 29k | Self-hosted web archiving tool | Wayback Machine |
 | [Seafile](https://github.com/haiwen/seafile) · [website](http://seafile.com/) | ⭐ 15k | File sync and share with encryption | Dropbox |
-| [MeshCentral](https://github.com/Ylianst/MeshCentral) · [website](https://meshcentral.com) | ⭐ 7.5k | Remote device management platform | TeamViewer |
+| [MeshCentral](https://github.com/Ylianst/MeshCentral) · [website](https://meshcentral.com) | ⭐ 7.6k | Remote device management platform | TeamViewer |
 
 ## Marketing & Social
 
@@ -259,7 +259,7 @@ Newsletters, social media, link management and comments.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Postiz](https://github.com/gitroomhq/postiz-app) · [website](https://postiz.com) | ⭐ 40k | AI social media scheduling tool | Buffer, Hypefury |
+| [Postiz](https://github.com/gitroomhq/postiz-app) · [website](https://postiz.com) | ⭐ 41k | AI social media scheduling tool | Buffer, Hypefury |
 | [Dub](https://github.com/dubinc/dub.link) · [website](https://dub.co/) | ⭐ 25k | Link shortening and conversion tracking | Bitly, Short.io |
 | [listmonk](https://github.com/knadh/listmonk) · [website](https://listmonk.app) | ⭐ 24k | High-performance mailing list and newsletter manager | Mailchimp, ConvertKit |
 | [Postal](https://github.com/postalserver/postal) · [website](https://postalserver.io) | ⭐ 17k | Mail delivery platform for transactional emails | SendGrid, Mailgun, Postmark |
@@ -279,7 +279,7 @@ Stores, CRM, ERP, invoicing and signatures.
 | [Odoo](https://github.com/odoo/odoo) · [website](https://www.odoo.com) | ⭐ 55k | Suite of business apps for CRM, sales, and accounting | Salesforce, SAP |
 | [ERPNext](https://github.com/frappe/erpnext) · [website](https://frappe.io/erpnext) | ⭐ 41k | Full-featured ERP for manufacturing and distribution | SAP, Oracle NetSuite |
 | [Medusa](https://github.com/medusajs/medusa) · [website](https://medusajs.com/) | ⭐ 37k | Headless commerce platform with modular architecture | Shopify |
-| [Salor](https://github.com/saleor/saleor) · [website](https://saleor.io/) | ⭐ 23k | GraphQL-based headless e-commerce | Shopify |
+| [Salor](https://github.com/saleor/saleor) · [website](https://saleor.io/) | ⭐ 24k | GraphQL-based headless e-commerce | Shopify |
 | [Documenso](https://github.com/documenso/documenso) · [website](https://documenso.com) | ⭐ 16k | Digital document signing | DocuSign, HelloSign |
 | [Lago](https://github.com/getlago/lago) · [website](https://www.getlago.com) | ⭐ 11k | Usage-based billing platform | Stripe Billing, Chargebee |
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) · [website](https://invoiceninja.com) | ⭐ 10k | Invoicing and billing platform | FreshBooks, QuickBooks |
@@ -328,9 +328,9 @@ Wikis, documentation, PDFs, office and forms.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) · [website](https://stirling.com) | ⭐ 95k | Self-hosted PDF manipulation tool | Adobe Acrobat, SmallPDF |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) · [website](https://stirling.com) | ⭐ 96k | Self-hosted PDF manipulation tool | Adobe Acrobat, SmallPDF |
 | [Docusaurus](https://github.com/meta/docusaurus) · [website](https://docusaurus.io/) | ⭐ 67k | Build optimized documentation websites | GitBook, ReadMe |
-| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) · [website](http://docs.paperless-ngx.com/) | ⭐ 47k | Document management system with OCR | DocuWare |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) · [website](http://docs.paperless-ngx.com/) | ⭐ 48k | Document management system with OCR | DocuWare |
 | [Univer](https://github.com/dream-num/univer) · [website](https://docs.univer.ai) | ⭐ 23k | Collaborative spreadsheets and docs framework | Google Sheets, Google Docs |
 | [VuePress](https://github.com/vuejs/vuepress) · [website](https://vuepress.vuejs.org) | ⭐ 23k | Vue-powered static site generator for docs | GitBook |
 | [Etherpad](https://github.com/ether/etherpad) · [website](https://etherpad.org) | ⭐ 19k | Real-time collaborative document editing | Google Docs |
