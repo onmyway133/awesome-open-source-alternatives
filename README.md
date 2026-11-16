@@ -36,7 +36,7 @@ Backends, hosting, databases and storage.
 |---------|------:|-------------|----------------|
 | [Supabase](https://github.com/supabase/supabase) · [website](https://supabase.com/) | ⭐ 115k | PostgreSQL-based backend with auth, storage, and realtime APIs | Firebase |
 | [Coolify](https://github.com/coollabsio/coolify) · [website](https://coolify.io) | ⭐ 66k | Self-hosted PaaS for deploying apps and databases | Vercel, Netlify, Heroku |
-| [NocoDB](https://github.com/nocodb/nocodb) · [website](https://nocodb.com) | ⭐ 65k | Spreadsheet-like database interface with API generation | Airtable |
+| [NocoDB](https://github.com/nocodb/nocodb) · [website](https://nocodb.com) | ⭐ 66k | Spreadsheet-like database interface with API generation | Airtable |
 | [Appwrite](https://github.com/appwrite/appwrite) · [website](https://appwrite.io/) | ⭐ 58k | Self-hosted backend with auth, database, storage, and functions | Firebase |
 | [Kong](https://github.com/Kong/kong) · [website](https://konghq.com/install/) | ⭐ 44k | Cloud-native API gateway and platform | AWS API Gateway |
 | [TiDB](https://github.com/pingcap/tidb) · [website](https://www.tidb.io/) | ⭐ 41k | Distributed SQL database compatible with MySQL | Amazon Aurora, CockroachDB Cloud |
@@ -58,13 +58,13 @@ Backends, hosting, databases and storage.
 | [Logto](https://github.com/logto-io/logto) · [website](https://logto.io) | ⭐ 15k | Auth infrastructure with sign-in experience | Auth0, Clerk |
 | [ArangoDB](https://github.com/arangodb/arangodb) · [website](https://www.arangodb.com) | ⭐ 14k | Multi-model database for graphs and documents | MongoDB Atlas |
 | [Redpanda](https://github.com/redpanda-data/redpanda) · [website](https://redpanda.com) | ⭐ 13k | Kafka-compatible streaming data platform | Confluent Cloud |
-| [Manticore Search](https://github.com/manticoresoftware/manticoresearch) · [website](https://manticoresearch.com) | ⭐ 12k | Fast search database engine | Elasticsearch |
 | [Grist](https://github.com/gristlabs/grist-core) · [website](https://www.getgrist.com) | ⭐ 12k | Spreadsheet-database hybrid with formulas | Airtable |
+| [Manticore Search](https://github.com/manticoresoftware/manticoresearch) · [website](https://manticoresearch.com) | ⭐ 12k | Fast search database engine | Elasticsearch |
 | [Centrifugo](https://github.com/centrifugal/centrifugo) · [website](https://centrifugal.dev) | ⭐ 11k | Scalable real-time messaging server | Pusher, Ably |
 | [YugabyteDB](https://github.com/yugabyte/yugabyte-db) · [website](https://www.yugabyte.com) | ⭐ 11k | Distributed SQL database for global apps | Amazon Aurora |
 | [Nhost](https://github.com/nhost/nhost) · [website](https://nhost.io) | ⭐ 9.4k | Backend with GraphQL on PostgreSQL | Firebase |
+| [Rivet](https://github.com/rivet-dev/rivet) · [website](https://www.rivet.dev) | ⭐ 6.9k | Serverless platform for game backends | AWS Lambda |
 | [Rowy](https://github.com/buildship-ai/rowy) · [website](http://rowy.io) | ⭐ 6.8k | Low-code backend with spreadsheet UI on Firestore | Airtable |
-| [Rivet](https://github.com/rivet-dev/rivet) · [website](https://www.rivet.dev) | ⭐ 6.8k | Serverless platform for game backends | AWS Lambda |
 | [Baserow](https://github.com/baserow/baserow) · [website](https://baserow.io) | ⭐ 6.3k | No-code database and app builder | Airtable |
 | [EspoCRM](https://github.com/espocrm/espocrm) · [website](https://www.espocrm.com) | ⭐ 3.6k | CRM for managing relationships and projects | Airtable, Salesforce |
 | [Fusio](https://github.com/apioo/fusio) · [website](https://www.fusio-project.org) | ⭐ 2.1k | API management and development platform | Apigee |
@@ -82,8 +82,8 @@ Git hosting, CI, code quality and API tools.
 | [Bruno](https://github.com/usebruno/bruno) · [website](https://www.usebruno.com/) | ⭐ 48k | Offline API client with Git-friendly file storage | Postman |
 | [Gogs](https://github.com/gogs/gogs) · [website](https://gogs.io) | ⭐ 48k | Painless self-hosted Git service in Go | GitHub, GitLab |
 | [Payload](https://github.com/payloadcms/payload) · [website](https://payloadcms.com) | ⭐ 46k | Next.js headless CMS framework | Contentful |
-| [ToolJet](https://github.com/ToolJet/ToolJet) · [website](https://tooljet.com) | ⭐ 41k | Low-code platform with database and API connectors | Retool |
 | [Appsmith](https://github.com/appsmithorg/appsmith) · [website](https://www.appsmith.com) | ⭐ 41k | Low-code platform for building internal tools | Retool |
+| [ToolJet](https://github.com/ToolJet/ToolJet) · [website](https://tooljet.com) | ⭐ 41k | Low-code platform with database and API connectors | Retool |
 | [Insomnia](https://github.com/Kong/insomnia) · [website](https://insomnia.rest) | ⭐ 40k | Cross-platform API client for REST, GraphQL, and gRPC | Postman |
 | [Directus](https://github.com/directus/directus) · [website](https://directus.com) | ⭐ 39k | Database-agnostic headless CMS with REST and GraphQL | Contentful |
 | [Refine](https://github.com/refinedev/refine) · [website](https://refine.dev) | ⭐ 36k | React framework for admin panels and dashboards | Retool |
@@ -95,7 +95,7 @@ Git hosting, CI, code quality and API tools.
 | [GitLab](https://github.com/gitlabhq/gitlabhq) · [website](https://gitlab.com/) | ⭐ 25k | Complete DevOps platform with CI/CD | GitHub |
 | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) · [website](https://www.beekeeperstudio.io) | ⭐ 24k | Cross-platform SQL editor and database manager | DataGrip, DBeaver |
 | [ThingsBoard](https://github.com/thingsboard/thingsboard) · [website](https://thingsboard.io) | ⭐ 23k | IoT platform for device management | AWS IoT, Azure IoT |
-| [Windmill](https://github.com/windmill-labs/windmill) · [website](https://windmill.dev) | ⭐ 18k | Developer platform for scripts and workflows | Retool, Airplane |
+| [Windmill](https://github.com/windmill-labs/windmill) · [website](https://windmill.dev) | ⭐ 19k | Developer platform for scripts and workflows | Retool, Airplane |
 | [Verdaccio](https://github.com/verdaccio/verdaccio) · [website](https://www.verdaccio.org/) | ⭐ 18k | Lightweight private npm registry | npm Enterprise |
 | [Semgrep](https://github.com/semgrep/semgrep) · [website](https://semgrep.dev) | ⭐ 18k | Static analysis for finding bugs and vulnerabilities | SonarQube, Snyk |
 | [TinaCMS](https://github.com/tinacms/tinacms) · [website](https://tina.io) | ⭐ 14k | Git-backed CMS with visual editing | Contentful |
@@ -104,7 +104,7 @@ Git hosting, CI, code quality and API tools.
 | [Webstudio](https://github.com/webstudio-is/webstudio) · [website](https://webstudio.is) | ⭐ 9.2k | Visual website builder for headless CMS | Webflow |
 | [Builder.io](https://github.com/BuilderIO/builder) · [website](https://builder.io) | ⭐ 8.9k | Visual editor and headless CMS | Contentful, Figma |
 | [GrowthBook](https://github.com/growthbook/growthbook) · [website](https://www.growthbook.io) | ⭐ 8.6k | Feature flags and A/B testing platform | LaunchDarkly, Optimizely |
-| [Webiny](https://github.com/webiny/webiny-js) · [website](https://www.webiny.com) | ⭐ 8k | Serverless CMS with page and form builders | Contentful |
+| [Webiny](https://github.com/webiny/webiny-js) · [website](https://www.webiny.com) | ⭐ 8.1k | Serverless CMS with page and form builders | Contentful |
 | [Plasmic](https://github.com/plasmicapp/plasmic) · [website](https://www.plasmic.app) | ⭐ 7.2k | Visual builder for React applications | Webflow, Framer |
 | [Apostrophe](https://github.com/apostrophecms/apostrophe) · [website](https://apostrophecms.com) | ⭐ 4.7k | Full-featured CMS and website builder | WordPress |
 | [Microweber](https://github.com/microweber/microweber) · [website](https://microweber.org) | ⭐ 3.4k | Drag-and-drop website builder with CMS | Wix, Squarespace |
@@ -116,10 +116,10 @@ Chat interfaces, local models and AI platforms.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Ollama](https://github.com/ollama/ollama) · [website](https://ollama.com) | ⭐ 186k | Run large language models locally with simple commands | ChatGPT, OpenAI API |
-| [Open WebUI](https://github.com/open-webui/open-webui) · [website](https://openwebui.com) | ⭐ 158k | Self-hosted AI interface with RAG support | ChatGPT |
-| [Langflow](https://github.com/langflow-ai/langflow) · [website](http://www.langflow.org) | ⭐ 156k | Visual platform for building AI agents and workflows | LangChain SaaS |
-| [LobeChat](https://github.com/lobehub/lobehub) · [website](https://chat-preview.lobehub.com/) | ⭐ 85k | AI chat platform with multi-agent support | ChatGPT |
+| [Ollama](https://github.com/ollama/ollama) · [website](https://ollama.com) | ⭐ 187k | Run large language models locally with simple commands | ChatGPT, OpenAI API |
+| [Open WebUI](https://github.com/open-webui/open-webui) · [website](https://openwebui.com) | ⭐ 159k | Self-hosted AI interface with RAG support | ChatGPT |
+| [Langflow](https://github.com/langflow-ai/langflow) · [website](http://www.langflow.org) | ⭐ 157k | Visual platform for building AI agents and workflows | LangChain SaaS |
+| [LobeChat](https://github.com/lobehub/lobehub) · [website](https://chat-preview.lobehub.com/) | ⭐ 86k | AI chat platform with multi-agent support | ChatGPT |
 | [MLflow](https://github.com/mlflow/mlflow) · [website](https://mlflow.org) | ⭐ 29k | ML lifecycle platform for experiments and models | Weights & Biases |
 | [Label Studio](https://github.com/HumanSignal/label-studio) · [website](https://labelstud.io) | ⭐ 29k | Multi-type data labeling and annotation tool | Scale AI |
 | [Screenpipe](https://github.com/screenpipe/screenpipe) · [website](https://screenpipe.com) | ⭐ 22k | 24/7 screen and audio capture with AI | Rewind, Microsoft Recall |
@@ -135,10 +135,10 @@ Search engines, BI and data platforms.
 | [Meilisearch](https://github.com/meilisearch/meilisearch) · [website](https://www.meilisearch.com) | ⭐ 60k | Fast search engine with typo tolerance and hybrid search | Algolia |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) · [website](https://clickhouse.com) | ⭐ 51k | Column-oriented OLAP database for analytics | Snowflake, BigQuery |
 | [Milvus](https://github.com/milvus-io/milvus) · [website](https://milvus.io) | ⭐ 47k | Vector database for AI applications | Pinecone |
-| [Qdrant](https://github.com/qdrant/qdrant) · [website](https://qdrant.tech) | ⭐ 35k | Vector similarity search with filtering | Pinecone |
+| [Qdrant](https://github.com/qdrant/qdrant) · [website](https://qdrant.tech) | ⭐ 36k | Vector similarity search with filtering | Pinecone |
 | [Typesense](https://github.com/typesense/typesense) · [website](https://typesense.org) | ⭐ 27k | Fast typo-tolerant search engine | Algolia |
 | [Airbyte](https://github.com/airbytehq/airbyte) · [website](https://airbyte.com) | ⭐ 22k | Data integration and ETL platform | Fivetran |
-| [Trino](https://github.com/trinodb/trino) · [website](https://trino.io) | ⭐ 13k | Distributed SQL query engine for big data | Snowflake, Databricks |
+| [Trino](https://github.com/trinodb/trino) · [website](https://trino.io) | ⭐ 14k | Distributed SQL query engine for big data | Snowflake, Databricks |
 
 ## Analytics & Monitoring
 
@@ -146,10 +146,10 @@ Web analytics, observability and uptime.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Uptime Kuma](https://github.com/louislam/uptime-kuma) · [website](https://uptime.kuma.pet) | ⭐ 93k | Self-hosted uptime monitoring | Uptime Robot, Pingdom |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) · [website](https://uptime.kuma.pet) | ⭐ 94k | Self-hosted uptime monitoring | Uptime Robot, Pingdom |
 | [Netdata](https://github.com/netdata/netdata) · [website](https://www.netdata.cloud/) | ⭐ 81k | Monitor your servers, containers, and applications, in high-resolution and in real-time! | Data, Log |
 | [Grafana](https://github.com/grafana/grafana) · [website](https://grafana.com/) | ⭐ 78k | Observability and data visualization platform | Datadog, New Relic |
-| [Superset](https://github.com/apache/superset) · [website](https://superset.apache.org/) | ⭐ 75k | Data visualization and exploration platform | Tableau, Looker |
+| [Superset](https://github.com/apache/superset) · [website](https://superset.apache.org/) | ⭐ 76k | Data visualization and exploration platform | Tableau, Looker |
 | [Prometheus](https://github.com/prometheus/prometheus) · [website](https://prometheus.io/) | ⭐ 68k | Monitoring and alerting toolkit | Datadog, New Relic |
 | [DBeaver](https://github.com/dbeaver/dbeaver) · [website](https://dbeaver.io) | ⭐ 52k | Universal database management tool | DataGrip, Navicat |
 | [Metabase](https://github.com/metabase/metabase) · [website](https://metabase.com) | ⭐ 50k | Business intelligence with visual query builder | Tableau, Power BI, Looker |
@@ -166,7 +166,7 @@ Web analytics, observability and uptime.
 | [OpenReplay](https://github.com/openreplay/openreplay) · [website](https://openreplay.com) | ⭐ 13k | Session replay and debugging platform | LogRocket, FullStory |
 | [Pyroscope](https://github.com/grafana/pyroscope) · [website](https://grafana.com/oss/pyroscope/) | ⭐ 12k | Continuous profiling platform | Datadog Profiler |
 | [Fathom Lite](https://github.com/usefathom/fathom) · [website](https://usefathom.com/) | ⭐ 8k | Simple privacy-focused website analytics | Google Analytics |
-| [Flagsmith](https://github.com/Flagsmith/flagsmith) · [website](https://www.flagsmith.com) | ⭐ 6.9k | Feature flags and remote config | LaunchDarkly |
+| [Flagsmith](https://github.com/Flagsmith/flagsmith) · [website](https://www.flagsmith.com) | ⭐ 7.3k | Feature flags and remote config | LaunchDarkly |
 | [GoatCounter](https://github.com/arp242/goatcounter) · [website](https://www.goatcounter.com) | ⭐ 6.2k | Simple web analytics without tracking | Google Analytics |
 | [Countly](https://github.com/Countly/countly-server) · [website](https://countly.com) | ⭐ 5.9k | Product analytics for mobile and web | Mixpanel, Amplitude |
 | [Ackee](https://github.com/electerious/Ackee) · [website](https://ackee.electerious.com) | ⭐ 4.7k | Self-hosted analytics with privacy focus | Google Analytics |
@@ -182,9 +182,9 @@ Chat, video calls, email and collaboration.
 | [Discourse](https://github.com/discourse/discourse) · [website](https://www.discourse.org/) | ⭐ 48k | Community discussion platform | Traditional forums |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) · [website](https://rocket.chat/) | ⭐ 46k | Team communication and messaging platform | Slack |
 | [Novu](https://github.com/novuhq/novu) · [website](https://go.novu.co/github) | ⭐ 40k | Notification infrastructure for developers | Twilio, SendGrid |
+| [Chatwoot](https://github.com/chatwoot/chatwoot) · [website](https://www.chatwoot.com/help-center) | ⭐ 40k | Omnichannel customer support platform | Intercom, Zendesk |
 | [Mattermost](https://github.com/mattermost/mattermost) · [website](https://mattermost.com) | ⭐ 40k | Enterprise team collaboration platform | Slack |
-| [Chatwoot](https://github.com/chatwoot/chatwoot) · [website](https://www.chatwoot.com/help-center) | ⭐ 39k | Omnichannel customer support platform | Intercom, Zendesk |
-| [ntfy](https://github.com/binwiederhier/ntfy) · [website](https://ntfy.sh) | ⭐ 35k | Simple HTTP-based push notifications | Pushover, Firebase FCM |
+| [ntfy](https://github.com/binwiederhier/ntfy) · [website](https://ntfy.sh) | ⭐ 36k | Simple HTTP-based push notifications | Pushover, Firebase FCM |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) · [website](https://jitsi.org/meet) | ⭐ 30k | Video conferencing with WebRTC | Zoom, Google Meet |
 | [Signal](https://github.com/signalapp/Signal-Android) · [website](https://signal.org) | ⭐ 30k | Private encrypted messaging | WhatsApp, Telegram |
 | [Zulip](https://github.com/zulip/zulip) · [website](https://zulip.com) | ⭐ 26k | Team chat with threaded conversations | Slack, Discord |
@@ -192,11 +192,11 @@ Chat, video calls, email and collaboration.
 | [Community Skeleton](https://github.com/uvdesk/community-skeleton) · [website](https://www.uvdesk.com) | ⭐ 20k | Helpdesk ticketing system | Zendesk, Freshdesk |
 | [Element](https://github.com/element-hq/element-web) · [website](https://element.io) | ⭐ 14k | Matrix chat client with E2E encryption | Slack, Discord |
 | [Inbox Zero](https://github.com/elie222/inbox-zero) · [website](https://www.getinboxzero.com/) | ⭐ 13k | Clean Up Your Inbox In Minutes | Inbox |
-| [Berty](https://github.com/berty/berty) · [website](https://berty.tech) | ⭐ 9.3k | Peer-to-peer encrypted messaging | Signal |
+| [Berty](https://github.com/berty/berty) · [website](https://berty.tech) | ⭐ 9.4k | Peer-to-peer encrypted messaging | Signal |
 | [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) · [website](https://bigbluebutton.org) | ⭐ 9.3k | Virtual classroom and web conferencing | Zoom, Google Meet |
 | [Janus](https://github.com/meetecho/janus-gateway) · [website](https://janus.conf.meetecho.com) | ⭐ 9.2k | General-purpose WebRTC server | Twilio Video |
 | [Zammad](https://github.com/zammad/zammad) · [website](https://zammad.org) | ⭐ 6.1k | Helpdesk and customer support | Zendesk |
-| [Remark42](https://github.com/umputun/remark42) · [website](https://remark42.com) | ⭐ 5.6k | Self-hosted comment engine | Disqus |
+| [Remark42](https://github.com/umputun/remark42) · [website](https://remark42.com) | ⭐ 5.7k | Self-hosted comment engine | Disqus |
 | [Rallly](https://github.com/lukevella/rallly) · [website](https://rallly.co) | ⭐ 5.4k | Meeting poll and scheduling tool | Doodle |
 | [Isso](https://github.com/isso-comments/isso) · [website](https://isso-comments.de) | ⭐ 5.3k | Lightweight commenting server | Disqus |
 | [Hi.Events](https://github.com/HiEventsDev/Hi.Events) · [website](https://hi.events) | ⭐ 4.2k | Event management and ticketing platform | Eventbrite |
@@ -211,8 +211,8 @@ Notes, tasks, project management and scheduling.
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) · [website](https://appflowy.com) | ⭐ 79k | AI workspace with kanban, docs, and databases | Notion |
-| [Affine](https://github.com/toeverything/AFFiNE) · [website](https://affine.pro/) | ⭐ 74k | Knowledge base with docs, whiteboards, and databases | Notion, Miro |
-| [Plane](https://github.com/makeplane/plane) · [website](http://plane.so) | ⭐ 62k | Issue tracking with cycles and modules | Jira, Linear, Asana |
+| [Affine](https://github.com/toeverything/AFFiNE) · [website](https://affine.pro/) | ⭐ 75k | Knowledge base with docs, whiteboards, and databases | Notion, Miro |
+| [Plane](https://github.com/makeplane/plane) · [website](http://plane.so) | ⭐ 63k | Issue tracking with cycles and modules | Jira, Linear, Asana |
 | [Joplin](https://github.com/laurent22/joplin) · [website](https://joplinapp.org) | ⭐ 57k | Note-taking app with sync and encryption | Evernote, OneNote |
 | [SiYuan](https://github.com/siyuan-note/siyuan) · [website](https://b3log.org/siyuan) | ⭐ 47k | Local-first personal knowledge management | Notion, Obsidian |
 | [Logseq](https://github.com/logseq/logseq) · [website](https://logseq.com) | ⭐ 46k | Privacy-first knowledge management platform | Roam Research, Notion |
@@ -230,7 +230,7 @@ Notes, tasks, project management and scheduling.
 | [wallabag](https://github.com/wallabag/wallabag) · [website](https://wallabag.org) | ⭐ 13k | Save and read articles later | Pocket, Instapaper |
 | [Planka](https://github.com/plankanban/planka) · [website](https://planka.app) | ⭐ 13k | Elegant kanban board for projects | Trello |
 | [Leantime](https://github.com/Leantime/leantime) · [website](https://leantime.io) | ⭐ 12k | Strategic project management for teams | Monday, Asana |
-| [Kanboard](https://github.com/kanboard/kanboard) · [website](https://kanboard.org) | ⭐ 9.9k | Minimalist Kanban project management | Trello |
+| [Kanboard](https://github.com/kanboard/kanboard) · [website](https://kanboard.org) | ⭐ 10k | Minimalist Kanban project management | Trello |
 | [Dendron](https://github.com/dendronhq/dendron) · [website](https://wiki.dendron.so) | ⭐ 7.5k | Personal knowledge management in VS Code | Roam Research |
 | [Standard Notes](https://github.com/standardnotes/app) · [website](https://standardnotes.com) | ⭐ 6.7k | Encrypted notes app with longevity focus | Evernote, Apple Notes |
 | [Fider](https://github.com/getfider/fider) · [website](https://fider.io) | ⭐ 4.6k | Feature voting and feedback collection | Canny, UserVoice |
@@ -242,16 +242,16 @@ File storage, sync, photos and streaming.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Rustdesk](https://github.com/rustdesk/rustdesk) · [website](https://rustdesk.com) | ⭐ 129k | Remote desktop with self-hosted server option | TeamViewer, AnyDesk |
+| [Rustdesk](https://github.com/rustdesk/rustdesk) · [website](https://rustdesk.com) | ⭐ 130k | Remote desktop with self-hosted server option | TeamViewer, AnyDesk |
 | [Immich](https://github.com/immich-app/immich) · [website](https://immich.app) | ⭐ 119k | Self-hosted photo and video backup with AI features | Google Photos |
 | [Syncthing](https://github.com/syncthing/syncthing) · [website](https://syncthing.net/) | ⭐ 90k | Continuous file synchronization | Dropbox, Resilio Sync |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) · [website](https://jellyfin.org/) | ⭐ 59k | Open Source Alternative to Plex, Netflix | Netflix, Media |
 | [PhotoPrism](https://github.com/photoprism/photoprism) · [website](https://www.photoprism.app) | ⭐ 40k | AI-powered photos app with browsing and sharing | Google Photos |
-| [Nextcloud](https://github.com/nextcloud/server) · [website](https://nextcloud.com) | ⭐ 37k | Self-hosted cloud storage with collaboration | Dropbox, Google Drive |
+| [Nextcloud](https://github.com/nextcloud/server) · [website](https://nextcloud.com) | ⭐ 38k | Self-hosted cloud storage with collaboration | Dropbox, Google Drive |
 | [restic](https://github.com/restic/restic) · [website](https://restic.net) | ⭐ 37k | Fast and secure backup program | Backblaze, Acronis |
 | [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) · [website](https://archivebox.io) | ⭐ 29k | Self-hosted web archiving tool | Wayback Machine |
 | [Seafile](https://github.com/haiwen/seafile) · [website](http://seafile.com/) | ⭐ 15k | File sync and share with encryption | Dropbox |
-| [MeshCentral](https://github.com/Ylianst/MeshCentral) · [website](https://meshcentral.com) | ⭐ 7.6k | Remote device management platform | TeamViewer |
+| [MeshCentral](https://github.com/Ylianst/MeshCentral) · [website](https://meshcentral.com) | ⭐ 7.7k | Remote device management platform | TeamViewer |
 
 ## Marketing & Social
 
@@ -259,7 +259,7 @@ Newsletters, social media, link management and comments.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Postiz](https://github.com/gitroomhq/postiz-app) · [website](https://postiz.com) | ⭐ 41k | AI social media scheduling tool | Buffer, Hypefury |
+| [Postiz](https://github.com/gitroomhq/postiz-app) · [website](https://postiz.com) | ⭐ 42k | AI social media scheduling tool | Buffer, Hypefury |
 | [Dub](https://github.com/dubinc/dub.link) · [website](https://dub.co/) | ⭐ 25k | Link shortening and conversion tracking | Bitly, Short.io |
 | [listmonk](https://github.com/knadh/listmonk) · [website](https://listmonk.app) | ⭐ 24k | High-performance mailing list and newsletter manager | Mailchimp, ConvertKit |
 | [Postal](https://github.com/postalserver/postal) · [website](https://postalserver.io) | ⭐ 17k | Mail delivery platform for transactional emails | SendGrid, Mailgun, Postmark |
@@ -283,7 +283,7 @@ Stores, CRM, ERP, invoicing and signatures.
 | [Documenso](https://github.com/documenso/documenso) · [website](https://documenso.com) | ⭐ 16k | Digital document signing | DocuSign, HelloSign |
 | [Lago](https://github.com/getlago/lago) · [website](https://www.getlago.com) | ⭐ 11k | Usage-based billing platform | Stripe Billing, Chargebee |
 | [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) · [website](https://invoiceninja.com) | ⭐ 11k | Invoicing and billing platform | FreshBooks, QuickBooks |
-| [OpenSign](https://github.com/OpenSignLabs/OpenSign) · [website](https://www.opensignlabs.com) | ⭐ 7.2k | Free e-signature solution | DocuSign |
+| [OpenSign](https://github.com/OpenSignLabs/OpenSign) · [website](https://www.opensignlabs.com) | ⭐ 7.3k | Free e-signature solution | DocuSign |
 | [RudderStack](https://github.com/rudderlabs/rudder-server) · [website](https://www.rudderstack.com/) | ⭐ 4.5k | Customer data platform | Segment |
 | [erxes](https://github.com/erxes/erxes) · [website](https://erxes.io) | ⭐ 4.1k | Experience operating system for CRM | HubSpot |
 | [btw](https://github.com/btw-so/btw) · [website](https://btw.so) | ⭐ 1.3k | Personal website and blog builder | Medium |
@@ -294,14 +294,14 @@ Design, whiteboards and diagramming.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Excalidraw](https://github.com/excalidraw/excalidraw) · [website](https://excalidraw.com) | ⭐ 135k | Virtual whiteboard for sketching hand-drawn diagrams | Miro, FigJam |
+| [Excalidraw](https://github.com/excalidraw/excalidraw) · [website](https://excalidraw.com) | ⭐ 136k | Virtual whiteboard for sketching hand-drawn diagrams | Miro, FigJam |
 | [Penpot](https://github.com/penpot/penpot) · [website](https://penpot.app/) | ⭐ 62k | Design and code collaboration platform | Figma |
 | [tldraw](https://github.com/tldraw/tldraw) · [website](https://tldraw.dev) | ⭐ 51k | Collaborative digital whiteboard | Miro, FigJam |
 | [darktable](https://github.com/darktable-org/darktable) · [website](https://www.darktable.org) | ⭐ 13k | Photography workflow and raw developer | Adobe Lightroom |
 | [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) · [website](https://www.pixelorama.org/) | ⭐ 11k | 2D sprite editor for pixel art | Aseprite |
 | [Krita](https://github.com/KDE/krita) · [website](https://invent.kde.org/graphics/krita) | ⭐ 11k | Digital painting and illustration | Photoshop, Procreate |
-| [Open Pencil](https://github.com/open-pencil/open-pencil) · [website](https://openpencil.dev) | ⭐ 9.7k | AI-native design editor with .fig file support | Figma |
-| [OpenToonz](https://github.com/opentoonz/opentoonz) · [website](https://opentoonz.github.io/) | ⭐ 8.1k | 2D animation production software | Toon Boom |
+| [Open Pencil](https://github.com/open-pencil/open-pencil) · [website](https://openpencil.dev) | ⭐ 9.9k | AI-native design editor with .fig file support | Figma |
+| [OpenToonz](https://github.com/opentoonz/opentoonz) · [website](https://opentoonz.github.io/) | ⭐ 8.3k | 2D animation production software | Toon Boom |
 | [GIMP](https://github.com/GNOME/gimp) · [website](https://gitlab.gnome.org/GNOME/gimp) | ⭐ 6.6k | Image manipulation program | Adobe Photoshop |
 | [Natron](https://github.com/NatronGitHub/Natron) · [website](http://NatronGitHub.github.io) | ⭐ 5.7k | VFX compositing software | After Effects, Nuke |
 | [Inkscape](https://github.com/inkscape/inkscape) · [website](http://www.inkscape.org/) | ⭐ 4.1k | Vector graphics editor | Adobe Illustrator |
@@ -313,10 +313,10 @@ Passwords, auth, VPN and privacy.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 70k | Lightweight Bitwarden server implementation | 1Password, LastPass |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | ⭐ 71k | Lightweight Bitwarden server implementation | 1Password, LastPass |
 | [Mastodon](https://github.com/mastodon/mastodon) · [website](https://joinmastodon.org) | ⭐ 51k | Decentralized social network using ActivityPub | Twitter/X |
-| [Vault](https://github.com/hashicorp/vault) · [website](https://www.vaultproject.io/) | ⭐ 36k | Open Source Alternative To 1Password | Password |
-| [Infisical](https://github.com/Infisical/infisical) · [website](https://infisical.com) | ⭐ 30k | Secret management platform for teams | HashiCorp Vault, Doppler |
+| [Vault](https://github.com/hashicorp/vault) · [website](https://www.vaultproject.io/) | ⭐ 37k | Open Source Alternative To 1Password | Password |
+| [Infisical](https://github.com/Infisical/infisical) · [website](https://infisical.com) | ⭐ 31k | Secret management platform for teams | HashiCorp Vault, Doppler |
 | [KeePassXC](https://github.com/keepassxreboot/keepassxc) · [website](https://keepassxc.org/) | ⭐ 30k | Cross-platform password manager | 1Password, LastPass |
 | [PeerTube](https://github.com/Chocobozzz/PeerTube) · [website](https://joinpeertube.org/) | ⭐ 15k | Decentralized video hosting with P2P | YouTube |
 | [Bitwarden](https://github.com/bitwarden/clients) · [website](https://bitwarden.com) | ⭐ 14k | Password manager with browser and desktop apps | 1Password, LastPass |
@@ -328,15 +328,15 @@ Wikis, documentation, PDFs, office and forms.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) · [website](https://stirling.com) | ⭐ 96k | Self-hosted PDF manipulation tool | Adobe Acrobat, SmallPDF |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) · [website](https://stirling.com) | ⭐ 97k | Self-hosted PDF manipulation tool | Adobe Acrobat, SmallPDF |
 | [Docusaurus](https://github.com/meta/docusaurus) · [website](https://docusaurus.io/) | ⭐ 67k | Build optimized documentation websites | GitBook, ReadMe |
 | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) · [website](http://docs.paperless-ngx.com/) | ⭐ 48k | Document management system with OCR | DocuWare |
-| [Univer](https://github.com/dream-num/univer) · [website](https://docs.univer.ai) | ⭐ 23k | Collaborative spreadsheets and docs framework | Google Sheets, Google Docs |
+| [Univer](https://github.com/dream-num/univer) · [website](https://docs.univer.ai) | ⭐ 27k | Collaborative spreadsheets and docs framework | Google Sheets, Google Docs |
 | [VuePress](https://github.com/vuejs/vuepress) · [website](https://vuepress.vuejs.org) | ⭐ 23k | Vue-powered static site generator for docs | GitBook |
 | [Etherpad](https://github.com/ether/etherpad) · [website](https://etherpad.org) | ⭐ 19k | Real-time collaborative document editing | Google Docs |
 | [Formbricks](https://github.com/formbricks/formbricks) · [website](https://formbricks.com) | ⭐ 13k | Survey and experience management platform | Typeform, SurveyMonkey |
 | [Typebot](https://github.com/baptisteArno/typebot.io) · [website](https://typebot.io) | ⭐ 11k | Visual chatbot builder with embeddable widgets | Typeform, Landbot, Drift |
-| [Papermark](https://github.com/papermark/papermark) · [website](https://www.papermark.com) | ⭐ 9.3k | Document sharing with analytics | DocSend |
+| [Papermark](https://github.com/papermark/papermark) · [website](https://www.papermark.com) | ⭐ 9.4k | Document sharing with analytics | DocSend |
 | [CryptPad](https://github.com/cryptpad/cryptpad) · [website](https://cryptpad.org) | ⭐ 8.1k | End-to-end encrypted collaborative editing | Google Docs |
 | [HedgeDoc](https://github.com/hedgedoc/hedgedoc) · [website](https://hedgedoc.org) | ⭐ 7.5k | Collaborative markdown notes | HackMD, Notion |
 | [ONLYOFFICE Docs](https://github.com/ONLYOFFICE/DocumentServer) · [website](https://www.onlyoffice.com/see-it-in-action) | ⭐ 7.1k | Online document editing suite | Google Docs, Microsoft 365 |
@@ -349,12 +349,12 @@ Workflow automation, browser automation and scraping.
 
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
-| [n8n](https://github.com/n8n-io/n8n) · [website](https://n8n.io/) | ⭐ 210k | Workflow automation with visual builder | Zapier, Make |
+| [n8n](https://github.com/n8n-io/n8n) · [website](https://n8n.io/) | ⭐ 211k | Workflow automation with visual builder | Zapier, Make |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) · [website](https://pptr.dev) | ⭐ 96k | Headless Chrome automation library | Selenium |
 | [Scrapy](https://github.com/scrapy/scrapy) · [website](https://scrapy.org) | ⭐ 65k | Fast web crawling framework | Apify |
-| [Huginn](https://github.com/huginn/huginn) | ⭐ 50k | Automation agents that monitor and act on your behalf | IFTTT, Zapier |
+| [Huginn](https://github.com/huginn/huginn) | ⭐ 51k | Automation agents that monitor and act on your behalf | IFTTT, Zapier |
 | [Crawlee](https://github.com/apify/crawlee) · [website](https://crawlee.dev) | ⭐ 26k | Web scraping and browser automation library | Apify |
-| [Activepieces](https://github.com/activepieces/activepieces) · [website](https://www.activepieces.com) | ⭐ 25k | No-code automation tool with 200+ integrations | Zapier, Make |
+| [Activepieces](https://github.com/activepieces/activepieces) · [website](https://www.activepieces.com) | ⭐ 26k | No-code automation tool with 200+ integrations | Zapier, Make |
 | [Automatisch](https://github.com/automatisch/automatisch) · [website](https://automatisch.io) | ⭐ 14k | Business automation platform | Zapier |
 | [Pipedream](https://github.com/PipedreamHQ/pipedream) · [website](https://pipedream.com) | ⭐ 12k | Workflow automation for developers | Zapier |
 | [StackStorm](https://github.com/StackStorm/st2) · [website](https://stackstorm.com/) | ⭐ 6.6k | Event-driven DevOps automation | Rundeck |
@@ -366,7 +366,7 @@ Provisioning, orchestration and service meshes.
 | Project | Stars | Description | Alternative to |
 |---------|------:|-------------|----------------|
 | [Terraform](https://github.com/hashicorp/terraform) · [website](http://developer.hashicorp.com/terraform) | ⭐ 50k | Infrastructure provisioning with declarative config | Terraform Cloud |
-| [Istio](https://github.com/istio/istio) · [website](https://istio.io) | ⭐ 38k | Service mesh for microservices networking | AWS App Mesh |
+| [Istio](https://github.com/istio/istio) · [website](https://istio.io) | ⭐ 39k | Service mesh for microservices networking | AWS App Mesh |
 | [Pulumi](https://github.com/pulumi/pulumi) · [website](https://www.pulumi.com) | ⭐ 26k | Infrastructure as code using programming languages | Terraform Cloud |
 | [Netbox](https://github.com/netbox-community/netbox) · [website](https://netboxlabs.com/products/netbox/) | ⭐ 22k | Network automation and IPAM | SolarWinds IPAM |
 | [Linkerd](https://github.com/linkerd/linkerd2) · [website](https://linkerd.io) | ⭐ 12k | Ultralight service mesh for Kubernetes | AWS App Mesh |
