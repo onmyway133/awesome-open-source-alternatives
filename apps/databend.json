@@ -1,0 +1,12 @@
+{
+  "name": "Databend",
+  "repo": "databendlabs/databend",
+  "description": "Cloud data warehouse for analytics and AI",
+  "category": "search-data",
+  "alternativeTo": [
+    "Snowflake"
+  ],
+  "homepage": "https://docs.databend.com",
+  "icon": "https://github.com/databendlabs.png?size=256",
+  "stars": 9507
+}

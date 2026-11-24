@@ -1,0 +1,12 @@
+{
+  "name": "Cap",
+  "repo": "CapSoftware/Cap",
+  "description": "Screen recording and sharing",
+  "category": "media",
+  "alternativeTo": [
+    "Loom"
+  ],
+  "homepage": "https://cap.so",
+  "icon": "https://github.com/CapSoftware.png?size=256",
+  "stars": 25534
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YOURLS",
+  "repo": "YOURLS/YOURLS",
+  "description": "Self-hosted URL shortener",
+  "category": "marketing",
+  "alternativeTo": [
+    "Bitly",
+    "TinyURL"
+  ],
+  "homepage": "https://yourls.org",
+  "icon": "https://github.com/YOURLS.png?size=256",
+  "stars": 12316
+}

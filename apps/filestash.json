@@ -1,0 +1,12 @@
+{
+  "name": "Filestash",
+  "repo": "mickael-kerjean/filestash",
+  "description": "Web file manager for FTP, S3, SFTP and more",
+  "category": "media",
+  "alternativeTo": [
+    "Dropbox",
+    "Google Drive"
+  ],
+  "homepage": "https://www.filestash.app/",
+  "stars": 14927
+}

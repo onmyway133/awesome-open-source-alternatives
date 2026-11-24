@@ -1,0 +1,12 @@
+{
+  "name": "OpenCode",
+  "repo": "anomalyco/opencode",
+  "description": "AI coding agent for the terminal",
+  "category": "ai",
+  "alternativeTo": [
+    "Claude Code"
+  ],
+  "homepage": "https://opencode.ai",
+  "icon": "https://github.com/anomalyco.png?size=256",
+  "stars": 228967
+}

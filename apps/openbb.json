@@ -1,0 +1,12 @@
+{
+  "name": "OpenBB",
+  "repo": "openbq-org/OpenBB",
+  "description": "Financial data platform for analysts, quants and AI agents",
+  "category": "search-data",
+  "alternativeTo": [
+    "Bloomberg Terminal"
+  ],
+  "homepage": "https://openbb.co",
+  "icon": "https://github.com/openbq-org.png?size=256",
+  "stars": 75698
+}

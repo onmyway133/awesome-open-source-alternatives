@@ -1,0 +1,13 @@
+{
+  "name": "SimpleX Chat",
+  "repo": "simplex-chat/simplex-chat",
+  "description": "Private messenger with no user identifiers",
+  "category": "communication",
+  "alternativeTo": [
+    "WhatsApp",
+    "Telegram"
+  ],
+  "homepage": "https://simplex.chat",
+  "icon": "https://github.com/simplex-chat.png?size=256",
+  "stars": 19762
+}

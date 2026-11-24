@@ -1,0 +1,13 @@
+{
+  "name": "Memos",
+  "repo": "usememos/memos",
+  "description": "Lightweight self-hosted notes and memos",
+  "category": "productivity",
+  "alternativeTo": [
+    "Google Keep",
+    "Apple Notes"
+  ],
+  "homepage": "https://usememos.com",
+  "icon": "https://github.com/usememos.png?size=256",
+  "stars": 64673
+}

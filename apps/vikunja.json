@@ -1,0 +1,13 @@
+{
+  "name": "Vikunja",
+  "repo": "go-vikunja/vikunja",
+  "description": "Self-hosted task manager with lists, kanban and Gantt",
+  "category": "productivity",
+  "alternativeTo": [
+    "Todoist",
+    "Trello"
+  ],
+  "homepage": "https://vikunja.io",
+  "icon": "https://github.com/go-vikunja.png?size=256",
+  "stars": 6173
+}

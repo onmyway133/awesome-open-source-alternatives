@@ -1,0 +1,12 @@
+{
+  "name": "Langfuse",
+  "repo": "langfuse/langfuse",
+  "description": "LLM observability, evals and prompt management",
+  "category": "ai",
+  "alternativeTo": [
+    "LangSmith"
+  ],
+  "homepage": "https://langfuse.com",
+  "icon": "https://github.com/langfuse.png?size=256",
+  "stars": 37799
+}

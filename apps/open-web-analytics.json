@@ -1,0 +1,12 @@
+{
+  "name": "Open Web Analytics",
+  "repo": "Open-Web-Analytics/Open-Web-Analytics",
+  "description": "Web analytics framework",
+  "category": "analytics",
+  "alternativeTo": [
+    "Google Analytics"
+  ],
+  "homepage": "http://www.openwebanalytics.com",
+  "icon": "https://github.com/Open-Web-Analytics.png?size=256",
+  "stars": 2693
+}

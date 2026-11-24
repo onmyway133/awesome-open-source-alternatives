@@ -1,0 +1,13 @@
+{
+  "name": "Nuclei",
+  "repo": "projectdiscovery/nuclei",
+  "description": "Fast, template-based vulnerability scanner",
+  "category": "security",
+  "alternativeTo": [
+    "Burp Suite",
+    "Nessus"
+  ],
+  "homepage": "https://docs.projectdiscovery.io/tools/nuclei",
+  "icon": "https://github.com/projectdiscovery.png?size=256",
+  "stars": 33250
+}

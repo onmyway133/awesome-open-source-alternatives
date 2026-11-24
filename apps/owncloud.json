@@ -1,0 +1,13 @@
+{
+  "name": "ownCloud",
+  "repo": "owncloud/core",
+  "description": "File sync and share server",
+  "category": "media",
+  "alternativeTo": [
+    "Dropbox",
+    "Google Drive"
+  ],
+  "homepage": "https://owncloud.com",
+  "icon": "https://github.com/owncloud.png?size=256",
+  "stars": 8850
+}

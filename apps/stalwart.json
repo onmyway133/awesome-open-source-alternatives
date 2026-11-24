@@ -1,0 +1,13 @@
+{
+  "name": "Stalwart",
+  "repo": "stalwartlabs/stalwart",
+  "description": "All-in-one mail and collaboration server",
+  "category": "communication",
+  "alternativeTo": [
+    "Microsoft Exchange",
+    "Google Workspace"
+  ],
+  "homepage": "https://stalw.art",
+  "icon": "https://github.com/stalwartlabs.png?size=256",
+  "stars": 16271
+}

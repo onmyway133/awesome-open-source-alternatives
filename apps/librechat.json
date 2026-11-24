@@ -1,0 +1,12 @@
+{
+  "name": "LibreChat",
+  "repo": "LibreChat-AI/LibreChat",
+  "description": "Chat interface for many AI models with agents and tools",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT"
+  ],
+  "homepage": "https://librechat.ai/",
+  "icon": "https://github.com/LibreChat-AI.png?size=256",
+  "stars": 47493
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LibreTranslate",
+  "repo": "LibreTranslate/LibreTranslate",
+  "description": "Self-hosted machine translation API",
+  "category": "other",
+  "alternativeTo": [
+    "Google Translate",
+    "DeepL"
+  ],
+  "homepage": "https://libretranslate.com",
+  "icon": "https://github.com/LibreTranslate.png?size=256",
+  "stars": 17842
+}

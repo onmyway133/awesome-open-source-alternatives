@@ -1,0 +1,13 @@
+{
+  "name": "openstatus",
+  "repo": "openstatusHQ/openstatus",
+  "description": "Status page and uptime monitoring",
+  "category": "analytics",
+  "alternativeTo": [
+    "Statuspage",
+    "Better Stack"
+  ],
+  "homepage": "https://openstatus.dev",
+  "icon": "https://github.com/openstatusHQ.png?size=256",
+  "stars": 9281
+}

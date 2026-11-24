@@ -1,0 +1,12 @@
+{
+  "name": "FreeScout",
+  "repo": "freescout-help-desk/freescout",
+  "description": "Help desk and shared inbox",
+  "category": "communication",
+  "alternativeTo": [
+    "Help Scout",
+    "Zendesk"
+  ],
+  "homepage": "https://freescout.net",
+  "stars": 4680
+}

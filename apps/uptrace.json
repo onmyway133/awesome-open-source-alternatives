@@ -1,0 +1,13 @@
+{
+  "name": "Uptrace",
+  "repo": "uptrace/uptrace",
+  "description": "APM with OpenTelemetry traces, metrics and logs",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "New Relic"
+  ],
+  "homepage": "https://uptrace.dev/get/hosted/open-source-apm",
+  "icon": "https://github.com/uptrace.png?size=256",
+  "stars": 4323
+}

@@ -1,0 +1,13 @@
+{
+  "name": "draw.io",
+  "repo": "jgraph/drawio",
+  "description": "Diagramming app for flowcharts, UML and network diagrams",
+  "category": "design",
+  "alternativeTo": [
+    "Lucidchart",
+    "Microsoft Visio"
+  ],
+  "homepage": "https://www.drawio.com",
+  "icon": "https://github.com/jgraph.png?size=256",
+  "stars": 9560
+}

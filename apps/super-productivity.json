@@ -1,0 +1,13 @@
+{
+  "name": "Super Productivity",
+  "repo": "super-productivity/super-productivity",
+  "description": "To-do list, time tracker and daily planner",
+  "category": "productivity",
+  "alternativeTo": [
+    "Todoist",
+    "Toggl Track"
+  ],
+  "homepage": "http://super-productivity.com?ref=github",
+  "icon": "https://github.com/super-productivity.png?size=256",
+  "stars": 24041
+}

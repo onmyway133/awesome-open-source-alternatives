@@ -1,0 +1,13 @@
+{
+  "name": "Netmaker",
+  "repo": "gravitl/netmaker",
+  "description": "WireGuard-powered zero-trust networking platform",
+  "category": "security",
+  "alternativeTo": [
+    "Tailscale",
+    "ZeroTier"
+  ],
+  "homepage": "https://netmaker.io",
+  "icon": "https://github.com/gravitl.png?size=256",
+  "stars": 11883
+}

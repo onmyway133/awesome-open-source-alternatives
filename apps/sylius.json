@@ -1,0 +1,13 @@
+{
+  "name": "Sylius",
+  "repo": "Sylius/Sylius",
+  "description": "Headless eCommerce platform on Symfony",
+  "category": "business",
+  "alternativeTo": [
+    "Shopify Plus",
+    "commercetools"
+  ],
+  "homepage": "https://sylius.com",
+  "icon": "https://github.com/Sylius.png?size=256",
+  "stars": 8578
+}

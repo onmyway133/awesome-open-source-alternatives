@@ -1,0 +1,13 @@
+{
+  "name": "Firezone",
+  "repo": "firezone/firezone",
+  "description": "Zero-trust remote access built on WireGuard",
+  "category": "security",
+  "alternativeTo": [
+    "Tailscale",
+    "Cisco AnyConnect"
+  ],
+  "homepage": "https://www.firezone.dev",
+  "icon": "https://github.com/firezone.png?size=256",
+  "stars": 9199
+}

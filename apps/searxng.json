@@ -1,0 +1,12 @@
+{
+  "name": "SearXNG",
+  "repo": "searxng/searxng",
+  "description": "Privacy-respecting metasearch engine",
+  "category": "search-data",
+  "alternativeTo": [
+    "Google Search"
+  ],
+  "homepage": "https://docs.searxng.org",
+  "icon": "https://github.com/searxng.png?size=256",
+  "stars": 39828
+}

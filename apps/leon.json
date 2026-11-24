@@ -1,0 +1,13 @@
+{
+  "name": "Leon",
+  "repo": "leon-ai/leon",
+  "description": "Open source personal assistant",
+  "category": "ai",
+  "alternativeTo": [
+    "Siri",
+    "Alexa"
+  ],
+  "homepage": "https://getleon.ai",
+  "icon": "https://github.com/leon-ai.png?size=256",
+  "stars": 17714
+}

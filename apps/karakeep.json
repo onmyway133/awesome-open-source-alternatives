@@ -1,0 +1,13 @@
+{
+  "name": "Karakeep",
+  "repo": "karakeep-app/karakeep",
+  "description": "Bookmark everything with AI tagging and search",
+  "category": "productivity",
+  "alternativeTo": [
+    "Pocket",
+    "Raindrop.io"
+  ],
+  "homepage": "https://karakeep.com",
+  "icon": "https://github.com/karakeep-app.png?size=256",
+  "stars": 30824
+}

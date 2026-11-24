@@ -1,0 +1,13 @@
+{
+  "name": "Firefly III",
+  "repo": "firefly-iii/firefly-iii",
+  "description": "Personal finance manager",
+  "category": "business",
+  "alternativeTo": [
+    "YNAB",
+    "Mint"
+  ],
+  "homepage": "https://firefly-iii.org/",
+  "icon": "https://github.com/firefly-iii.png?size=256",
+  "stars": 25330
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kimai",
+  "repo": "kimai/kimai",
+  "description": "Time tracking for freelancers and companies",
+  "category": "productivity",
+  "alternativeTo": [
+    "Harvest",
+    "Toggl Track"
+  ],
+  "homepage": "https://www.kimai.org",
+  "icon": "https://github.com/kimai.png?size=256",
+  "stars": 5178
+}

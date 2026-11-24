@@ -1,0 +1,12 @@
+{
+  "name": "Cline",
+  "repo": "cline/cline",
+  "description": "Autonomous coding agent in your IDE",
+  "category": "ai",
+  "alternativeTo": [
+    "Cursor"
+  ],
+  "homepage": "https://cline.bot",
+  "icon": "https://github.com/cline.png?size=256",
+  "stars": 71868
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Akaunting",
+  "repo": "akaunting/akaunting",
+  "description": "Online accounting software for small businesses",
+  "category": "business",
+  "alternativeTo": [
+    "QuickBooks",
+    "Xero"
+  ],
+  "homepage": "https://akaunting.com",
+  "icon": "https://github.com/akaunting.png?size=256",
+  "stars": 10338
+}

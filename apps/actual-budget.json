@@ -1,0 +1,12 @@
+{
+  "name": "Actual Budget",
+  "repo": "actualbudget/actual",
+  "description": "Local-first personal budgeting app",
+  "category": "business",
+  "alternativeTo": [
+    "YNAB"
+  ],
+  "homepage": "https://actualbudget.org",
+  "icon": "https://github.com/actualbudget.png?size=256",
+  "stars": 30441
+}

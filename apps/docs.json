@@ -1,0 +1,13 @@
+{
+  "name": "Docs",
+  "repo": "suitenumerique/docs",
+  "description": "Collaborative note taking, wiki and documentation",
+  "category": "documents",
+  "alternativeTo": [
+    "Notion",
+    "Google Docs"
+  ],
+  "homepage": "https://docs.la-suite.eu/",
+  "icon": "https://github.com/suitenumerique.png?size=256",
+  "stars": 17007
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Highlight",
+  "repo": "highlight/highlight",
+  "description": "Full-stack monitoring with session replay, errors and logs",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "LogRocket"
+  ],
+  "homepage": "https://app.highlight.io",
+  "icon": "https://github.com/highlight.png?size=256",
+  "stars": 9393
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Graylog",
+  "repo": "Graylog2/graylog2-server",
+  "description": "Log management and analysis",
+  "category": "analytics",
+  "alternativeTo": [
+    "Splunk"
+  ],
+  "homepage": "https://www.graylog.org",
+  "icon": "https://github.com/Graylog2.png?size=256",
+  "stars": 8183
+}

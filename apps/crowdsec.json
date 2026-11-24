@@ -1,0 +1,12 @@
+{
+  "name": "CrowdSec",
+  "repo": "crowdsecurity/crowdsec",
+  "description": "Collaborative intrusion prevention and WAF",
+  "category": "security",
+  "alternativeTo": [
+    "Cloudflare WAF"
+  ],
+  "homepage": "https://docs.crowdsec.net",
+  "icon": "https://github.com/crowdsecurity.png?size=256",
+  "stars": 15782
+}

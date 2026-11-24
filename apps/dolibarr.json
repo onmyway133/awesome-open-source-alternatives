@@ -1,0 +1,13 @@
+{
+  "name": "Dolibarr",
+  "repo": "Dolibarr/dolibarr",
+  "description": "ERP and CRM for small and medium businesses",
+  "category": "business",
+  "alternativeTo": [
+    "NetSuite",
+    "QuickBooks"
+  ],
+  "homepage": "https://www.dolibarr.org",
+  "icon": "https://github.com/Dolibarr.png?size=256",
+  "stars": 7897
+}

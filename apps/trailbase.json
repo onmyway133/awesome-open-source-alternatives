@@ -1,0 +1,12 @@
+{
+  "name": "TrailBase",
+  "repo": "trailbaseio/trailbase",
+  "description": "Single-executable app server with type-safe APIs and realtime",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://trailbase.io",
+  "icon": "https://github.com/trailbaseio.png?size=256",
+  "stars": 5780
+}

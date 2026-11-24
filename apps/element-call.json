@@ -1,0 +1,13 @@
+{
+  "name": "Element Call",
+  "repo": "element-hq/element-call",
+  "description": "Group video calls powered by Matrix",
+  "category": "communication",
+  "alternativeTo": [
+    "Zoom",
+    "Google Meet"
+  ],
+  "homepage": "https://call.element.io",
+  "icon": "https://github.com/element-hq.png?size=256",
+  "stars": 1030
+}

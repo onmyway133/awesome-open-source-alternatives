@@ -1,0 +1,12 @@
+{
+  "name": "Decap CMS",
+  "repo": "decaporg/decap-cms",
+  "description": "Git-based CMS for static sites",
+  "category": "backend",
+  "alternativeTo": [
+    "Contentful"
+  ],
+  "homepage": "https://decapcms.org",
+  "icon": "https://github.com/decaporg.png?size=256",
+  "stars": 19501
+}

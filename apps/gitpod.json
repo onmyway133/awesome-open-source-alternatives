@@ -1,0 +1,12 @@
+{
+  "name": "Gitpod",
+  "repo": "gitpod-io/gitpod",
+  "description": "On-demand cloud development environments",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "GitHub Codespaces"
+  ],
+  "homepage": "https://www.gitpod.io",
+  "icon": "https://github.com/gitpod-io.png?size=256",
+  "stars": 13800
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Apache APISIX",
+  "repo": "apache/apisix",
+  "description": "Cloud-native API and AI gateway",
+  "category": "backend",
+  "alternativeTo": [
+    "Apigee"
+  ],
+  "homepage": "https://apisix.apache.org/blog/",
+  "icon": "https://github.com/apache.png?size=256",
+  "stars": 17366
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Blender",
+  "repo": "blender/blender",
+  "description": "3D creation suite for modeling, animation and rendering",
+  "category": "design",
+  "alternativeTo": [
+    "Maya",
+    "Cinema 4D",
+    "3ds Max"
+  ],
+  "homepage": "https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror",
+  "icon": "https://github.com/blender.png?size=256",
+  "stars": 22455
+}

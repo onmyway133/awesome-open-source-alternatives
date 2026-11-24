@@ -1,0 +1,12 @@
+{
+  "name": "Tabby",
+  "repo": "TabbyML/tabby",
+  "description": "Self-hosted AI coding assistant",
+  "category": "ai",
+  "alternativeTo": [
+    "GitHub Copilot"
+  ],
+  "homepage": "https://tabbyml.com",
+  "icon": "https://github.com/TabbyML.png?size=256",
+  "stars": 33925
+}

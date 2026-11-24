@@ -1,0 +1,13 @@
+{
+  "name": "HumHub",
+  "repo": "humhub/humhub",
+  "description": "Enterprise social network for teams and communities",
+  "category": "communication",
+  "alternativeTo": [
+    "Workplace from Meta",
+    "Viva Engage"
+  ],
+  "homepage": "https://www.humhub.com",
+  "icon": "https://github.com/humhub.png?size=256",
+  "stars": 6792
+}

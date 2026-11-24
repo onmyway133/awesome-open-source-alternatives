@@ -1,0 +1,12 @@
+{
+  "name": "Kodi",
+  "repo": "xbmc/xbmc",
+  "description": "Home theater media center",
+  "category": "media",
+  "alternativeTo": [
+    "Plex"
+  ],
+  "homepage": "https://kodi.tv/",
+  "icon": "https://github.com/xbmc.png?size=256",
+  "stars": 21532
+}

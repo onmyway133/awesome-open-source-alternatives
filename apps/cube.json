@@ -1,0 +1,12 @@
+{
+  "name": "Cube",
+  "repo": "cube-js/cube",
+  "description": "Semantic layer for BI and embedded analytics",
+  "category": "search-data",
+  "alternativeTo": [
+    "Looker"
+  ],
+  "homepage": "https://cube.dev",
+  "icon": "https://github.com/cube-js.png?size=256",
+  "stars": 21290
+}

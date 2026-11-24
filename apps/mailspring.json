@@ -1,0 +1,13 @@
+{
+  "name": "Mailspring",
+  "repo": "Foundry376/Mailspring",
+  "description": "Fast email client with unified inbox",
+  "category": "communication",
+  "alternativeTo": [
+    "Spark",
+    "Airmail"
+  ],
+  "homepage": "https://getmailspring.com/",
+  "icon": "https://github.com/Foundry376.png?size=256",
+  "stars": 18027
+}

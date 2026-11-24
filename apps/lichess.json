@@ -1,0 +1,12 @@
+{
+  "name": "Lichess",
+  "repo": "lichess-org/lila",
+  "description": "Free online chess server",
+  "category": "other",
+  "alternativeTo": [
+    "Chess.com"
+  ],
+  "homepage": "https://lichess.org",
+  "icon": "https://github.com/lichess-org.png?size=256",
+  "stars": 19015
+}

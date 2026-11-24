@@ -1,0 +1,13 @@
+{
+  "name": "Zotero",
+  "repo": "zotero/zotero",
+  "description": "Collect, organize, annotate and cite research",
+  "category": "documents",
+  "alternativeTo": [
+    "Mendeley",
+    "EndNote"
+  ],
+  "homepage": "https://www.zotero.org",
+  "icon": "https://github.com/zotero.png?size=256",
+  "stars": 16028
+}

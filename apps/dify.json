@@ -1,0 +1,12 @@
+{
+  "name": "Dify",
+  "repo": "langgenius/dify",
+  "description": "Platform to build AI apps and agent workflows",
+  "category": "ai",
+  "alternativeTo": [
+    "OpenAI GPTs"
+  ],
+  "homepage": "https://dify.ai",
+  "icon": "https://github.com/langgenius.png?size=256",
+  "stars": 161843
+}

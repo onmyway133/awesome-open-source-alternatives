@@ -1,0 +1,13 @@
+{
+  "name": "Wazuh",
+  "repo": "wazuh/wazuh",
+  "description": "Security platform for threat detection and response",
+  "category": "security",
+  "alternativeTo": [
+    "Splunk",
+    "CrowdStrike"
+  ],
+  "homepage": "https://wazuh.com/",
+  "icon": "https://github.com/wazuh.png?size=256",
+  "stars": 17892
+}

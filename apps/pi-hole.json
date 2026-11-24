@@ -1,0 +1,12 @@
+{
+  "name": "Pi-hole",
+  "repo": "pi-hole/pi-hole",
+  "description": "Network-wide ad blocking DNS",
+  "category": "security",
+  "alternativeTo": [
+    "NextDNS"
+  ],
+  "homepage": "https://pi-hole.net",
+  "icon": "https://github.com/pi-hole.png?size=256",
+  "stars": 62205
+}

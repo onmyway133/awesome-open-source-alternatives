@@ -1,0 +1,13 @@
+{
+  "name": "solidtime",
+  "repo": "solidtime-io/solidtime",
+  "description": "Modern time tracking for freelancers and teams",
+  "category": "productivity",
+  "alternativeTo": [
+    "Toggl Track",
+    "Clockify"
+  ],
+  "homepage": "https://www.solidtime.io",
+  "icon": "https://github.com/solidtime-io.png?size=256",
+  "stars": 9142
+}

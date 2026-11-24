@@ -1,0 +1,13 @@
+{
+  "name": "Redash",
+  "repo": "getredash/redash",
+  "description": "Query, visualize and share data",
+  "category": "search-data",
+  "alternativeTo": [
+    "Tableau",
+    "Looker"
+  ],
+  "homepage": "http://redash.io/",
+  "icon": "https://github.com/getredash.png?size=256",
+  "stars": 28901
+}

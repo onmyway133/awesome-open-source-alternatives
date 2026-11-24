@@ -1,0 +1,12 @@
+{
+  "name": "Firecamp",
+  "repo": "firecamp-dev/firecamp",
+  "description": "API client for REST, GraphQL and WebSockets",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "Postman"
+  ],
+  "homepage": "https://firecamp.dev",
+  "icon": "https://github.com/firecamp-dev.png?size=256",
+  "stars": 2620
+}

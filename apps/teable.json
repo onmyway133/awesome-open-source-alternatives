@@ -1,0 +1,12 @@
+{
+  "name": "Teable",
+  "repo": "teableio/teable",
+  "description": "No-code Postgres database with a spreadsheet interface",
+  "category": "productivity",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "https://teable.ai",
+  "icon": "https://github.com/teableio.png?size=256",
+  "stars": 22016
+}

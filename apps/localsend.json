@@ -1,0 +1,12 @@
+{
+  "name": "LocalSend",
+  "repo": "localsend/localsend",
+  "description": "Share files to nearby devices without the internet",
+  "category": "media",
+  "alternativeTo": [
+    "AirDrop"
+  ],
+  "homepage": "https://localsend.org",
+  "icon": "https://github.com/localsend.png?size=256",
+  "stars": 100636
+}

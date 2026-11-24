@@ -1,0 +1,13 @@
+{
+  "name": "OpenProject",
+  "repo": "opf/openproject",
+  "description": "Project management for classic, agile and hybrid teams",
+  "category": "productivity",
+  "alternativeTo": [
+    "Jira",
+    "Microsoft Project"
+  ],
+  "homepage": "https://www.openproject.org",
+  "icon": "https://github.com/opf.png?size=256",
+  "stars": 17692
+}

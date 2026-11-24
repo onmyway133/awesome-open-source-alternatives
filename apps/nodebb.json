@@ -1,0 +1,13 @@
+{
+  "name": "NodeBB",
+  "repo": "NodeBB/NodeBB",
+  "description": "Modern forum software on Node.js",
+  "category": "communication",
+  "alternativeTo": [
+    "Circle",
+    "vBulletin"
+  ],
+  "homepage": "https://nodebb.org",
+  "icon": "https://github.com/NodeBB.png?size=256",
+  "stars": 15251
+}

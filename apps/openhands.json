@@ -1,0 +1,12 @@
+{
+  "name": "OpenHands",
+  "repo": "OpenHands/OpenHands",
+  "description": "AI software engineering agents",
+  "category": "ai",
+  "alternativeTo": [
+    "Devin"
+  ],
+  "homepage": "https://openhands.dev",
+  "icon": "https://github.com/OpenHands.png?size=256",
+  "stars": 94235
+}

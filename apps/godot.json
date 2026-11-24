@@ -1,0 +1,13 @@
+{
+  "name": "Godot",
+  "repo": "godotengine/godot",
+  "description": "2D and 3D game engine",
+  "category": "other",
+  "alternativeTo": [
+    "Unity",
+    "Unreal Engine"
+  ],
+  "homepage": "https://godotengine.org",
+  "icon": "https://github.com/godotengine.png?size=256",
+  "stars": 120718
+}

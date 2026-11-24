@@ -1,0 +1,12 @@
+{
+  "name": "Lightdash",
+  "repo": "lightdash/lightdash",
+  "description": "BI tool on top of your dbt project",
+  "category": "search-data",
+  "alternativeTo": [
+    "Looker"
+  ],
+  "homepage": "https://lightdash.com",
+  "icon": "https://github.com/lightdash.png?size=256",
+  "stars": 6250
+}

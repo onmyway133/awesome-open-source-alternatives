@@ -1,0 +1,12 @@
+{
+  "name": "Flagr",
+  "repo": "openflagr/flagr",
+  "description": "Feature flags, A/B tests and dynamic config",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "LaunchDarkly"
+  ],
+  "homepage": "https://openflagr.github.io/flagr",
+  "icon": "https://github.com/openflagr.png?size=256",
+  "stars": 2616
+}

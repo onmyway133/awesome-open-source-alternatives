@@ -1,0 +1,12 @@
+{
+  "name": "Convex",
+  "repo": "convex/convex-backend",
+  "description": "Reactive backend with database and server functions",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://docs.convex.dev",
+  "icon": "https://github.com/convex.png?size=256",
+  "stars": 12813
+}

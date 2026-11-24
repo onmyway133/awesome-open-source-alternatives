@@ -1,0 +1,12 @@
+{
+  "name": "RawTherapee",
+  "repo": "RawTherapee/RawTherapee",
+  "description": "Raw photo processing",
+  "category": "design",
+  "alternativeTo": [
+    "Adobe Lightroom"
+  ],
+  "homepage": "https://rawtherapee.com",
+  "icon": "https://github.com/RawTherapee.png?size=256",
+  "stars": 4306
+}

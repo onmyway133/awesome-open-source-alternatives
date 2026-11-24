@@ -1,0 +1,13 @@
+{
+  "name": "Jan",
+  "repo": "janhq/jan",
+  "description": "Run AI models offline on your computer",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT",
+    "LM Studio"
+  ],
+  "homepage": "https://jan.ai/",
+  "icon": "https://github.com/janhq.png?size=256",
+  "stars": 46078
+}

@@ -1,0 +1,12 @@
+{
+  "name": "APITable",
+  "repo": "apitable/apitable",
+  "description": "API-oriented spreadsheet database",
+  "category": "productivity",
+  "alternativeTo": [
+    "Airtable"
+  ],
+  "homepage": "https://aitable.ai",
+  "icon": "https://github.com/apitable.png?size=256",
+  "stars": 15674
+}

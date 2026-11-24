@@ -1,0 +1,12 @@
+{
+  "name": "OpenCut",
+  "repo": "OpenCut-app/OpenCut",
+  "description": "Video editor for web, desktop and mobile",
+  "category": "media",
+  "alternativeTo": [
+    "CapCut"
+  ],
+  "homepage": "https://opencut.app",
+  "icon": "https://github.com/OpenCut-app.png?size=256",
+  "stars": 99306
+}

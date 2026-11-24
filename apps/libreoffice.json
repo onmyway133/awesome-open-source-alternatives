@@ -1,0 +1,12 @@
+{
+  "name": "LibreOffice",
+  "repo": "LibreOffice/core",
+  "description": "Office suite with documents, spreadsheets and presentations",
+  "category": "documents",
+  "alternativeTo": [
+    "Microsoft Office"
+  ],
+  "homepage": "https://www.libreoffice.org/",
+  "icon": "https://github.com/LibreOffice.png?size=256",
+  "stars": 4691
+}

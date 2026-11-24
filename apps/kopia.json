@@ -1,0 +1,13 @@
+{
+  "name": "Kopia",
+  "repo": "kopia/kopia",
+  "description": "Fast, encrypted backups with deduplication",
+  "category": "media",
+  "alternativeTo": [
+    "Backblaze",
+    "Arq"
+  ],
+  "homepage": "https://kopia.io",
+  "icon": "https://github.com/kopia.png?size=256",
+  "stars": 14810
+}

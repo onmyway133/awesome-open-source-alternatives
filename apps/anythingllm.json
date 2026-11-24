@@ -1,0 +1,12 @@
+{
+  "name": "AnythingLLM",
+  "repo": "Mintplex-Labs/anything-llm",
+  "description": "All-in-one AI app to chat with your documents",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT"
+  ],
+  "homepage": "https://anythingllm.com",
+  "icon": "https://github.com/Mintplex-Labs.png?size=256",
+  "stars": 68604
+}

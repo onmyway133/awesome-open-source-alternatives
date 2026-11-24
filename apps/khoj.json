@@ -1,0 +1,13 @@
+{
+  "name": "Khoj",
+  "repo": "khoj-ai/khoj",
+  "description": "AI second brain to search and chat with your notes and the web",
+  "category": "ai",
+  "alternativeTo": [
+    "ChatGPT",
+    "Perplexity"
+  ],
+  "homepage": "https://khoj.dev",
+  "icon": "https://github.com/khoj-ai.png?size=256",
+  "stars": 38232
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gotify",
+  "repo": "gotify/server",
+  "description": "Self-hosted server to send and receive push notifications",
+  "category": "communication",
+  "alternativeTo": [
+    "Pushover",
+    "Pushbullet"
+  ],
+  "homepage": "https://gotify.net",
+  "icon": "https://github.com/gotify.png?size=256",
+  "stars": 16231
+}

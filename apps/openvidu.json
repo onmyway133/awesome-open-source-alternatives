@@ -1,0 +1,13 @@
+{
+  "name": "OpenVidu",
+  "repo": "OpenVidu/openvidu",
+  "description": "Self-hosted realtime video and audio for your apps",
+  "category": "communication",
+  "alternativeTo": [
+    "Twilio Video",
+    "Vonage Video"
+  ],
+  "homepage": "https://openvidu.io",
+  "icon": "https://github.com/OpenVidu.png?size=256",
+  "stars": 2150
+}

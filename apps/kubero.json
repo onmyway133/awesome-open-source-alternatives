@@ -1,0 +1,12 @@
+{
+  "name": "Kubero",
+  "repo": "kubero-dev/kubero",
+  "description": "Self-hosted PaaS on Kubernetes",
+  "category": "backend",
+  "alternativeTo": [
+    "Heroku"
+  ],
+  "homepage": "https://demo.kubero.dev",
+  "icon": "https://github.com/kubero-dev.png?size=256",
+  "stars": 4482
+}

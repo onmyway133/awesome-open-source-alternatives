@@ -1,0 +1,13 @@
+{
+  "name": "Flarum",
+  "repo": "flarum/flarum",
+  "description": "Simple forum software for communities",
+  "category": "communication",
+  "alternativeTo": [
+    "Circle",
+    "vBulletin"
+  ],
+  "homepage": "https://flarum.org",
+  "icon": "https://github.com/flarum.png?size=256",
+  "stars": 16444
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NetBird",
+  "repo": "netbirdio/netbird",
+  "description": "WireGuard-based network that connects people, machines and agents",
+  "category": "security",
+  "alternativeTo": [
+    "Tailscale",
+    "Zscaler"
+  ],
+  "homepage": "https://netbird.io",
+  "icon": "https://github.com/netbirdio.png?size=256",
+  "stars": 31253
+}

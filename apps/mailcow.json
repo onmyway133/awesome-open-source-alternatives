@@ -1,0 +1,13 @@
+{
+  "name": "mailcow",
+  "repo": "mailcow/mailcow-dockerized",
+  "description": "Mail server suite with webmail, calendar and contacts",
+  "category": "communication",
+  "alternativeTo": [
+    "Google Workspace",
+    "Microsoft Exchange"
+  ],
+  "homepage": "https://mailcow.email",
+  "icon": "https://github.com/mailcow.png?size=256",
+  "stars": 13865
+}

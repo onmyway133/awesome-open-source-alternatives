@@ -1,0 +1,13 @@
+{
+  "name": "Aider",
+  "repo": "Aider-AI/aider",
+  "description": "AI pair programming in your terminal",
+  "category": "ai",
+  "alternativeTo": [
+    "GitHub Copilot",
+    "Cursor"
+  ],
+  "homepage": "https://aider.chat/",
+  "icon": "https://github.com/Aider-AI.png?size=256",
+  "stars": 50240
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Huly",
+  "repo": "hcengineering/platform",
+  "description": "All-in-one project management, chat, docs and HR",
+  "category": "productivity",
+  "alternativeTo": [
+    "Linear",
+    "Jira",
+    "Slack",
+    "Notion"
+  ],
+  "homepage": "https://huly.io",
+  "icon": "https://github.com/hcengineering.png?size=256",
+  "stars": 28183
+}

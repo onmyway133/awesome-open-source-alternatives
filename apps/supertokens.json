@@ -1,0 +1,14 @@
+{
+  "name": "SuperTokens",
+  "repo": "supertokens/supertokens-core",
+  "description": "Authentication with login, sessions and multi-tenancy",
+  "category": "security",
+  "alternativeTo": [
+    "Auth0",
+    "Firebase Auth",
+    "AWS Cognito"
+  ],
+  "homepage": "https://supertokens.com",
+  "icon": "https://github.com/supertokens.png?size=256",
+  "stars": 15348
+}

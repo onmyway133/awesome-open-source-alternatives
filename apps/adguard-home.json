@@ -1,0 +1,12 @@
+{
+  "name": "AdGuard Home",
+  "repo": "AdguardTeam/AdGuardHome",
+  "description": "Network-wide ad and tracker blocking DNS server",
+  "category": "security",
+  "alternativeTo": [
+    "NextDNS"
+  ],
+  "homepage": "https://adguard.com/adguard-home/overview.html",
+  "icon": "https://github.com/AdguardTeam.png?size=256",
+  "stars": 38810
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tolgee",
+  "repo": "tolgee/tolgee-platform",
+  "description": "Localization platform for developers and translators",
+  "category": "other",
+  "alternativeTo": [
+    "Lokalise",
+    "Crowdin"
+  ],
+  "homepage": "https://tolgee.io",
+  "icon": "https://github.com/tolgee.png?size=256",
+  "stars": 4162
+}

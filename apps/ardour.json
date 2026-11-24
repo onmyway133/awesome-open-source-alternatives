@@ -1,0 +1,13 @@
+{
+  "name": "Ardour",
+  "repo": "Ardour/ardour",
+  "description": "Digital audio workstation for recording and mixing",
+  "category": "media",
+  "alternativeTo": [
+    "Pro Tools",
+    "Logic Pro"
+  ],
+  "homepage": "http://ardour.org",
+  "icon": "https://github.com/Ardour.png?size=256",
+  "stars": 5458
+}

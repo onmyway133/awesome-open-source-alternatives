@@ -1,0 +1,12 @@
+{
+  "name": "Invidious",
+  "repo": "iv-org/invidious",
+  "description": "Privacy-friendly YouTube front end",
+  "category": "media",
+  "alternativeTo": [
+    "YouTube"
+  ],
+  "homepage": "https://invidious.io",
+  "icon": "https://github.com/iv-org.png?size=256",
+  "stars": 26145
+}

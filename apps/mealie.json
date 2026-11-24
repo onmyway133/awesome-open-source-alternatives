@@ -1,0 +1,12 @@
+{
+  "name": "Mealie",
+  "repo": "mealie-recipes/mealie",
+  "description": "Recipe manager and meal planner",
+  "category": "other",
+  "alternativeTo": [
+    "Paprika"
+  ],
+  "homepage": "https://docs.mealie.io",
+  "icon": "https://github.com/mealie-recipes.png?size=256",
+  "stars": 13981
+}

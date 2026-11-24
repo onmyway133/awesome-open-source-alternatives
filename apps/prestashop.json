@@ -1,0 +1,13 @@
+{
+  "name": "PrestaShop",
+  "repo": "PrestaShop/PrestaShop",
+  "description": "Platform to build and run an online store",
+  "category": "business",
+  "alternativeTo": [
+    "Shopify",
+    "BigCommerce"
+  ],
+  "homepage": "https://www.prestashop-project.org/",
+  "icon": "https://github.com/PrestaShop.png?size=256",
+  "stars": 9265
+}

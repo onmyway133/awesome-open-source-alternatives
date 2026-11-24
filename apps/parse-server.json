@@ -1,0 +1,12 @@
+{
+  "name": "Parse Server",
+  "repo": "parse-community/parse-server",
+  "description": "Backend server for apps",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://parseplatform.org",
+  "icon": "https://github.com/parse-community.png?size=256",
+  "stars": 21400
+}

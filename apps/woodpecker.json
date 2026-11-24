@@ -1,0 +1,13 @@
+{
+  "name": "Woodpecker",
+  "repo": "woodpecker-ci/woodpecker",
+  "description": "Simple, extensible CI engine",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "CircleCI",
+    "GitHub Actions"
+  ],
+  "homepage": "https://woodpecker-ci.org",
+  "icon": "https://github.com/woodpecker-ci.png?size=256",
+  "stars": 8279
+}

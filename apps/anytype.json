@@ -1,0 +1,12 @@
+{
+  "name": "Anytype",
+  "repo": "anyproto/anytype-ts",
+  "description": "Local-first, encrypted workspace for notes and databases",
+  "category": "productivity",
+  "alternativeTo": [
+    "Notion"
+  ],
+  "homepage": "https://anytype.io",
+  "icon": "https://github.com/anyproto.png?size=256",
+  "stars": 9139
+}

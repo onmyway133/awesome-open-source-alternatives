@@ -1,0 +1,13 @@
+{
+  "name": "LimeSurvey",
+  "repo": "LimeSurvey/LimeSurvey",
+  "description": "Online survey platform",
+  "category": "documents",
+  "alternativeTo": [
+    "SurveyMonkey",
+    "Typeform"
+  ],
+  "homepage": "https://www.limesurvey.org",
+  "icon": "https://github.com/LimeSurvey.png?size=256",
+  "stars": 3806
+}

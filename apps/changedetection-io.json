@@ -1,0 +1,11 @@
+{
+  "name": "changedetection.io",
+  "repo": "dgtlmoon/changedetection.io",
+  "description": "Monitor websites for changes and get alerts",
+  "category": "automation",
+  "alternativeTo": [
+    "Visualping"
+  ],
+  "homepage": "https://changedetection.io",
+  "stars": 36009
+}

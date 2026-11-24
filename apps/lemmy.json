@@ -1,0 +1,12 @@
+{
+  "name": "Lemmy",
+  "repo": "LemmyNet/lemmy",
+  "description": "Federated link aggregator and discussion forum",
+  "category": "marketing",
+  "alternativeTo": [
+    "Reddit"
+  ],
+  "homepage": "https://join-lemmy.org",
+  "icon": "https://github.com/LemmyNet.png?size=256",
+  "stars": 14688
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Frigate",
+  "repo": "blakeblackshear/frigate",
+  "description": "NVR with real-time object detection for IP cameras",
+  "category": "other",
+  "alternativeTo": [
+    "Ring",
+    "Nest Aware"
+  ],
+  "homepage": "https://frigate.video",
+  "stars": 37907
+}

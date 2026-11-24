@@ -1,0 +1,13 @@
+{
+  "name": "Healthchecks",
+  "repo": "healthchecks/healthchecks",
+  "description": "Cron job monitoring",
+  "category": "analytics",
+  "alternativeTo": [
+    "Cronitor",
+    "Dead Man's Snitch"
+  ],
+  "homepage": "https://healthchecks.io",
+  "icon": "https://github.com/healthchecks.png?size=256",
+  "stars": 10545
+}

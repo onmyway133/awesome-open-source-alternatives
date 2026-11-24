@@ -1,0 +1,13 @@
+{
+  "name": "MuseScore",
+  "repo": "musescore/MuseScore",
+  "description": "Music notation and composition",
+  "category": "media",
+  "alternativeTo": [
+    "Sibelius",
+    "Finale"
+  ],
+  "homepage": "https://musescore.org",
+  "icon": "https://github.com/musescore.png?size=256",
+  "stars": 15482
+}

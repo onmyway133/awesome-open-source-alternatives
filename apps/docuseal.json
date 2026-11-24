@@ -1,0 +1,12 @@
+{
+  "name": "DocuSeal",
+  "repo": "docusealco/docuseal",
+  "description": "Create, fill and sign digital documents",
+  "category": "business",
+  "alternativeTo": [
+    "DocuSign"
+  ],
+  "homepage": "https://www.docuseal.com",
+  "icon": "https://github.com/docusealco.png?size=256",
+  "stars": 19145
+}

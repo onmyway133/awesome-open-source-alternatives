@@ -1,0 +1,12 @@
+{
+  "name": "Jitsu",
+  "repo": "jitsucom/jitsu",
+  "description": "Data ingestion engine, a Segment alternative",
+  "category": "analytics",
+  "alternativeTo": [
+    "Segment"
+  ],
+  "homepage": "https://jitsu.com",
+  "icon": "https://github.com/jitsucom.png?size=256",
+  "stars": 5140
+}

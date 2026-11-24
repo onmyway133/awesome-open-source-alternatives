@@ -1,0 +1,12 @@
+{
+  "name": "Miniflux",
+  "repo": "miniflux/v2",
+  "description": "Minimalist RSS reader",
+  "category": "media",
+  "alternativeTo": [
+    "Feedly"
+  ],
+  "homepage": "https://miniflux.app",
+  "icon": "https://github.com/miniflux.png?size=256",
+  "stars": 9973
+}

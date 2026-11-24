@@ -1,0 +1,12 @@
+{
+  "name": "Coder",
+  "repo": "coder/coder",
+  "description": "Self-hosted cloud development environments",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "GitHub Codespaces"
+  ],
+  "homepage": "https://coder.com",
+  "icon": "https://github.com/coder.png?size=256",
+  "stars": 17465
+}

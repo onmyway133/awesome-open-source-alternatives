@@ -1,0 +1,12 @@
+{
+  "name": "Form.io",
+  "repo": "formio/formio",
+  "description": "Form and data management platform",
+  "category": "documents",
+  "alternativeTo": [
+    "Jotform"
+  ],
+  "homepage": "https://form.io",
+  "icon": "https://github.com/formio.png?size=256",
+  "stars": 2327
+}

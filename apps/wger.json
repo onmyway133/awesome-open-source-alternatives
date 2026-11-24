@@ -1,0 +1,12 @@
+{
+  "name": "wger",
+  "repo": "wger-project/wger",
+  "description": "Workout, nutrition and weight tracker",
+  "category": "other",
+  "alternativeTo": [
+    "MyFitnessPal"
+  ],
+  "homepage": "https://wger.de",
+  "icon": "https://github.com/wger-project.png?size=256",
+  "stars": 7314
+}

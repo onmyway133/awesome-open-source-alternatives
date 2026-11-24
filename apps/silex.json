@@ -1,0 +1,12 @@
+{
+  "name": "Silex",
+  "repo": "silexlabs/Silex",
+  "description": "Visual website builder for static sites",
+  "category": "design",
+  "alternativeTo": [
+    "Webflow"
+  ],
+  "homepage": "https://www.silex.me",
+  "icon": "https://github.com/silexlabs.png?size=256",
+  "stars": 3044
+}

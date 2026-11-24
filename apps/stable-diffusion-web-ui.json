@@ -1,0 +1,11 @@
+{
+  "name": "Stable Diffusion web UI",
+  "repo": "AUTOMATIC1111/stable-diffusion-webui",
+  "description": "Web interface for Stable Diffusion",
+  "category": "ai",
+  "alternativeTo": [
+    "Midjourney",
+    "DALL-E"
+  ],
+  "stars": 165370
+}

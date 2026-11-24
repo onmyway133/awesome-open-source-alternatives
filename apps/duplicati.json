@@ -1,0 +1,12 @@
+{
+  "name": "Duplicati",
+  "repo": "duplicati/duplicati",
+  "description": "Encrypted backups to cloud storage",
+  "category": "media",
+  "alternativeTo": [
+    "Backblaze",
+    "Carbonite"
+  ],
+  "icon": "https://github.com/duplicati.png?size=256",
+  "stars": 15226
+}

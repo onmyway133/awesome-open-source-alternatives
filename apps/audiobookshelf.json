@@ -1,0 +1,11 @@
+{
+  "name": "Audiobookshelf",
+  "repo": "advplyr/audiobookshelf",
+  "description": "Self-hosted audiobook and podcast server",
+  "category": "media",
+  "alternativeTo": [
+    "Audible"
+  ],
+  "homepage": "https://audiobookshelf.org",
+  "stars": 15110
+}

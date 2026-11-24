@@ -1,0 +1,12 @@
+{
+  "name": "Gatus",
+  "repo": "TwiN/gatus",
+  "description": "Health dashboard and status page",
+  "category": "analytics",
+  "alternativeTo": [
+    "Pingdom",
+    "Statuspage"
+  ],
+  "homepage": "https://gatus.io",
+  "stars": 12888
+}

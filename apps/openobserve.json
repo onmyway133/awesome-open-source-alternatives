@@ -1,0 +1,13 @@
+{
+  "name": "OpenObserve",
+  "repo": "openobserve/openobserve",
+  "description": "Observability platform for logs, metrics and traces",
+  "category": "analytics",
+  "alternativeTo": [
+    "Datadog",
+    "Splunk"
+  ],
+  "homepage": "https://openobserve.ai",
+  "icon": "https://github.com/openobserve.png?size=256",
+  "stars": 23178
+}

@@ -1,0 +1,13 @@
+{
+  "name": "authentik",
+  "repo": "goauthentik/authentik",
+  "description": "Identity provider with SSO",
+  "category": "security",
+  "alternativeTo": [
+    "Okta",
+    "Auth0"
+  ],
+  "homepage": "https://goauthentik.io",
+  "icon": "https://github.com/goauthentik.png?size=256",
+  "stars": 26448
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ComfyUI",
+  "repo": "Comfy-Org/ComfyUI",
+  "description": "Node-based interface for image and video generation",
+  "category": "ai",
+  "alternativeTo": [
+    "Midjourney"
+  ],
+  "homepage": "https://www.comfy.org/",
+  "icon": "https://github.com/Comfy-Org.png?size=256",
+  "stars": 148441
+}

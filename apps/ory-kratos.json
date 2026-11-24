@@ -1,0 +1,12 @@
+{
+  "name": "Ory Kratos",
+  "repo": "ory/kratos",
+  "description": "Headless identity and user management",
+  "category": "security",
+  "alternativeTo": [
+    "Auth0"
+  ],
+  "homepage": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=kratos",
+  "icon": "https://github.com/ory.png?size=256",
+  "stars": 13970
+}

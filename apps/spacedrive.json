@@ -1,0 +1,13 @@
+{
+  "name": "Spacedrive",
+  "repo": "spacedriveapp/spacedrive",
+  "description": "Cross-platform file manager powered by a virtual distributed filesystem",
+  "category": "media",
+  "alternativeTo": [
+    "Finder",
+    "File Explorer"
+  ],
+  "homepage": "https://spacedrive.com",
+  "icon": "https://github.com/spacedriveapp.png?size=256",
+  "stars": 39596
+}

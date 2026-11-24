@@ -1,0 +1,10 @@
+{
+  "name": "Headscale",
+  "repo": "juanfont/headscale",
+  "description": "Self-hosted Tailscale control server",
+  "category": "security",
+  "alternativeTo": [
+    "Tailscale"
+  ],
+  "stars": 46042
+}

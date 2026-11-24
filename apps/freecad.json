@@ -1,0 +1,13 @@
+{
+  "name": "FreeCAD",
+  "repo": "FreeCAD/FreeCAD",
+  "description": "Parametric 3D modeler for engineering",
+  "category": "design",
+  "alternativeTo": [
+    "SolidWorks",
+    "Fusion 360"
+  ],
+  "homepage": "https://www.freecad.org",
+  "icon": "https://github.com/FreeCAD.png?size=256",
+  "stars": 35758
+}

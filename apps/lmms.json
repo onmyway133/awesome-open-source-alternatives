@@ -1,0 +1,12 @@
+{
+  "name": "LMMS",
+  "repo": "LMMS/lmms",
+  "description": "Music production with a beat editor and synths",
+  "category": "media",
+  "alternativeTo": [
+    "FL Studio"
+  ],
+  "homepage": "https://lmms.io",
+  "icon": "https://github.com/LMMS.png?size=256",
+  "stars": 10722
+}

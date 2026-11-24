@@ -1,0 +1,14 @@
+{
+  "name": "Dokploy",
+  "repo": "Dokploy/dokploy",
+  "description": "Self-hosted PaaS to deploy apps and databases",
+  "category": "backend",
+  "alternativeTo": [
+    "Vercel",
+    "Heroku",
+    "Netlify"
+  ],
+  "homepage": "https://dokploy.com/",
+  "icon": "https://github.com/Dokploy.png?size=256",
+  "stars": 38679
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tandoor Recipes",
+  "repo": "TandoorRecipes/recipes",
+  "description": "Recipe manager, meal planner and shopping list",
+  "category": "other",
+  "alternativeTo": [
+    "Paprika"
+  ],
+  "homepage": "https://docs.tandoor.dev",
+  "icon": "https://github.com/TandoorRecipes.png?size=256",
+  "stars": 8745
+}

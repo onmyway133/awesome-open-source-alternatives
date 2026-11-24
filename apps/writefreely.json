@@ -1,0 +1,13 @@
+{
+  "name": "WriteFreely",
+  "repo": "writefreely/writefreely",
+  "description": "Minimal, Markdown-based blogging platform",
+  "category": "marketing",
+  "alternativeTo": [
+    "Medium",
+    "Substack"
+  ],
+  "homepage": "https://writefreely.org",
+  "icon": "https://github.com/writefreely.png?size=256",
+  "stars": 5299
+}

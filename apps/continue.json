@@ -1,0 +1,12 @@
+{
+  "name": "Continue",
+  "repo": "continuedev/continue",
+  "description": "AI code assistant for VS Code and JetBrains",
+  "category": "ai",
+  "alternativeTo": [
+    "GitHub Copilot"
+  ],
+  "homepage": "https://continue.dev",
+  "icon": "https://github.com/continuedev.png?size=256",
+  "stars": 36551
+}

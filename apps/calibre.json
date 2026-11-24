@@ -1,0 +1,11 @@
+{
+  "name": "calibre",
+  "repo": "kovidgoyal/calibre",
+  "description": "E-book manager, converter and reader",
+  "category": "documents",
+  "alternativeTo": [
+    "Adobe Digital Editions"
+  ],
+  "homepage": "https://calibre-ebook.com",
+  "stars": 26512
+}

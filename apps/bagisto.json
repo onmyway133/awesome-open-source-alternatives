@@ -1,0 +1,13 @@
+{
+  "name": "Bagisto",
+  "repo": "bagisto/bagisto",
+  "description": "eCommerce and multi-vendor marketplace on Laravel",
+  "category": "business",
+  "alternativeTo": [
+    "Shopify",
+    "Magento Commerce"
+  ],
+  "homepage": "https://bagisto.com",
+  "icon": "https://github.com/bagisto.png?size=256",
+  "stars": 28414
+}

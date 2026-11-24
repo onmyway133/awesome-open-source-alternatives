@@ -1,0 +1,13 @@
+{
+  "name": "Node-RED",
+  "repo": "node-red/node-red",
+  "description": "Low-code programming for event-driven apps",
+  "category": "automation",
+  "alternativeTo": [
+    "Zapier",
+    "Microsoft Power Automate"
+  ],
+  "homepage": "http://nodered.org",
+  "icon": "https://github.com/node-red.png?size=256",
+  "stars": 23874
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ferdium",
+  "repo": "ferdium/ferdium-app",
+  "description": "All your messaging services in one desktop app",
+  "category": "communication",
+  "alternativeTo": [
+    "Rambox",
+    "Station"
+  ],
+  "homepage": "https://ferdium.org",
+  "icon": "https://github.com/ferdium.png?size=256",
+  "stars": 4810
+}

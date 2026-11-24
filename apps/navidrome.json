@@ -1,0 +1,13 @@
+{
+  "name": "Navidrome",
+  "repo": "navidrome/navidrome",
+  "description": "Music server and streamer for your own collection",
+  "category": "media",
+  "alternativeTo": [
+    "Spotify",
+    "Apple Music"
+  ],
+  "homepage": "https://www.navidrome.org",
+  "icon": "https://github.com/navidrome.png?size=256",
+  "stars": 24941
+}

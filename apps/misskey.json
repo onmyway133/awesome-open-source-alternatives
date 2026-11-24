@@ -1,0 +1,13 @@
+{
+  "name": "Misskey",
+  "repo": "misskey-dev/misskey",
+  "description": "Federated microblogging platform",
+  "category": "marketing",
+  "alternativeTo": [
+    "X",
+    "Twitter"
+  ],
+  "homepage": "https://misskey-hub.net/",
+  "icon": "https://github.com/misskey-dev.png?size=256",
+  "stars": 11400
+}

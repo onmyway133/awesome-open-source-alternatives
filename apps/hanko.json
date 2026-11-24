@@ -1,0 +1,13 @@
+{
+  "name": "Hanko",
+  "repo": "teamhanko/hanko",
+  "description": "Passkey-first authentication",
+  "category": "security",
+  "alternativeTo": [
+    "Auth0",
+    "Clerk"
+  ],
+  "homepage": "https://www.hanko.io",
+  "icon": "https://github.com/teamhanko.png?size=256",
+  "stars": 9075
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LocalAI",
+  "repo": "mudler/LocalAI",
+  "description": "Drop-in replacement for the OpenAI API, running locally",
+  "category": "ai",
+  "alternativeTo": [
+    "OpenAI API"
+  ],
+  "homepage": "https://localai.io",
+  "stars": 50522
+}

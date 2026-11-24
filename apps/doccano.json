@@ -1,0 +1,11 @@
+{
+  "name": "doccano",
+  "repo": "doccano/doccano",
+  "description": "Text annotation tool for machine learning",
+  "category": "ai",
+  "alternativeTo": [
+    "Labelbox"
+  ],
+  "icon": "https://github.com/doccano.png?size=256",
+  "stars": 10814
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KiCad",
+  "repo": "KiCad/kicad-source-mirror",
+  "description": "Electronics design suite for schematics and PCBs",
+  "category": "design",
+  "alternativeTo": [
+    "Altium Designer",
+    "Eagle"
+  ],
+  "homepage": "https://gitlab.com/kicad/code/kicad",
+  "icon": "https://github.com/KiCad.png?size=256",
+  "stars": 3181
+}

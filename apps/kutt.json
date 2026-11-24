@@ -1,0 +1,12 @@
+{
+  "name": "Kutt",
+  "repo": "thedevs-network/kutt",
+  "description": "URL shortener with custom domains and stats",
+  "category": "marketing",
+  "alternativeTo": [
+    "Bitly"
+  ],
+  "homepage": "https://kutt.to",
+  "icon": "https://github.com/thedevs-network.png?size=256",
+  "stars": 11218
+}

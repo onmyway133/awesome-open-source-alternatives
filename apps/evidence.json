@@ -1,0 +1,13 @@
+{
+  "name": "Evidence",
+  "repo": "evidence-dev/evidence",
+  "description": "Business intelligence as code with SQL and Markdown",
+  "category": "search-data",
+  "alternativeTo": [
+    "Tableau",
+    "Looker"
+  ],
+  "homepage": "https://evidence.dev",
+  "icon": "https://github.com/evidence-dev.png?size=256",
+  "stars": 7145
+}

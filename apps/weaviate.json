@@ -1,0 +1,12 @@
+{
+  "name": "Weaviate",
+  "repo": "weaviate/weaviate",
+  "description": "Vector database for search and RAG",
+  "category": "ai",
+  "alternativeTo": [
+    "Pinecone"
+  ],
+  "homepage": "https://weaviate.io/developers/weaviate/",
+  "icon": "https://github.com/weaviate.png?size=256",
+  "stars": 16959
+}

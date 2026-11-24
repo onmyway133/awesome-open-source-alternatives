@@ -1,0 +1,12 @@
+{
+  "name": "FeatBit",
+  "repo": "featbit/featbit",
+  "description": "Self-hosted feature flag platform",
+  "category": "developer-tools",
+  "alternativeTo": [
+    "LaunchDarkly"
+  ],
+  "homepage": "https://www.featbit.co/",
+  "icon": "https://github.com/featbit.png?size=256",
+  "stars": 2006
+}

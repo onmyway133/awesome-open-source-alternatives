@@ -1,0 +1,13 @@
+{
+  "name": "LiveKit",
+  "repo": "livekit/livekit",
+  "description": "Realtime video, audio and data for apps and AI agents",
+  "category": "communication",
+  "alternativeTo": [
+    "Twilio Video",
+    "Agora"
+  ],
+  "homepage": "https://docs.livekit.io",
+  "icon": "https://github.com/livekit.png?size=256",
+  "stars": 22376
+}

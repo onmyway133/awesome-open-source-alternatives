@@ -1,0 +1,12 @@
+{
+  "name": "Instant",
+  "repo": "instantdb/instant",
+  "description": "Realtime database for frontend apps",
+  "category": "backend",
+  "alternativeTo": [
+    "Firebase"
+  ],
+  "homepage": "https://instantdb.com",
+  "icon": "https://github.com/instantdb.png?size=256",
+  "stars": 10583
+}

@@ -12,6 +12,14 @@ const formatStars = (n) => (n >= 1000 ? `${(n / 1000).toFixed(n >= 10000 ? 0 : 1
 const anchor = (name) => name.toLowerCase().replace(/[^a-z0-9 -]/g, '').replace(/ /g, '-')
 const cell = (text) => text.replace(/\|/g, '\\|')
 
+// Other lists worth browsing; also where many entries here were found.
+const SEE_ALSO = [
+  ['RunaCapital/awesome-oss-alternatives', 'Open source alternatives to SaaS products, startup focused'],
+  ['btw-so/open-source-alternatives', 'Open source alternatives to popular software'],
+  ['awesome-selfhosted/awesome-selfhosted', 'Free software you can host yourself'],
+  ['onmyway133/awesome-open-source-mac-apps', 'Open source Mac apps'],
+]
+
 const categories = loadCategories()
 const apps = loadApps().map(({ slug, app }) => ({ slug, ...app }))
 const sections = categories
@@ -47,6 +55,7 @@ for (const c of sections) {
   }
   lines.push('')
 }
+lines.push('## See also', '', ...SEE_ALSO.map(([r, d]) => `- [${r}](https://github.com/${r}): ${d}`), '')
 lines.push('## Contributing', '', 'See [CONTRIBUTING.md](CONTRIBUTING.md).', '', '## License', '', 'CC0 1.0 Universal', '')
 
 const readme = lines.join('\n')

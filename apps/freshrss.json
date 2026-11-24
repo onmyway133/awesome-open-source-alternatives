@@ -1,0 +1,13 @@
+{
+  "name": "FreshRSS",
+  "repo": "FreshRSS/FreshRSS",
+  "description": "Self-hosted RSS feed aggregator",
+  "category": "media",
+  "alternativeTo": [
+    "Feedly",
+    "Inoreader"
+  ],
+  "homepage": "https://freshrss.org",
+  "icon": "https://github.com/FreshRSS.png?size=256",
+  "stars": 16662
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ente",
+  "repo": "ente/ente",
+  "description": "End-to-end encrypted photo storage and authenticator",
+  "category": "media",
+  "alternativeTo": [
+    "Google Photos",
+    "iCloud Photos"
+  ],
+  "homepage": "https://ente.com",
+  "icon": "https://github.com/ente.png?size=256",
+  "stars": 30457
+}

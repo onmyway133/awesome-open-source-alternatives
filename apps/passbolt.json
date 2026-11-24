@@ -1,0 +1,13 @@
+{
+  "name": "Passbolt",
+  "repo": "passbolt/passbolt_api",
+  "description": "Password manager for teams",
+  "category": "security",
+  "alternativeTo": [
+    "1Password",
+    "LastPass"
+  ],
+  "homepage": "https://passbolt.com",
+  "icon": "https://github.com/passbolt.png?size=256",
+  "stars": 6247
+}

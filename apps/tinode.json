@@ -1,0 +1,12 @@
+{
+  "name": "Tinode",
+  "repo": "tinode/chat",
+  "description": "Instant messaging platform with mobile and web clients",
+  "category": "communication",
+  "alternativeTo": [
+    "WhatsApp",
+    "Telegram"
+  ],
+  "icon": "https://github.com/tinode.png?size=256",
+  "stars": 13581
+}

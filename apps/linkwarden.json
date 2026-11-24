@@ -1,0 +1,13 @@
+{
+  "name": "Linkwarden",
+  "repo": "linkwarden/linkwarden",
+  "description": "Collaborative bookmark manager that saves pages",
+  "category": "productivity",
+  "alternativeTo": [
+    "Raindrop.io",
+    "Pocket"
+  ],
+  "homepage": "https://linkwarden.app",
+  "icon": "https://github.com/linkwarden.png?size=256",
+  "stars": 20519
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ZITADEL",
+  "repo": "zitadel/zitadel",
+  "description": "Identity and access management",
+  "category": "security",
+  "alternativeTo": [
+    "Auth0",
+    "Okta"
+  ],
+  "homepage": "https://zitadel.com",
+  "icon": "https://github.com/zitadel.png?size=256",
+  "stars": 15645
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vendure",
+  "repo": "vendurehq/vendure",
+  "description": "Headless commerce platform on TypeScript and NestJS",
+  "category": "business",
+  "alternativeTo": [
+    "Shopify Plus",
+    "commercetools"
+  ],
+  "homepage": "https://www.vendure.io",
+  "icon": "https://github.com/vendurehq.png?size=256",
+  "stars": 8615
+}
